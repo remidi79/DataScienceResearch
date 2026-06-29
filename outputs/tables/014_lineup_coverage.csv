@@ -1,0 +1,5 @@
+metric,value,coverage
+lineup_rows,450,1.0
+players_with_position,350,0.7777777777777778
+players_with_positive_minutes,338,0.7511111111111111
+known_role_family_rows,350,0.7777777777777778

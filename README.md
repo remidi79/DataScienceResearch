@@ -201,3 +201,19 @@ scripts/run_licensed_backfill_safe.sh --source-root /home/platform/DataPlatform 
 ```
 
 If all gates pass, run the Experiment 009 rerun command documented in `outputs/reports/013_exact_next_commands.md`.
+
+## Experiment 014
+
+Event-derived / open-data fallback feasibility. This is a research-only fallback study and does not replace licensed StatsBomb provider-direct stats.
+
+Run:
+
+```bash
+cd /home/platform/DataScienceResearch
+uv run python experiments/014_event_derived_fallback_feasibility.py --data-root /home/platform/DataPlatform/tmp/master_data_warehouse
+```
+
+Generated outputs include `outputs/tables/014_*`, `outputs/reports/014_event_derived_fallback_feasibility.*`, `outputs/reports/014_event_derived_data_contract.*`, `notebooks/014_event_derived_fallback_feasibility.ipynb`, and `outputs/figures/014_*.png`.
+
+Warning: event-derived metrics are formula-based research artefacts. They are not provider-direct metrics, not licensed provider backfill, not production scoring, and not a production bundle.
+

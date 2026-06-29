@@ -766,3 +766,48 @@ Run safe backfill only after credentials are detected and dry-run passes.
 
 ### Next Steps
 Experiment 014 should execute the gate-approved research rerun only after the warehouse passes.
+
+## Experiment 014 — Event-Derived / Open-Data Fallback Feasibility
+
+### Objective
+Evaluate whether local event and lineup data can support a separate event-derived research fallback.
+
+### Football Hypothesis
+Some player/team actions can be measured from events with clear lineage, but provider-direct aggregate metrics and tracking-dependent dimensions cannot be reproduced safely without licensed provider data.
+
+### Dataset
+Local approved `/home/platform/DataPlatform/tmp/master_data_warehouse` silver events, lineups, matches, and existing provider-direct marts for comparison only.
+
+### Normalization Used
+No score normalization or coefficient fitting. Player-season diagnostic percentiles are role-local research indicators only.
+
+### Feature Selection
+Only safely or partially derivable event metrics with explicit required event types and fields.
+
+### Algorithms
+Event grouping, formula-based aggregation, coverage auditing, role-dimension support classification, and provider comparison correlations where comparable data exists.
+
+### Evaluation
+Field coverage, lineage completeness, sample size, role support, provider-comparison diagnostics, and production-blocking checks.
+
+### Results
+Event-derived player-match, team-match, and player-season research tables were generated with explicit non-provider-direct lineage. No production score was computed.
+
+### Figures
+See `outputs/figures/014_*.png`.
+
+### Discussion
+The fallback layer can support research diagnostics for some roles/dimensions, but it cannot replace licensed StatsBomb provider-direct stats.
+
+### Limitations
+Limited sample, field-dependent formulas, provider definition mismatch, no tracking/360/video replacement.
+
+### Decision
+Proceed only as research fallback feasibility. Do not use as production data.
+
+### Production Recommendation
+Do not declare production readiness. Continue licensed provider backfill path for production-grade warehouse completeness.
+
+### Next Steps
+Experiment 015, if requested, should prototype a separate research-only event-derived score layer or return to licensed backfill after credentials are active.
+

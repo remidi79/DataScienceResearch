@@ -1,0 +1,16 @@
+{
+  "experiment_id": "014",
+  "name": "event_derived_research_fallback_contract",
+  "central_datawarehouse_principle": "All outputs are research artefacts under the MyTeam/DataPlatform warehouse context; StatsBomb is treated as a provider source, not the platform boundary.",
+  "lineage": "event_derived_research_fallback_not_provider_direct",
+  "not_provider_direct": true,
+  "not_production_ready": true,
+  "metrics_are_formula_based": true,
+  "confidence_field_dependent": true,
+  "cannot_replace_licensed_provider_stats_without_validation": true,
+  "primary_tables": [
+    "014_event_derived_player_match_metrics.csv",
+    "014_event_derived_team_match_metrics.csv",
+    "014_event_derived_player_season_metrics.csv"
+  ]
+}

@@ -1,0 +1,7 @@
+role,available_dimensions,blocked_dimensions,supported_metrics_count,eligible_players,sample_size,reliability,interpretability,feasibility_status
+GK,5,0,8,0,18,low,medium_event_lineage,partially_feasible_research_only
+CB,4,0,8,0,44,low,medium_event_lineage,partially_feasible_research_only
+FB,4,0,7,0,50,low,medium_event_lineage,partially_feasible_research_only
+MID,4,0,8,0,107,low,medium_event_lineage,partially_feasible_research_only
+WINGER,4,0,6,0,31,low,medium_event_lineage,partially_feasible_research_only
+CF,4,0,8,0,45,low,medium_event_lineage,partially_feasible_research_only

@@ -1,0 +1,34 @@
+metric_name,derivation_status,required_event_types,required_fields,formula_description,limitations,confidence_level,comparable_to_provider_metric,provider_metric_equivalent,safe_for_research_score
+minutes,partially_derivable,Starting XI;Substitution,lineups.positions,Estimate from lineup position intervals,Depends on lineup interval quality,medium,True,minutes,True
+appearances,safely_derivable,lineups,player_provider_id;match_provider_id,One player-lineup row per match,Bench-only semantics may vary,high,True,appearances,True
+starts,partially_derivable,lineups,positions.start_reason,Starting XI role interval,Requires start_reason,medium,True,starts,True
+touches,partially_derivable,Miscontrol;Duel;Player On;Foul Committed;Block;Clearance;Interception;Ball Receipt*;Goal Keeper;Player Off;Half End;Pass;50/50;Carry;Referee Ball-Drop;Dribble;Dribbled Past;Shot;Half Start;Bad Behaviour;Pressure;Foul Won;Tactical Shift;Shield;Ball Recovery;Injury Stoppage;Error;Substitution;Starting XI;Offside;Dispossessed,player_provider_id,Count on-ball event rows,Provider touch definition may differ,medium,True,touches,True
+possessions_involved,partially_derivable,Miscontrol;Duel;Player On;Foul Committed;Block;Clearance;Interception;Ball Receipt*;Goal Keeper;Player Off;Half End;Pass;50/50;Carry;Referee Ball-Drop;Dribble;Dribbled Past;Shot;Half Start;Bad Behaviour;Pressure;Foul Won;Tactical Shift;Shield;Ball Recovery;Injury Stoppage;Error;Substitution;Starting XI;Offside;Dispossessed,raw_payload.possession,Unique possessions by player/team,Possession IDs must be present,medium,True,possessions,True
+ball_receipts,safely_derivable,Ball Receipt*,event_type,Count ball receipt events,Depends on exact event naming,high,True,ball_receipts,True
+carries,safely_derivable,Carry,event_type,Count carry events,None,high,True,carries,True
+pressures,safely_derivable,Pressure,event_type,Count pressure events,Provider aggregate pressure models may differ,high,True,pressures,True
+passes,safely_derivable,Pass,event_type,Count pass events,None,high,True,passes,True
+successful_passes,partially_derivable,Pass,pass.outcome,Passes with no unsuccessful outcome,StatsBomb semantics depend on outcome null,medium,True,successful_passes,True
+progressive_passes,partially_derivable,Pass,x;end_x,Passes advancing at least 10 units into advanced zones,"Research proxy, not provider direct",medium,True,progressive_passes,True
+passes_into_final_third,partially_derivable,Pass,end_x,Pass end_x >= 80,Pitch orientation assumptions,medium,True,passes_into_final_third,True
+passes_into_box,partially_derivable,Pass,end_x;end_y,Pass end location inside box,Pitch coordinate assumptions,medium,True,passes_into_box,True
+carries_into_final_third,partially_derivable,Carry,end_x,Carry end_x >= 80,Pitch orientation assumptions,medium,True,carries_into_final_third,True
+carries_into_box,partially_derivable,Carry,end_x;end_y,Carry end location inside box,Pitch coordinate assumptions,medium,True,carries_into_box,True
+shots,safely_derivable,Shot,event_type,Count shot events,None,high,True,shots,True
+shots_on_target,partially_derivable,Shot,shot.outcome,Shot outcomes Goal/Saved/Saved to Post,Outcome taxonomy required,medium,True,shots_on_target,True
+goals,safely_derivable,Shot,shot.outcome,Shot outcome Goal,Own goals separate,high,True,goals,True
+non_penalty_shots,partially_derivable,Shot,shot.type,Shots excluding Penalty type,Requires shot type,medium,True,non_penalty_shots,True
+xg,safely_derivable,Shot,shot.statsbomb_xg,Sum StatsBomb event xG if field exists,Provider field; do not recalculate model,high,True,xg,True
+obv,safely_derivable,Miscontrol;Duel;Player On;Foul Committed;Block;Clearance;Interception;Ball Receipt*;Goal Keeper;Player Off;Half End;Pass;50/50;Carry;Referee Ball-Drop;Dribble;Dribbled Past;Shot;Half Start;Bad Behaviour;Pressure;Foul Won;Tactical Shift;Shield;Ball Recovery;Injury Stoppage;Error;Substitution;Starting XI;Offside;Dispossessed,raw_payload.obv_*,Sum event OBV fields if present,"Provider event value field, not model recompute",high,True,obv,True
+key_passes,partially_derivable,Pass,pass.shot_assist;pass.goal_assist,Count pass shot/goal assists,Depends on nested flags,medium,True,key_passes,True
+assists,partially_derivable,Pass,pass.goal_assist,Count goal-assist pass flags,Provider assist definition may differ,medium,True,assists,True
+ball_recoveries,safely_derivable,Ball Recovery,event_type,Count ball recovery events,None,high,True,ball_recoveries,True
+interceptions,safely_derivable,Interception,event_type,Count interceptions,None,high,True,interceptions,True
+clearances,safely_derivable,Clearance,event_type,Count clearances,None,high,True,clearances,True
+blocks,safely_derivable,Block,event_type,Count blocks,None,high,True,blocks,True
+fouls,safely_derivable,Foul Committed,event_type,Count committed fouls,None,high,True,fouls,True
+aerial_duels,partially_derivable,Duel,duel.type,Count aerial-labeled duels,Nested duel taxonomy required,medium,True,aerials,True
+dribbles,safely_derivable,Dribble,event_type,Count dribble events,None,high,True,dribbles,True
+turnovers,partially_derivable,Dispossessed;Miscontrol,event_type,Dispossessed + miscontrol events,Incomplete turnover definition,medium,True,turnovers,True
+360_space_metrics,requires_tracking_data,,360 freeze frame/tracking,Cannot derive without 360/tracking/freeze-frame data,Requires licensed data,low,True,360 metrics,False
+pressing_intensity_model,requires_provider_direct_stats,Pressure,provider aggregate model,Event pressure counts do not reproduce provider model,Provider-specific model,low,True,aggression/pressure model,False

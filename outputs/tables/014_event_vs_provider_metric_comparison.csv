@@ -1,0 +1,8 @@
+grain,event_metric,provider_metric,status,rows_compared,pearson,spearman,mean_absolute_difference,median_absolute_difference,coverage_difference,missingness_difference
+player_match,passes_attempted,passes,comparison_available,350,0.999853853043468,0.9998354320231589,0.09142857142857143,0.0,0.0,0.0
+player_match,passes_completed,successful_passes,comparison_available,350,1.0,1.0,0.0,0.0,0.0,0.0
+player_match,goals,goals,comparison_available,350,1.0,0.9999999999999998,0.0,0.0,0.0,0.0
+player_match,pressures,pressures,comparison_available,325,1.0,1.0,0.0,0.0,0.0714285714285714,-0.07142857142857142
+player_match,ball_recoveries,ball_recoveries,comparison_available,350,0.8004913809357812,0.8228619046776444,2.7085714285714286,2.0,0.0,0.0
+player_match,interceptions,interceptions,comparison_available,350,0.8862499444206943,0.8981707284465562,0.17142857142857143,0.0,0.0,0.0
+player_match,clearances,clearances,comparison_available,350,1.0,0.9999999999999999,0.0,0.0,0.0,0.0
