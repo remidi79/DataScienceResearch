@@ -22,7 +22,13 @@ Set credentials in the active shell, a systemd EnvironmentFile, or CI secret sto
 ## 3. Check detection without printing values
 
 ```bash
-python scripts/check_statsbomb_credentials.py --json
+python3 scripts/check_statsbomb_credentials.py --json
+```
+
+If `python3` is unavailable, use:
+
+```bash
+uv run python scripts/check_statsbomb_credentials.py --json
 ```
 
 ## 4. Run Experiment 012 credentials preflight

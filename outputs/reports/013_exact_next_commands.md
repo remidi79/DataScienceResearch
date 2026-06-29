@@ -8,9 +8,11 @@ Run only:
 
 ```bash
 cd /home/platform/DataScienceResearch
-python scripts/check_statsbomb_credentials.py --json
+python3 scripts/check_statsbomb_credentials.py --json
 uv run python experiments/012_licensed_provider_backfill.py --source-root /home/platform/DataPlatform --target-root /home/platform/DataPlatform/tmp/master_data_warehouse_full --run-mode credentials_preflight
 ```
+
+If `python3` is unavailable, use `uv run python scripts/check_statsbomb_credentials.py --json` for the credential helper.
 
 ## Section B — After credentials are available
 

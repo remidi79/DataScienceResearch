@@ -1,7 +1,7 @@
 {
   "experiment_id": "012",
   "title": "Licensed Provider Backfill Execution & Gate Validation",
-  "generated_at": "2026-06-29T14:04:09.336367+00:00",
+  "generated_at": "2026-06-29T15:18:03.809842+00:00",
   "source_root": "/home/platform/DataPlatform",
   "target_root": "/home/platform/DataPlatform/tmp/master_data_warehouse_full",
   "run_mode": "credentials_preflight",

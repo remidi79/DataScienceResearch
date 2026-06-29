@@ -34,8 +34,22 @@ done
 
 cd "$(dirname "$0")/.."
 
-python scripts/check_statsbomb_credentials.py --json >/tmp/hermes_statsbomb_credential_check.json || {
+if command -v python3 >/dev/null 2>&1; then
+  PYTHON_BIN=(python3)
+elif command -v python >/dev/null 2>&1; then
+  PYTHON_BIN=(python)
+elif command -v uv >/dev/null 2>&1; then
+  PYTHON_BIN=(uv run python)
+else
+  echo "No supported Python runtime found. Install python3 or uv." >&2
+  exit 127
+fi
+
+echo "Selected Python runtime: ${PYTHON_BIN[*]}"
+
+"${PYTHON_BIN[@]}" scripts/check_statsbomb_credentials.py --json >/tmp/hermes_statsbomb_credential_check.json || {
   echo "StatsBomb credentials are not detected. No provider access attempted." >&2
+  rm -f /tmp/hermes_statsbomb_credential_check.json
   exit 2
 }
 rm -f /tmp/hermes_statsbomb_credential_check.json

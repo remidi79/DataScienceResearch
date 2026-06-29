@@ -181,6 +181,18 @@ Helper scripts:
 - `scripts/check_statsbomb_credentials.py`
 - `scripts/run_licensed_backfill_safe.sh`
 
+Credential helper runtime on this host:
+
+```bash
+python3 scripts/check_statsbomb_credentials.py --json
+```
+
+If `python3` is unavailable, use:
+
+```bash
+uv run python scripts/check_statsbomb_credentials.py --json
+```
+
 After credentials are available:
 
 ```bash
