@@ -1,0 +1,15 @@
+check_name,value,status,details,research_only,production_ready
+player_match_rows,350,PASS,Experiment 014 player-match event-derived input,True,False
+player_season_rows,295,PASS,Experiment 014 player-season event-derived input,True,False
+available_roles,CB;CF;FB;GK;MID;WINGER,PASS,Roles observed in player-season input,True,False
+derivation_confidence,medium,PASS,Player-match derivation confidence values,True,False
+safely_derivable_metrics,15,PASS,Metric catalog safe metrics,True,False
+partially_derivable_metrics,16,PASS,Metric catalog partial metrics,True,False
+blocked_dimensions,0,PASS,Role dimensions blocked in 014 support matrix,True,False
+production_readiness,false,PASS,Experiment 015 is not production-ready and cannot replace licensed provider stats,True,False
+role_feasibility_GK,partially_feasible_research_only,PASS,Reliability=low; eligible_players=0,True,False
+role_feasibility_CB,partially_feasible_research_only,PASS,Reliability=low; eligible_players=0,True,False
+role_feasibility_FB,partially_feasible_research_only,PASS,Reliability=low; eligible_players=0,True,False
+role_feasibility_MID,partially_feasible_research_only,PASS,Reliability=low; eligible_players=0,True,False
+role_feasibility_WINGER,partially_feasible_research_only,PASS,Reliability=low; eligible_players=0,True,False
+role_feasibility_CF,partially_feasible_research_only,PASS,Reliability=low; eligible_players=0,True,False

@@ -1,0 +1,49 @@
+{
+  "experiment_id": "015",
+  "title": "Event-Derived Research Scouting Score Prototype",
+  "generated_at": "2026-06-29T17:43:24Z",
+  "data_root": "/home/platform/DataPlatform/tmp/master_data_warehouse",
+  "research_only": true,
+  "production_ready": false,
+  "not_provider_direct": true,
+  "provider_credentials_used": false,
+  "fake_data_created": false,
+  "unauthorized_scraping": false,
+  "production_coefficients_changed": false,
+  "production_bundle_generated": false,
+  "experiment_016_started": false,
+  "input_player_match_rows": 350,
+  "input_player_season_rows": 295,
+  "local_match_count": 11,
+  "roles_observed": [
+    "CB",
+    "CF",
+    "FB",
+    "GK",
+    "MID",
+    "WINGER"
+  ],
+  "metrics_selected_by_role": {
+    "CB": 9,
+    "CF": 11,
+    "FB": 8,
+    "GK": 7,
+    "MID": 12,
+    "WINGER": 8
+  },
+  "metrics_excluded_by_role": {
+    "CB": 1,
+    "FB": 1,
+    "WINGER": 1
+  },
+  "players_scored_by_role": {
+    "CB": 44,
+    "CF": 41,
+    "FB": 47,
+    "GK": 18,
+    "MID": 107,
+    "WINGER": 31
+  },
+  "similarity_rows": 8616,
+  "validation_result": "PASS"
+}

@@ -811,3 +811,44 @@ Do not declare production readiness. Continue licensed provider backfill path fo
 ### Next Steps
 Experiment 015, if requested, should prototype a separate research-only event-derived score layer or return to licensed backfill after credentials are active.
 
+## Experiment 015 — Event-Derived Research Scouting Score Prototype
+
+### Objective
+Create a research-only event-derived player scouting score prototype from Experiment 014 outputs.
+
+### Football Hypothesis
+A transparent role-specific prototype can summarize available event-derived dimensions for exploratory scouting, but the result is not provider-direct and is not production-ready.
+
+### Dataset
+Experiment 014 event-derived player-match, player-season, metric catalog, role support, and feasibility tables plus local warehouse context from `/home/platform/DataPlatform/tmp/master_data_warehouse`.
+
+### Normalization Used
+Role-specific percentiles, z-scores, min-max 0-100, and confidence-adjusted values. GK is never normalized against CF or other out-of-role populations.
+
+### Feature Selection
+Only safely derivable and partially derivable event metrics with usable player-season columns are included. Provider-direct, tracking, video, and unavailable metrics are excluded.
+
+### Algorithms
+Equal-weight dimension scoring, confidence-adjusted dimension averaging, role-local research scouting score, same-role cosine similarity with Euclidean fallback, and row-level explainability.
+
+### Evaluation
+Validation checks enforce 0-100 bounds, role-local normalization, research-only labels, production_ready=false, low-sample flags, no fake data, no provider-direct replacement, no production coefficients, no production bundle, and no Experiment 016.
+
+### Results
+Research-only scouting score, dimension score, normalized metric, similarity, explanation, validation, report, notebook, and figures were generated.
+
+### Discussion
+The prototype is useful for methodology review and product discussion only. It is blocked from production by sample size, missing licensed provider access, and absent production validation.
+
+### Limitations
+Only 11 local matches, 1 competition, 1 season, low sample sizes for every role, event-derived formulas only, and no licensed provider-direct replacement.
+
+### Decision
+Keep as research-only prototype. Do not expose as production score.
+
+### Production Recommendation
+Do not ship. Resume licensed provider backfill and full-population validation before any production score work.
+
+### Next Steps
+Review feature/dimension definitions and, only after explicit approval, either improve the research prototype with more data or return to licensed provider-direct ingestion.
+

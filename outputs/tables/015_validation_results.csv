@@ -1,0 +1,15 @@
+check_name,status,details,research_only,production_ready
+scores_0_100,PASS,Research scouting scores within 0-100,True,False
+score_percentiles_0_100,PASS,Role percentiles within 0-100,True,False
+dimension_scores_0_100,PASS,Dimension scores within 0-100,True,False
+dimension_percentiles_0_100,PASS,Dimension percentiles within 0-100,True,False
+similarity_0_100,PASS,Similarity scores within 0-100,True,False
+same_role_similarity_only,PASS,Similarity generated only within same role loop,True,False
+role_specific_normalization,PASS,Normalization rows include role and never compare GK with CF directly,True,False
+research_only_flag_present,PASS,All table outputs carry research_only,True,False
+production_ready_false,PASS,production_ready false wherever present,True,False
+low_sample_flags_present,PASS,Low sample flags present on scores,True,False
+no_fake_data_created,PASS,No fake rows generated; only Experiment 014 outputs read,True,False
+no_provider_direct_replacement_claimed,PASS,Outputs explicitly marked not provider-direct and research-only,True,False
+no_production_bundle,PASS,No production bundle generated,True,False
+experiment_016_not_started,PASS,No Experiment 016 file present,True,False

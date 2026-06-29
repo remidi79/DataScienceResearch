@@ -217,3 +217,18 @@ Generated outputs include `outputs/tables/014_*`, `outputs/reports/014_event_der
 
 Warning: event-derived metrics are formula-based research artefacts. They are not provider-direct metrics, not licensed provider backfill, not production scoring, and not a production bundle.
 
+## Experiment 015
+
+Event-derived research scouting score prototype. This is research/demo only, event-derived, not provider-direct, not production-ready, and does not replace licensed StatsBomb provider-direct scouting scores.
+
+Run:
+
+```bash
+cd /home/platform/DataScienceResearch
+uv run python experiments/015_event_derived_research_scouting_score.py --data-root /home/platform/DataPlatform/tmp/master_data_warehouse
+```
+
+Generated outputs include `outputs/tables/015_*`, `outputs/reports/015_event_derived_research_scouting_score.*`, `notebooks/015_event_derived_research_scouting_score.ipynb`, and `outputs/figures/015_*.png`.
+
+Warning: the score is a research-only event-derived prototype. It is not a final scouting score, not a production score, not provider-direct, and not a production bundle.
+
