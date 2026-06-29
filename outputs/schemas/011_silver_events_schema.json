@@ -1,0 +1,20 @@
+{
+  "dataset": "silver_events",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_events.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "match_id",
+    "event_id",
+    "event_type",
+    "team_id",
+    "timestamp"
+  ],
+  "missing_fields": [
+    "match_id",
+    "event_id",
+    "event_type",
+    "team_id",
+    "timestamp"
+  ],
+  "generated_at": "2026-06-29T13:53:54.015359+00:00"
+}

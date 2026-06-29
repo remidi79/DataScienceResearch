@@ -1,0 +1,31 @@
+{
+  "experiment_id": "007",
+  "title": "Production Score Engine, Explainability & Confidence Framework",
+  "generated_at": "2026-06-29T11:00:11.313042+00:00",
+  "data_root": "/home/platform/DataPlatform/tmp/master_data_warehouse",
+  "engine_version": "0.5.0-research-validated",
+  "production_coefficients_changed": false,
+  "production_coefficients_declared": false,
+  "score_schema_roles": [
+    "GK",
+    "CB",
+    "FB",
+    "MID",
+    "WINGER",
+    "CF"
+  ],
+  "dashboard_rows": 6,
+  "gap_rows": 56,
+  "config_driven": true,
+  "remaining_status": "ready_for_full_population_recalibration_not_production_deployment",
+  "generated_outputs": [
+    "outputs/reports/production_score_schema.json",
+    "outputs/reports/confidence_framework.md",
+    "outputs/reports/explainability_framework.md",
+    "outputs/reports/score_engine_architecture.md",
+    "outputs/reports/score_versioning.md",
+    "outputs/tables/production_readiness_dashboard.csv",
+    "outputs/tables/research_gap_analysis.csv",
+    "outputs/reports/future_full_population_pipeline.md"
+  ]
+}

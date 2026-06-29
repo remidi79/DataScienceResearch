@@ -1,0 +1,131 @@
+{
+  "experiment_id": "003",
+  "title": "Scientific Feature Engineering & Normalization",
+  "generated_at": "2026-06-29T09:38:53.195779+00:00",
+  "data_root": "/home/platform/DataPlatform/tmp/master_data_warehouse",
+  "inputs": {
+    "player_season_rows": 489,
+    "ready_metric_rows": 44,
+    "role_resolution_rows": 391
+  },
+  "normalization_methods": [
+    "z_score",
+    "robust_z_score",
+    "percentile_rank",
+    "min_max",
+    "log_transform",
+    "quantile_transform",
+    "winsorized_z_score"
+  ],
+  "role_summary": [
+    {
+      "role_family": "GK",
+      "eligible_players": 12,
+      "ready_metrics": 5,
+      "normalization_decisions": 5,
+      "redundant_pairs": 0,
+      "latent_dimensions": 3
+    },
+    {
+      "role_family": "CB",
+      "eligible_players": 25,
+      "ready_metrics": 9,
+      "normalization_decisions": 9,
+      "redundant_pairs": 0,
+      "latent_dimensions": 9
+    },
+    {
+      "role_family": "FB",
+      "eligible_players": 23,
+      "ready_metrics": 8,
+      "normalization_decisions": 8,
+      "redundant_pairs": 0,
+      "latent_dimensions": 7
+    },
+    {
+      "role_family": "MID",
+      "eligible_players": 34,
+      "ready_metrics": 8,
+      "normalization_decisions": 8,
+      "redundant_pairs": 0,
+      "latent_dimensions": 7
+    },
+    {
+      "role_family": "WINGER",
+      "eligible_players": 25,
+      "ready_metrics": 7,
+      "normalization_decisions": 7,
+      "redundant_pairs": 0,
+      "latent_dimensions": 6
+    },
+    {
+      "role_family": "CF",
+      "eligible_players": 22,
+      "ready_metrics": 7,
+      "normalization_decisions": 7,
+      "redundant_pairs": 0,
+      "latent_dimensions": 4
+    }
+  ],
+  "table_counts": {
+    "metric_statistics": 44,
+    "normalization_methods": 308,
+    "normalization_decisions": 44,
+    "role_benchmarks": 220,
+    "metric_clusters": 44,
+    "feature_redundancy": 0,
+    "latent_dimensions": 44,
+    "pca_variance": 30,
+    "weight_preparation": 44
+  },
+  "figures_generated": 42,
+  "figure_paths": [
+    "outputs/figures/003_GK_distributions.png",
+    "outputs/figures/003_GK_qq_plots.png",
+    "outputs/figures/003_GK_correlation_heatmap.png",
+    "outputs/figures/003_GK_pca_variance.png",
+    "outputs/figures/003_GK_cluster_dendrogram.png",
+    "outputs/figures/003_GK_boxplots.png",
+    "outputs/figures/003_GK_benchmark_distributions.png",
+    "outputs/figures/003_CB_distributions.png",
+    "outputs/figures/003_CB_qq_plots.png",
+    "outputs/figures/003_CB_correlation_heatmap.png",
+    "outputs/figures/003_CB_pca_variance.png",
+    "outputs/figures/003_CB_cluster_dendrogram.png",
+    "outputs/figures/003_CB_boxplots.png",
+    "outputs/figures/003_CB_benchmark_distributions.png",
+    "outputs/figures/003_FB_distributions.png",
+    "outputs/figures/003_FB_qq_plots.png",
+    "outputs/figures/003_FB_correlation_heatmap.png",
+    "outputs/figures/003_FB_pca_variance.png",
+    "outputs/figures/003_FB_cluster_dendrogram.png",
+    "outputs/figures/003_FB_boxplots.png",
+    "outputs/figures/003_FB_benchmark_distributions.png",
+    "outputs/figures/003_MID_distributions.png",
+    "outputs/figures/003_MID_qq_plots.png",
+    "outputs/figures/003_MID_correlation_heatmap.png",
+    "outputs/figures/003_MID_pca_variance.png",
+    "outputs/figures/003_MID_cluster_dendrogram.png",
+    "outputs/figures/003_MID_boxplots.png",
+    "outputs/figures/003_MID_benchmark_distributions.png",
+    "outputs/figures/003_WINGER_distributions.png",
+    "outputs/figures/003_WINGER_qq_plots.png",
+    "outputs/figures/003_WINGER_correlation_heatmap.png",
+    "outputs/figures/003_WINGER_pca_variance.png",
+    "outputs/figures/003_WINGER_cluster_dendrogram.png",
+    "outputs/figures/003_WINGER_boxplots.png",
+    "outputs/figures/003_WINGER_benchmark_distributions.png",
+    "outputs/figures/003_CF_distributions.png",
+    "outputs/figures/003_CF_qq_plots.png",
+    "outputs/figures/003_CF_correlation_heatmap.png",
+    "outputs/figures/003_CF_pca_variance.png",
+    "outputs/figures/003_CF_cluster_dendrogram.png",
+    "outputs/figures/003_CF_boxplots.png",
+    "outputs/figures/003_CF_benchmark_distributions.png"
+  ],
+  "outputs": {
+    "notebook": "notebooks/003_feature_engineering_normalization.ipynb",
+    "tables": "outputs/tables/003_*.csv",
+    "figures": "outputs/figures/003_*.png"
+  }
+}

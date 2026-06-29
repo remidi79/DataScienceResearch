@@ -1,0 +1,16 @@
+{
+  "dataset": "silver_matches",
+  "fields_detected": [],
+  "required_fields": [
+    "match_id",
+    "competition_id",
+    "season_id",
+    "match_date"
+  ],
+  "missing_fields": [
+    "match_id",
+    "competition_id",
+    "season_id",
+    "match_date"
+  ]
+}

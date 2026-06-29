@@ -1,0 +1,7 @@
+role,competition_id,status,available_groups,spearman_rank_correlation,pearson_score_correlation,mean_score_drift,median_score_drift,mean_rank_displacement,top_player_preservation_rate,percentile_drift,confidence_interval_drift,experiment_008_status
+CB,ALL,not_enough_competitions,1,,,,,,,,,not_recomputed_full_population_unavailable
+CF,ALL,not_enough_competitions,1,,,,,,,,,not_recomputed_full_population_unavailable
+FB,ALL,not_enough_competitions,1,,,,,,,,,not_recomputed_full_population_unavailable
+GK,ALL,not_enough_competitions,1,,,,,,,,,not_recomputed_full_population_unavailable
+MID,ALL,not_enough_competitions,1,,,,,,,,,not_recomputed_full_population_unavailable
+WINGER,ALL,not_enough_competitions,1,,,,,,,,,not_recomputed_full_population_unavailable

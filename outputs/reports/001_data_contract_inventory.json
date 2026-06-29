@@ -1,0 +1,75 @@
+{
+  "experiment_id": "001",
+  "title": "StatsBomb Data Contract and Metric Universe Inventory",
+  "generated_at": "2026-06-29T09:07:34.014587+00:00",
+  "data_root": "/home/platform/DataPlatform/tmp/master_data_warehouse",
+  "row_counts": {
+    "player_match_stats_direct": 350,
+    "team_match_stats_direct": 20,
+    "player_season_stats_direct": 489,
+    "team_season_stats_direct": 16,
+    "silver_events": 35082,
+    "silver_lineups": 450,
+    "silver_matches": 11
+  },
+  "metric_universe_total": 608,
+  "metrics_by_grain": [
+    {
+      "grain": "player_season_stats_direct",
+      "metric_count": 205
+    },
+    {
+      "grain": "team_season_stats_direct",
+      "metric_count": 186
+    },
+    {
+      "grain": "team_match_stats_direct",
+      "metric_count": 184
+    },
+    {
+      "grain": "player_match_stats_direct",
+      "metric_count": 161
+    }
+  ],
+  "role_family_counts": [
+    {
+      "role_family": "UNKNOWN",
+      "players": 85
+    },
+    {
+      "role_family": "MID",
+      "players": 82
+    },
+    {
+      "role_family": "WINGER",
+      "players": 54
+    },
+    {
+      "role_family": "FB",
+      "players": 50
+    },
+    {
+      "role_family": "CF",
+      "players": 45
+    },
+    {
+      "role_family": "CB",
+      "players": 44
+    },
+    {
+      "role_family": "GK",
+      "players": 18
+    }
+  ],
+  "player_season_screen": {
+    "numeric_columns": 158,
+    "near_zero_variance_count": 4,
+    "high_correlation_pairs": 58,
+    "pca_components_for_80pct_variance": 2
+  },
+  "outputs": {
+    "notebook": "notebooks/001_data_contract_inventory.ipynb",
+    "tables": "outputs/tables/001_*.csv",
+    "figures": "outputs/figures/001_*.png"
+  }
+}

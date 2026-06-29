@@ -1,0 +1,847 @@
+role,player_id,player_name,metric,contribution_type,contribution_delta
+CB,3252,Oussama Haddadi,obv_pass_90,positive,42.36736161705884
+CB,3252,Oussama Haddadi,aerial_ratio,positive,31.92004849787542
+CB,3252,Oussama Haddadi,op_f3_passes_90,positive,30.828900078597293
+CB,3252,Oussama Haddadi,blocks_per_shot,negative,-57.63263838294116
+CB,3252,Oussama Haddadi,clearance_90,negative,-42.24802299832578
+CB,3252,Oussama Haddadi,obv_defensive_action_90,negative,-23.30954254907109
+CB,7378,Yunis Abdelhamid,aerial_ratio,positive,56.026833309706404
+CB,7378,Yunis Abdelhamid,interceptions_90,positive,54.76366437029412
+CB,7378,Yunis Abdelhamid,op_xgbuildup_90,positive,32.592633405155325
+CB,7378,Yunis Abdelhamid,obv_pass_90,negative,-43.973166690293596
+CB,7378,Yunis Abdelhamid,obv_defensive_action_90,negative,-43.973166690293596
+CB,7378,Yunis Abdelhamid,clearance_90,negative,-40.12701284413975
+CB,49760,Adil Rhaili,aerial_ratio,positive,43.998233811183276
+CB,49760,Adil Rhaili,op_xgbuildup_90,positive,29.293791205766375
+CB,49760,Adil Rhaili,op_f3_passes_90,positive,24.76746458041405
+CB,49760,Adil Rhaili,ball_recoveries_90,negative,-39.769969822200835
+CB,49760,Adil Rhaili,obv_defensive_action_90,negative,-30.21566675289362
+CB,49760,Adil Rhaili,interceptions_90,negative,-28.940662216063362
+CB,67700,Badr Banoun,op_f3_passes_90,positive,33.83305757056067
+CB,67700,Badr Banoun,obv_pass_90,positive,28.880330608173765
+CB,67700,Badr Banoun,op_xgbuildup_90,positive,21.016461986127425
+CB,67700,Badr Banoun,clearance_90,negative,-39.2438655063624
+CB,67700,Badr Banoun,aerial_ratio,negative,-16.37916791035287
+CB,67700,Badr Banoun,ball_recoveries_90,negative,-15.577056142668475
+CB,131244,Ismaël Kandouss,aerial_ratio,positive,32.596649855851815
+CB,131244,Ismaël Kandouss,op_f3_passes_90,positive,20.61892478896433
+CB,131244,Ismaël Kandouss,ball_recoveries_90,positive,18.66169110038542
+CB,131244,Ismaël Kandouss,interceptions_90,negative,-31.736846800526287
+CB,131244,Ismaël Kandouss,clearance_90,negative,-21.688767518727992
+CB,131244,Ismaël Kandouss,obv_pass_90,negative,-20.863526250799843
+CB,138871,Karim El Bounagat,clearance_90,positive,11.119491546514446
+CB,138871,Karim El Bounagat,ball_recoveries_90,positive,10.931051312409338
+CB,138871,Karim El Bounagat,aerial_ratio,positive,10.320470693455768
+CB,138871,Karim El Bounagat,interceptions_90,negative,-26.036700911277673
+CB,138871,Karim El Bounagat,op_f3_passes_90,negative,-19.64973922271632
+CB,138871,Karim El Bounagat,op_xgbuildup_90,negative,-1.7542823004178913
+CB,138918,Marwan Louadni,interceptions_90,positive,34.35343134272391
+CB,138918,Marwan Louadni,op_xgbuildup_90,positive,34.35343134272391
+CB,138918,Marwan Louadni,op_f3_passes_90,positive,18.96881595810852
+CB,138918,Marwan Louadni,clearance_90,negative,-38.72349173419917
+CB,138918,Marwan Louadni,obv_defensive_action_90,negative,-26.86463753504495
+CB,138918,Marwan Louadni,aerial_ratio,negative,-7.43355539705054
+CB,138958,Mouad Bahsain,blocks_per_shot,positive,62.84517175163869
+CB,138958,Mouad Bahsain,obv_defensive_action_90,positive,33.70806841347162
+CB,138958,Mouad Bahsain,obv_pass_90,positive,30.437741219928014
+CB,138958,Mouad Bahsain,interceptions_90,negative,-37.15482824836131
+CB,138958,Mouad Bahsain,ball_recoveries_90,negative,-37.15482824836131
+CB,138958,Mouad Bahsain,op_xgbuildup_90,negative,-37.15482824836131
+CB,138998,Abdellah Khafifi,op_xgbuildup_90,positive,32.32008044854997
+CB,138998,Abdellah Khafifi,aerial_ratio,positive,15.428847010726173
+CB,138998,Abdellah Khafifi,interceptions_90,positive,15.173604947146671
+CB,138998,Abdellah Khafifi,blocks_per_shot,negative,-27.554446877627523
+CB,138998,Abdellah Khafifi,obv_defensive_action_90,negative,-25.988935027882416
+CB,138998,Abdellah Khafifi,ball_recoveries_90,negative,-19.108328435082782
+CB,139023,Amine Aboulfath,clearance_90,positive,24.696457431063664
+CB,139023,Amine Aboulfath,blocks_per_shot,positive,19.70198766417885
+CB,139023,Amine Aboulfath,obv_pass_90,positive,19.307369039039784
+CB,139023,Amine Aboulfath,aerial_ratio,negative,-35.55456443809087
+CB,139023,Amine Aboulfath,ball_recoveries_90,negative,-14.980906370082085
+CB,139023,Amine Aboulfath,op_f3_passes_90,negative,-13.7650810304748
+CB,139556,Bilal El Ouadghiri,obv_pass_90,positive,19.189705639505938
+CB,139556,Bilal El Ouadghiri,obv_defensive_action_90,positive,18.308574515487784
+CB,139556,Bilal El Ouadghiri,aerial_ratio,positive,10.494152139175291
+CB,139556,Bilal El Ouadghiri,interceptions_90,negative,-45.56310120691897
+CB,139556,Bilal El Ouadghiri,ball_recoveries_90,negative,-8.918498603516518
+CB,139556,Bilal El Ouadghiri,op_xgbuildup_90,negative,-6.995146198911428
+CB,157113,Badr Gaddarine,obv_pass_90,positive,42.99297058279941
+CB,157113,Badr Gaddarine,op_f3_passes_90,positive,39.14681673664557
+CB,157113,Badr Gaddarine,ball_recoveries_90,positive,21.568127154343408
+CB,157113,Badr Gaddarine,aerial_ratio,negative,-38.183853193844215
+CB,157113,Badr Gaddarine,op_xgbuildup_90,negative,-32.320832002952315
+CB,157113,Badr Gaddarine,clearance_90,negative,-26.23779864796982
+CB,202502,Soulaimane El Amrani,obv_defensive_action_90,positive,59.75703339129995
+CB,202502,Soulaimane El Amrani,blocks_per_shot,positive,36.116941946094165
+CB,202502,Soulaimane El Amrani,aerial_ratio,positive,3.5580984187958293
+CB,202502,Soulaimane El Amrani,obv_pass_90,negative,-34.60905337006509
+CB,202502,Soulaimane El Amrani,op_f3_passes_90,negative,-23.07059183160355
+CB,202502,Soulaimane El Amrani,op_xgbuildup_90,negative,-20.142619571672153
+CB,313283,Tahar Ahmed Madeira El Khalej,blocks_per_shot,positive,37.41957161775529
+CB,313283,Tahar Ahmed Madeira El Khalej,clearance_90,positive,6.048483689290315
+CB,313283,Tahar Ahmed Madeira El Khalej,aerial_ratio,positive,5.493094917149854
+CB,313283,Tahar Ahmed Madeira El Khalej,interceptions_90,negative,-33.01730540538642
+CB,313283,Tahar Ahmed Madeira El Khalej,op_f3_passes_90,negative,-13.182285541478915
+CB,313283,Tahar Ahmed Madeira El Khalej,op_xgbuildup_90,negative,-5.383033724213348
+CB,314452,Zouhair Marour,op_f3_passes_90,positive,46.71475090391071
+CB,314452,Zouhair Marour,ball_recoveries_90,positive,28.642418321131075
+CB,314452,Zouhair Marour,interceptions_90,positive,7.479893254592021
+CB,314452,Zouhair Marour,clearance_90,negative,-41.74678755762775
+CB,314452,Zouhair Marour,blocks_per_shot,negative,-20.258459811803
+CB,314452,Zouhair Marour,obv_defensive_action_90,negative,-15.664120867449334
+CB,314466,Mohamed Saoud,clearance_90,positive,25.64297394769534
+CB,314466,Mohamed Saoud,ball_recoveries_90,positive,18.057367844279625
+CB,314466,Mohamed Saoud,obv_pass_90,positive,15.9752483444054
+CB,314466,Mohamed Saoud,blocks_per_shot,negative,-33.251256821535435
+CB,314466,Mohamed Saoud,interceptions_90,negative,-17.08230929607941
+CB,314466,Mohamed Saoud,op_xgbuildup_90,negative,-16.82085107479999
+CB,338916,Johnstone Omurwa,clearance_90,positive,48.21752228326618
+CB,338916,Johnstone Omurwa,blocks_per_shot,positive,24.02226111647782
+CB,338916,Johnstone Omurwa,obv_pass_90,positive,18.16151518366432
+CB,338916,Johnstone Omurwa,obv_defensive_action_90,negative,-47.93632387057998
+CB,338916,Johnstone Omurwa,op_f3_passes_90,negative,-44.090170024426136
+CB,338916,Johnstone Omurwa,ball_recoveries_90,negative,-10.664186566181776
+CB,363239,Bilal Soufi,obv_defensive_action_90,positive,47.13768192940719
+CB,363239,Bilal Soufi,clearance_90,positive,24.06075885248412
+CB,363239,Bilal Soufi,blocks_per_shot,positive,23.433650028653993
+CB,363239,Bilal Soufi,interceptions_90,negative,-36.438678318241706
+CB,363239,Bilal Soufi,op_xgbuildup_90,negative,-30.61091679929451
+CB,363239,Bilal Soufi,obv_pass_90,negative,-17.770137518014373
+CB,407555,James Monday Ajako,obv_pass_90,positive,32.218201619535044
+CB,407555,James Monday Ajako,obv_defensive_action_90,positive,22.485128957772567
+CB,407555,James Monday Ajako,ball_recoveries_90,positive,22.36771871662919
+CB,407555,James Monday Ajako,blocks_per_shot,negative,-20.3233385400244
+CB,407555,James Monday Ajako,interceptions_90,negative,-14.7335304826806
+CB,407555,James Monday Ajako,op_f3_passes_90,negative,-13.745899585536272
+CB,409303,Faraji Karmoune,ball_recoveries_90,positive,41.38975784093072
+CB,409303,Faraji Karmoune,obv_pass_90,positive,39.5435257427416
+CB,409303,Faraji Karmoune,clearance_90,positive,26.005142456315333
+CB,409303,Faraji Karmoune,aerial_ratio,negative,-58.61024215906928
+CB,409303,Faraji Karmoune,blocks_per_shot,negative,-40.15494386601537
+CB,409303,Faraji Karmoune,op_f3_passes_90,negative,-23.994857543684667
+CB,419744,Driss El Jabali,clearance_90,positive,39.7425872087435
+CB,419744,Driss El Jabali,interceptions_90,positive,18.020372479516425
+CB,419744,Driss El Jabali,op_xgbuildup_90,positive,3.9779581850353978
+CB,419744,Driss El Jabali,aerial_ratio,negative,-34.364182635042255
+CB,419744,Driss El Jabali,obv_pass_90,negative,-17.118438051684606
+CB,419744,Driss El Jabali,blocks_per_shot,negative,-10.86572851155558
+CB,442093,Yassine Fatine,obv_defensive_action_90,positive,65.80181694312171
+CB,442093,Yassine Fatine,blocks_per_shot,positive,11.876018841309786
+CB,442093,Yassine Fatine,interceptions_90,positive,10.532002291505577
+CB,442093,Yassine Fatine,aerial_ratio,negative,-34.1981830568783
+CB,442093,Yassine Fatine,ball_recoveries_90,negative,-24.042850738359697
+CB,442093,Yassine Fatine,op_xgbuildup_90,negative,-22.486197194825678
+CB,477678,Cheick Keita,aerial_ratio,positive,42.485637412718916
+CB,477678,Cheick Keita,clearance_90,positive,41.580741819398554
+CB,477678,Cheick Keita,ball_recoveries_90,positive,29.528507844570072
+CB,477678,Cheick Keita,op_f3_passes_90,negative,-39.188488949832205
+CB,477678,Cheick Keita,obv_pass_90,negative,-34.84863107384695
+CB,477678,Cheick Keita,op_xgbuildup_90,negative,-18.485302520540696
+CB,523290,Achraf Zine,blocks_per_shot,positive,32.410956057440984
+CB,523290,Achraf Zine,op_f3_passes_90,positive,23.159709484792685
+CB,523290,Achraf Zine,interceptions_90,positive,15.11489089134298
+CB,523290,Achraf Zine,obv_defensive_action_90,negative,-24.413533069112315
+CB,523290,Achraf Zine,aerial_ratio,negative,-22.699481934687146
+CB,523290,Achraf Zine,obv_pass_90,negative,-13.8279285135673
+CB,524512,Reda Ait Boughima,clearance_90,positive,32.689287045117794
+CB,524512,Reda Ait Boughima,ball_recoveries_90,positive,22.848801861133396
+CB,524512,Reda Ait Boughima,aerial_ratio,positive,16.419967486944344
+CB,524512,Reda Ait Boughima,interceptions_90,negative,-44.85758509777306
+CB,524512,Reda Ait Boughima,op_xgbuildup_90,negative,-14.836513989589058
+CB,524512,Reda Ait Boughima,obv_defensive_action_90,negative,-10.133588033785216
+CF,3319,Yacine Bammou,aerial_wins_90,positive,45.90183923387126
+CF,3319,Yacine Bammou,aerial_ratio,positive,27.16436656248824
+CF,3319,Yacine Bammou,np_shots_90,positive,12.561218741658216
+CF,3319,Yacine Bammou,op_xgchain_90,negative,-34.30326754686638
+CF,3319,Yacine Bammou,np_xg_90,negative,-22.951020547602784
+CF,3319,Yacine Bammou,goals_90,negative,-18.143508324890014
+CF,38423,Siriki Sanogo,aerial_ratio,positive,78.16195725572243
+CF,38423,Siriki Sanogo,aerial_wins_90,positive,31.028256465665393
+CF,38423,Siriki Sanogo,np_xg_90,positive,-21.838042744277566
+CF,38423,Siriki Sanogo,np_xg_90,negative,-21.838042744277566
+CF,38423,Siriki Sanogo,goals_90,negative,-21.838042744277566
+CF,38423,Siriki Sanogo,np_shots_90,negative,-21.838042744277566
+CF,138876,Hamza Khaba,op_passes_into_and_touches_inside_box_90,positive,29.24743808683266
+CF,138876,Hamza Khaba,op_xgchain_90,positive,29.24743808683266
+CF,138876,Hamza Khaba,aerial_wins_90,positive,-1.3491385558253484
+CF,138876,Hamza Khaba,goals_90,negative,-33.34533301234607
+CF,138876,Hamza Khaba,aerial_ratio,negative,-16.062802534460936
+CF,138876,Hamza Khaba,np_shots_90,negative,-4.934672336344107
+CF,139566,Youssef Elfahli,aerial_ratio,positive,17.672466601175124
+CF,139566,Youssef Elfahli,op_xgchain_90,positive,17.481804338039147
+CF,139566,Youssef Elfahli,goals_90,positive,11.288115669155381
+CF,139566,Youssef Elfahli,np_shots_90,negative,-32.18112030622736
+CF,139566,Youssef Elfahli,aerial_wins_90,negative,-22.279856316491696
+CF,139566,Youssef Elfahli,op_passes_into_and_touches_inside_box_90,negative,0.2614891872320513
+CF,140867,Ismail Khafi,op_passes_into_and_touches_inside_box_90,positive,14.895278210931743
+CF,140867,Ismail Khafi,np_xg_90,positive,11.642609683175571
+CF,140867,Ismail Khafi,aerial_ratio,positive,1.3122170764098655
+CF,140867,Ismail Khafi,aerial_wins_90,negative,-16.44095879494955
+CF,140867,Ismail Khafi,goals_90,negative,-8.83637675590699
+CF,140867,Ismail Khafi,op_xgchain_90,negative,-1.784770569605115
+CF,140886,Mustapha Sahd,op_passes_into_and_touches_inside_box_90,positive,23.16017258020358
+CF,140886,Mustapha Sahd,np_shots_90,positive,21.48922777540176
+CF,140886,Mustapha Sahd,np_xg_90,positive,20.52517966302682
+CF,140886,Mustapha Sahd,goals_90,negative,-27.36023018585609
+CF,140886,Mustapha Sahd,aerial_ratio,negative,-26.75938259207706
+CF,140886,Mustapha Sahd,op_xgchain_90,negative,-8.082808000556199
+CF,140887,Haytham El Bahja,op_passes_into_and_touches_inside_box_90,positive,9.105226537783956
+CF,140887,Haytham El Bahja,np_xg_90,positive,8.654029661985568
+CF,140887,Haytham El Bahja,aerial_ratio,positive,6.159584792440938
+CF,140887,Haytham El Bahja,aerial_wins_90,negative,-26.083151586088032
+CF,140887,Haytham El Bahja,goals_90,negative,-1.4067859423347926
+CF,140887,Haytham El Bahja,np_shots_90,negative,-1.162482949637436
+CF,143504,Oussama Lamlaoui,np_xg_90,positive,35.40993847728318
+CF,143504,Oussama Lamlaoui,np_shots_90,positive,35.40993847728318
+CF,143504,Oussama Lamlaoui,goals_90,positive,30.19436829618722
+CF,143504,Oussama Lamlaoui,aerial_wins_90,negative,-64.59006152271682
+CF,143504,Oussama Lamlaoui,aerial_ratio,negative,-55.28349801365324
+CF,143504,Oussama Lamlaoui,op_xgchain_90,negative,5.1202846255902585
+CF,155347,Ayoub Mouloua,op_xgchain_90,positive,9.77269791151938
+CF,155347,Ayoub Mouloua,op_passes_into_and_touches_inside_box_90,positive,7.321775487646789
+CF,155347,Ayoub Mouloua,np_xg_90,positive,3.985354017783102
+CF,155347,Ayoub Mouloua,aerial_ratio,negative,-12.526581191757863
+CF,155347,Ayoub Mouloua,goals_90,negative,-4.881438481223938
+CF,155347,Ayoub Mouloua,np_shots_90,negative,-2.9421849052906666
+CF,155705,Soufiane Benjdida,goals_90,positive,38.09807232710868
+CF,155705,Soufiane Benjdida,np_shots_90,positive,38.09807232710868
+CF,155705,Soufiane Benjdida,np_xg_90,positive,23.879980880827702
+CF,155705,Soufiane Benjdida,aerial_wins_90,negative,-47.77391575904002
+CF,155705,Soufiane Benjdida,aerial_ratio,negative,-44.3241724140412
+CF,155705,Soufiane Benjdida,op_passes_into_and_touches_inside_box_90,negative,-4.329842958856695
+CF,312936,Hamza Hannouri,goals_90,positive,9.194647024438602
+CF,312936,Hamza Hannouri,aerial_wins_90,positive,8.45307647423953
+CF,312936,Hamza Hannouri,np_xg_90,positive,4.249684745267196
+CF,312936,Hamza Hannouri,np_shots_90,negative,-23.535761530821958
+CF,312936,Hamza Hannouri,op_xgchain_90,negative,-1.4686527284112998
+CF,312936,Hamza Hannouri,op_passes_into_and_touches_inside_box_90,negative,-0.36591686847722116
+CF,335508,Paul Valère Bassène,aerial_ratio,positive,16.773803061068918
+CF,335508,Paul Valère Bassène,goals_90,positive,4.7004440855394805
+CF,335508,Paul Valère Bassène,op_passes_into_and_touches_inside_box_90,positive,4.208438879757374
+CF,335508,Paul Valère Bassène,aerial_wins_90,negative,-16.86301295464093
+CF,335508,Paul Valère Bassène,np_shots_90,negative,-14.107000415386473
+CF,335508,Paul Valère Bassène,op_xgchain_90,negative,2.4614467943378173
+CF,360406,Imad Khannouss,op_passes_into_and_touches_inside_box_90,positive,31.663539154989692
+CF,360406,Imad Khannouss,op_xgchain_90,positive,21.432422734865234
+CF,360406,Imad Khannouss,aerial_wins_90,positive,15.257361735882043
+CF,360406,Imad Khannouss,goals_90,negative,-21.68464840828537
+CF,360406,Imad Khannouss,aerial_ratio,negative,-21.68464840828537
+CF,360406,Imad Khannouss,op_passes_into_and_touches_inside_box_90,negative,-18.964354141784504
+CF,406860,Abdelaziz El Hamzaoui,aerial_wins_90,positive,38.85719639185548
+CF,406860,Abdelaziz El Hamzaoui,aerial_ratio,positive,22.272894931189185
+CF,406860,Abdelaziz El Hamzaoui,op_xgchain_90,positive,-3.570572087409726
+CF,406860,Abdelaziz El Hamzaoui,np_shots_90,negative,-23.87331776713358
+CF,406860,Abdelaziz El Hamzaoui,goals_90,negative,-14.971958332968907
+CF,406860,Abdelaziz El Hamzaoui,np_xg_90,negative,-11.934965930991474
+CF,409301,Jawad Ghabra,op_passes_into_and_touches_inside_box_90,positive,18.90213664311512
+CF,409301,Jawad Ghabra,aerial_ratio,positive,10.781622074092674
+CF,409301,Jawad Ghabra,aerial_wins_90,positive,7.675935518514478
+CF,409301,Jawad Ghabra,goals_90,negative,-21.701246367849627
+CF,409301,Jawad Ghabra,np_xg_90,negative,-10.926222313051547
+CF,409301,Jawad Ghabra,op_xgchain_90,negative,-7.161601089291537
+CF,442295,Reda Abardi,aerial_ratio,positive,25.53264770048643
+CF,442295,Reda Abardi,np_xg_90,positive,11.379125278268802
+CF,442295,Reda Abardi,aerial_wins_90,positive,6.529425630989053
+CF,442295,Reda Abardi,op_passes_into_and_touches_inside_box_90,negative,-28.432175197670745
+CF,442295,Reda Abardi,goals_90,negative,-11.97830773411414
+CF,442295,Reda Abardi,op_xgchain_90,negative,-2.289232441500083
+CF,453613,Baba Bello Ilou,goals_90,positive,24.29315588049927
+CF,453613,Baba Bello Ilou,op_passes_into_and_touches_inside_box_90,positive,16.13468334063137
+CF,453613,Baba Bello Ilou,np_xg_90,positive,6.182326397734329
+CF,453613,Baba Bello Ilou,op_xgchain_90,negative,-24.92130246581837
+CF,453613,Baba Bello Ilou,aerial_ratio,negative,-21.92389856361889
+CF,453613,Baba Bello Ilou,np_shots_90,negative,-5.803680400645689
+CF,477684,Brahim Amzili,aerial_ratio,positive,31.5986037396398
+CF,477684,Brahim Amzili,aerial_wins_90,positive,20.62134061082387
+CF,477684,Brahim Amzili,op_xgchain_90,positive,4.954103563418471
+CF,477684,Brahim Amzili,np_shots_90,negative,-32.20821596410755
+CF,477684,Brahim Amzili,np_xg_90,negative,-14.011445132285552
+CF,477684,Brahim Amzili,goals_90,negative,-11.066494684438958
+CF,503286,Mehdi Balouk,goals_90,positive,35.69500518080249
+CF,503286,Mehdi Balouk,np_xg_90,positive,19.73367900545518
+CF,503286,Mehdi Balouk,np_shots_90,positive,4.384394283727531
+CF,503286,Mehdi Balouk,aerial_wins_90,negative,-31.672116197608894
+CF,503286,Mehdi Balouk,aerial_ratio,negative,-28.884718963255708
+CF,503286,Mehdi Balouk,op_passes_into_and_touches_inside_box_90,negative,-0.07241822417225308
+CF,522342,Younes El Bahraoui,op_xgchain_90,positive,16.166930783504917
+CF,522342,Younes El Bahraoui,np_xg_90,positive,15.334969172575434
+CF,522342,Younes El Bahraoui,goals_90,positive,11.109825765851092
+CF,522342,Younes El Bahraoui,aerial_ratio,negative,-28.168456005876433
+CF,522342,Younes El Bahraoui,aerial_wins_90,negative,-15.273307917450865
+CF,522342,Younes El Bahraoui,op_passes_into_and_touches_inside_box_90,negative,-2.7558991556862082
+CF,524001,Nasreddine Moustaghfir,aerial_wins_90,positive,54.063071512335206
+CF,524001,Nasreddine Moustaghfir,aerial_ratio,positive,24.794287181482368
+CF,524001,Nasreddine Moustaghfir,goals_90,positive,-3.814671698213246
+CF,524001,Nasreddine Moustaghfir,np_shots_90,negative,-30.563546269435633
+CF,524001,Nasreddine Moustaghfir,op_xgchain_90,negative,-19.86800770202058
+CF,524001,Nasreddine Moustaghfir,op_passes_into_and_touches_inside_box_90,negative,-19.57674980801545
+CF,524392,Romuald Dacosta,aerial_wins_90,positive,18.808626828100202
+CF,524392,Romuald Dacosta,goals_90,positive,16.838034851745185
+CF,524392,Romuald Dacosta,np_xg_90,positive,9.073297872947741
+CF,524392,Romuald Dacosta,op_passes_into_and_touches_inside_box_90,negative,-24.636205049411934
+CF,524392,Romuald Dacosta,np_shots_90,negative,-16.996742647613285
+CF,524392,Romuald Dacosta,aerial_ratio,negative,-2.0405009656054496
+FB,81364,Euclides da Silva Cabral,box_cross_ratio,positive,41.6250718252137
+FB,81364,Euclides da Silva Cabral,obv_dribble_carry_90,positive,15.737289189201285
+FB,81364,Euclides da Silva Cabral,counterpressures_90,positive,2.6938109283317146
+FB,81364,Euclides da Silva Cabral,ball_recoveries_90,negative,-19.700784556206774
+FB,81364,Euclides da Silva Cabral,op_f3_passes_90,negative,-19.045319506450898
+FB,81364,Euclides da Silva Cabral,dribble_ratio,negative,-8.85919780366001
+FB,135851,Augusto de Jesus Corte Real Carneiro,dribble_ratio,positive,38.32712066200181
+FB,135851,Augusto de Jesus Corte Real Carneiro,obv_pass_90,positive,29.22593134174931
+FB,135851,Augusto de Jesus Corte Real Carneiro,op_f3_passes_90,positive,25.322014454055214
+FB,135851,Augusto de Jesus Corte Real Carneiro,counterpressures_90,negative,-44.24320293724912
+FB,135851,Augusto de Jesus Corte Real Carneiro,key_passes_90,negative,-19.430856846099676
+FB,135851,Augusto de Jesus Corte Real Carneiro,obv_dribble_carry_90,negative,-18.15624641550999
+FB,138910,Jamal Ech-Chammakh,obv_pass_90,positive,21.500218313699378
+FB,138910,Jamal Ech-Chammakh,obv_dribble_carry_90,positive,17.15239222674286
+FB,138910,Jamal Ech-Chammakh,op_f3_passes_90,positive,8.456740052829815
+FB,138910,Jamal Ech-Chammakh,dribble_ratio,negative,-32.53892502018632
+FB,138910,Jamal Ech-Chammakh,box_cross_ratio,negative,-12.789559056242993
+FB,138910,Jamal Ech-Chammakh,key_passes_90,negative,-8.290879525129569
+FB,138927,Saad El Morsli,obv_dribble_carry_90,positive,32.1223942843762
+FB,138927,Saad El Morsli,counterpressures_90,positive,32.1223942843762
+FB,138927,Saad El Morsli,ball_recoveries_90,positive,32.1223942843762
+FB,138927,Saad El Morsli,dribble_ratio,negative,-66.65522488841296
+FB,138927,Saad El Morsli,box_cross_ratio,negative,-29.713189181559784
+FB,138927,Saad El Morsli,obv_pass_90,negative,-10.852524962107601
+FB,138945,Mohamed Boulacsout,op_f3_passes_90,positive,42.00687410236229
+FB,138945,Mohamed Boulacsout,obv_dribble_carry_90,positive,37.65904801540577
+FB,138945,Mohamed Boulacsout,key_passes_90,positive,17.822887182277782
+FB,138945,Mohamed Boulacsout,ball_recoveries_90,negative,-40.60182154981162
+FB,138945,Mohamed Boulacsout,dribble_ratio,negative,-40.60182154981162
+FB,138945,Mohamed Boulacsout,counterpressures_90,negative,-23.21051720198553
+FB,138949,Ayoub Boucheta,obv_pass_90,positive,33.26329698112111
+FB,138949,Ayoub Boucheta,counterpressures_90,positive,31.279730659649637
+FB,138949,Ayoub Boucheta,key_passes_90,positive,21.48444872125976
+FB,138949,Ayoub Boucheta,ball_recoveries_90,negative,-45.0327389170073
+FB,138949,Ayoub Boucheta,obv_dribble_carry_90,negative,-25.24200847078514
+FB,138949,Ayoub Boucheta,dribble_ratio,negative,-12.350813477573126
+FB,138956,Anas Bach,op_f3_passes_90,positive,36.28600419301842
+FB,138956,Anas Bach,obv_dribble_carry_90,positive,14.546873758235797
+FB,138956,Anas Bach,key_passes_90,positive,11.170383648100021
+FB,138956,Anas Bach,counterpressures_90,negative,-50.67051754611202
+FB,138956,Anas Bach,ball_recoveries_90,negative,-15.447935745605704
+FB,138956,Anas Bach,obv_pass_90,negative,-6.887277567652966
+FB,139560,Hamza El Moussaoui,op_f3_passes_90,positive,32.1681338438142
+FB,139560,Hamza El Moussaoui,key_passes_90,positive,30.899376441942167
+FB,139560,Hamza El Moussaoui,obv_pass_90,positive,27.05628763507478
+FB,139560,Hamza El Moussaoui,counterpressures_90,negative,-37.39708354749014
+FB,139560,Hamza El Moussaoui,ball_recoveries_90,negative,-27.25415119408698
+FB,139560,Hamza El Moussaoui,box_cross_ratio,negative,-24.737646511918506
+FB,140876,Mohamed Moufid,obv_dribble_carry_90,positive,20.29500560011553
+FB,140876,Mohamed Moufid,ball_recoveries_90,positive,18.30117835710901
+FB,140876,Mohamed Moufid,box_cross_ratio,positive,8.880828163420269
+FB,140876,Mohamed Moufid,op_f3_passes_90,negative,-27.531081356406204
+FB,140876,Mohamed Moufid,dribble_ratio,negative,-18.08643500295273
+FB,140876,Mohamed Moufid,counterpressures_90,negative,-5.791950921623595
+FB,142789,Oussama Soukhane,key_passes_90,positive,50.9756667026855
+FB,142789,Oussama Soukhane,obv_pass_90,positive,40.04325683538548
+FB,142789,Oussama Soukhane,box_cross_ratio,positive,31.20039047329331
+FB,142789,Oussama Soukhane,ball_recoveries_90,negative,-46.03391571690552
+FB,142789,Oussama Soukhane,obv_dribble_carry_90,negative,-27.28520286253189
+FB,142789,Oussama Soukhane,dribble_ratio,negative,-24.764572315558784
+FB,152015,Zakaria Kiani,key_passes_90,positive,11.37394036337271
+FB,152015,Zakaria Kiani,obv_pass_90,positive,9.146323441529447
+FB,152015,Zakaria Kiani,ball_recoveries_90,positive,6.400486910999646
+FB,152015,Zakaria Kiani,dribble_ratio,negative,-21.22602466675565
+FB,152015,Zakaria Kiani,obv_dribble_carry_90,negative,-7.587888908109441
+FB,152015,Zakaria Kiani,box_cross_ratio,negative,-0.3223636726439665
+FB,178342,Ettayb Boukhriss,obv_dribble_carry_90,positive,33.93267149880009
+FB,178342,Ettayb Boukhriss,obv_pass_90,positive,18.822922252595475
+FB,178342,Ettayb Boukhriss,op_f3_passes_90,positive,12.19354106401748
+FB,178342,Ettayb Boukhriss,box_cross_ratio,negative,-27.452583895502606
+FB,178342,Ettayb Boukhriss,ball_recoveries_90,negative,-19.182789496223755
+FB,178342,Ettayb Boukhriss,key_passes_90,negative,-17.15455274803903
+FB,261620,Nadir Lougmani,counterpressures_90,positive,31.6311442694534
+FB,261620,Nadir Lougmani,obv_pass_90,positive,21.89286538628302
+FB,261620,Nadir Lougmani,obv_dribble_carry_90,positive,14.239839921627322
+FB,261620,Nadir Lougmani,op_f3_passes_90,negative,-24.890594860981373
+FB,261620,Nadir Lougmani,dribble_ratio,negative,-23.47861293055802
+FB,261620,Nadir Lougmani,box_cross_ratio,negative,-18.42063662414078
+FB,313287,Redouane Ait Lemkadem,counterpressures_90,positive,49.563178053696376
+FB,313287,Redouane Ait Lemkadem,key_passes_90,positive,19.18146625668173
+FB,313287,Redouane Ait Lemkadem,dribble_ratio,positive,13.088645963129913
+FB,313287,Redouane Ait Lemkadem,ball_recoveries_90,negative,-40.0925454664907
+FB,313287,Redouane Ait Lemkadem,obv_dribble_carry_90,negative,-24.34986542456449
+FB,313287,Redouane Ait Lemkadem,op_f3_passes_90,negative,-11.306387163694922
+FB,314451,Houdaifa El Mahasni,dribble_ratio,positive,25.97367133960438
+FB,314451,Houdaifa El Mahasni,ball_recoveries_90,positive,25.691029564273535
+FB,314451,Houdaifa El Mahasni,obv_dribble_carry_90,positive,-3.496803569753567
+FB,314451,Houdaifa El Mahasni,box_cross_ratio,negative,-16.266449594719365
+FB,314451,Houdaifa El Mahasni,counterpressures_90,negative,-12.192455743666613
+FB,314451,Houdaifa El Mahasni,key_passes_90,negative,-10.902351853067856
+FB,337496,Haytam Manaout,obv_dribble_carry_90,positive,39.1499195750866
+FB,337496,Haytam Manaout,op_f3_passes_90,positive,39.1499195750866
+FB,337496,Haytam Manaout,dribble_ratio,positive,28.89244946045386
+FB,337496,Haytam Manaout,box_cross_ratio,negative,-52.154428251000354
+FB,337496,Haytam Manaout,obv_pass_90,negative,-52.154428251000354
+FB,337496,Haytam Manaout,key_passes_90,negative,-26.110963759188724
+FB,339278,Chemseddine Knaidil,box_cross_ratio,positive,43.405932840252255
+FB,339278,Chemseddine Knaidil,counterpressures_90,positive,21.666802405469646
+FB,339278,Chemseddine Knaidil,key_passes_90,positive,6.517230636298159
+FB,339278,Chemseddine Knaidil,ball_recoveries_90,negative,-33.0985403050429
+FB,339278,Chemseddine Knaidil,dribble_ratio,negative,-16.782021559245443
+FB,339278,Chemseddine Knaidil,obv_pass_90,negative,-12.869095785192712
+FB,406864,Hamza Malki,dribble_ratio,positive,66.08492942174847
+FB,406864,Hamza Malki,obv_pass_90,positive,28.760633104629093
+FB,406864,Hamza Malki,ball_recoveries_90,positive,4.088526536841329
+FB,406864,Hamza Malki,key_passes_90,negative,-33.91507057825153
+FB,406864,Hamza Malki,obv_dribble_carry_90,negative,-29.567244491295007
+FB,406864,Hamza Malki,op_f3_passes_90,negative,-25.219418404338487
+FB,442100,Marouane Ouhrou,key_passes_90,positive,30.505629137244867
+FB,442100,Marouane Ouhrou,obv_dribble_carry_90,positive,20.144868011298698
+FB,442100,Marouane Ouhrou,op_f3_passes_90,positive,15.797041924342182
+FB,442100,Marouane Ouhrou,ball_recoveries_90,negative,-33.48530571286323
+FB,442100,Marouane Ouhrou,dribble_ratio,negative,-32.88841288584954
+FB,442100,Marouane Ouhrou,counterpressures_90,negative,-23.333392858266514
+FB,442286,Oussama Daoui,box_cross_ratio,positive,40.75638857642798
+FB,442286,Oussama Daoui,dribble_ratio,positive,17.637966675701733
+FB,442286,Oussama Daoui,obv_pass_90,positive,13.222846436824746
+FB,442286,Oussama Daoui,obv_dribble_carry_90,negative,-39.258266752845046
+FB,442286,Oussama Daoui,op_f3_passes_90,negative,-34.91044066588853
+FB,442286,Oussama Daoui,ball_recoveries_90,negative,-21.682612914236753
+FB,522352,Hamza Fassoukh,counterpressures_90,positive,27.4231400188418
+FB,522352,Hamza Fassoukh,ball_recoveries_90,positive,24.585970865917055
+FB,522352,Hamza Fassoukh,dribble_ratio,positive,23.44980822999728
+FB,522352,Hamza Fassoukh,box_cross_ratio,negative,-32.48058775120924
+FB,522352,Hamza Fassoukh,obv_dribble_carry_90,negative,-29.098599111592982
+FB,522352,Hamza Fassoukh,op_f3_passes_90,negative,-7.359468676810373
+FB,523293,Nassim Azzoubairi,counterpressures_90,positive,36.62562362555441
+FB,523293,Nassim Azzoubairi,box_cross_ratio,positive,13.42764361651733
+FB,523293,Nassim Azzoubairi,ball_recoveries_90,positive,11.24740606211651
+FB,523293,Nassim Azzoubairi,dribble_ratio,negative,-46.53970252813322
+FB,523293,Nassim Azzoubairi,obv_dribble_carry_90,negative,-19.896115504880378
+FB,523293,Nassim Azzoubairi,key_passes_90,negative,-4.0606354601445105
+FB,523318,Younes El Khafi,ball_recoveries_90,positive,23.997095352138253
+FB,523318,Younes El Khafi,dribble_ratio,positive,19.823302928593172
+FB,523318,Younes El Khafi,box_cross_ratio,positive,6.983144461283466
+FB,523318,Younes El Khafi,op_f3_passes_90,negative,-28.543449745985093
+FB,523318,Younes El Khafi,counterpressures_90,negative,-19.847797572072054
+FB,523318,Younes El Khafi,key_passes_90,negative,-3.1032818806736735
+GK,36951,Babacar Niasse,average_x_defensive_action,positive,18.969335701959793
+GK,36951,Babacar Niasse,p_pass_length,positive,10.63600236862645
+GK,36951,Babacar Niasse,obv_pass_90,positive,2.3026690352931283
+GK,36951,Babacar Niasse,goals_faced_90,negative,-22.697330964706865
+GK,36951,Babacar Niasse,pass_length,negative,-9.210676141172534
+GK,36951,Babacar Niasse,obv_pass_90,negative,2.3026690352931283
+GK,138841,Salaheddine Chihab,goals_faced_90,positive,39.98293366583205
+GK,138841,Salaheddine Chihab,pass_length,positive,-1.59840132999485
+GK,138841,Salaheddine Chihab,p_pass_length,positive,-1.6837330008346214
+GK,138841,Salaheddine Chihab,obv_pass_90,negative,-18.350399667501286
+GK,138841,Salaheddine Chihab,average_x_defensive_action,negative,-18.350399667501286
+GK,138841,Salaheddine Chihab,p_pass_length,negative,-1.6837330008346214
+GK,138950,Mehdi Harrar,goals_faced_90,positive,49.772253496027545
+GK,138950,Mehdi Harrar,average_x_defensive_action,positive,24.772253496027517
+GK,138950,Mehdi Harrar,obv_pass_90,positive,-0.22774650397246887
+GK,138950,Mehdi Harrar,pass_length,negative,-40.75568065077679
+GK,138950,Mehdi Harrar,p_pass_length,negative,-33.56107983730581
+GK,138950,Mehdi Harrar,obv_pass_90,negative,-0.22774650397246887
+GK,138972,Mahdi Benabid,obv_pass_90,positive,20.88833965849399
+GK,138972,Mahdi Benabid,goals_faced_90,positive,12.555006325160662
+GK,138972,Mahdi Benabid,p_pass_length,positive,4.221672991827326
+GK,138972,Mahdi Benabid,average_x_defensive_action,negative,-20.77832700817268
+GK,138972,Mahdi Benabid,pass_length,negative,-16.886691967309318
+GK,138972,Mahdi Benabid,p_pass_length,negative,4.221672991827326
+GK,139011,Ahmed Reda Tagnaouti,goals_faced_90,positive,53.333333333333336
+GK,139011,Ahmed Reda Tagnaouti,p_pass_length,positive,19.999999999999993
+GK,139011,Ahmed Reda Tagnaouti,obv_pass_90,positive,-21.666666666666675
+GK,139011,Ahmed Reda Tagnaouti,pass_length,negative,-30.000000000000007
+GK,139011,Ahmed Reda Tagnaouti,obv_pass_90,negative,-21.666666666666675
+GK,139011,Ahmed Reda Tagnaouti,average_x_defensive_action,negative,-21.666666666666675
+GK,139555,Aymane Majid,average_x_defensive_action,positive,40.062699474219286
+GK,139555,Aymane Majid,goals_faced_90,positive,-1.603967192447385
+GK,139555,Aymane Majid,obv_pass_90,positive,-9.937300525780714
+GK,139555,Aymane Majid,p_pass_length,negative,-18.270633859114042
+GK,139555,Aymane Majid,pass_length,negative,-10.250797896877152
+GK,139555,Aymane Majid,obv_pass_90,negative,-9.937300525780714
+GK,139572,Amine El Ouaad,average_x_defensive_action,positive,29.98157262293583
+GK,139572,Amine El Ouaad,p_pass_length,positive,13.314905956269172
+GK,139572,Amine El Ouaad,pass_length,positive,-3.2596238250766447
+GK,139572,Amine El Ouaad,obv_pass_90,negative,-28.3517607103975
+GK,139572,Amine El Ouaad,goals_faced_90,negative,-11.685094043730828
+GK,139572,Amine El Ouaad,pass_length,negative,-3.2596238250766447
+GK,317852,Abderahmane El Houasli,obv_pass_90,positive,40.202690081555986
+GK,317852,Abderahmane El Houasli,pass_length,positive,39.189239673776115
+GK,317852,Abderahmane El Houasli,p_pass_length,positive,-18.130643251777357
+GK,317852,Abderahmane El Houasli,goals_faced_90,negative,-43.13064325177736
+GK,317852,Abderahmane El Houasli,p_pass_length,negative,-18.130643251777357
+GK,317852,Abderahmane El Houasli,average_x_defensive_action,negative,-18.130643251777357
+GK,362445,Badreddine Abyir,obv_pass_90,positive,21.55577311936598
+GK,362445,Badreddine Abyir,average_x_defensive_action,positive,13.222439786032666
+GK,362445,Badreddine Abyir,p_pass_length,positive,13.222439786032666
+GK,362445,Badreddine Abyir,goals_faced_90,negative,-53.44422688063402
+GK,362445,Badreddine Abyir,pass_length,negative,5.443574189202721
+GK,362445,Badreddine Abyir,p_pass_length,negative,13.222439786032666
+GK,477675,Mohamed Idar,p_pass_length,positive,33.87769511625807
+GK,477675,Mohamed Idar,pass_length,positive,14.48921953496766
+GK,477675,Mohamed Idar,obv_pass_90,positive,8.877695116258067
+GK,477675,Mohamed Idar,goals_faced_90,negative,-49.45563821707525
+GK,477675,Mohamed Idar,average_x_defensive_action,negative,-7.78897155040859
+GK,477675,Mohamed Idar,obv_pass_90,negative,8.877695116258067
+GK,522350,Mohamed Jemjami,obv_pass_90,positive,23.333333333333343
+GK,522350,Mohamed Jemjami,p_pass_length,positive,23.333333333333343
+GK,522350,Mohamed Jemjami,pass_length,positive,23.333333333333343
+GK,522350,Mohamed Jemjami,goals_faced_90,negative,-35.0
+GK,522350,Mohamed Jemjami,average_x_defensive_action,negative,-34.999999999999986
+GK,522350,Mohamed Jemjami,pass_length,negative,23.333333333333343
+GK,523287,Ismail Sayad,average_x_defensive_action,positive,25.55134788031095
+GK,523287,Ismail Sayad,pass_length,positive,6.127941812089517
+GK,523287,Ismail Sayad,goals_faced_90,positive,-7.781985453022386
+GK,523287,Ismail Sayad,p_pass_length,negative,-16.115318786355722
+GK,523287,Ismail Sayad,goals_faced_90,negative,-7.781985453022386
+GK,523287,Ismail Sayad,obv_pass_90,negative,-7.781985453022386
+MID,7183,Moctar Sidi El Hacen El Ide,obv_dribble_carry_90,positive,36.925389044615244
+MID,7183,Moctar Sidi El Hacen El Ide,through_balls_90,positive,28.35396047318666
+MID,7183,Moctar Sidi El Hacen El Ide,ball_recoveries_90,positive,22.36071909259463
+MID,7183,Moctar Sidi El Hacen El Ide,op_f3_passes_90,negative,-31.64603952681333
+MID,7183,Moctar Sidi El Hacen El Ide,obv_pass_90,negative,-25.931753812527617
+MID,7183,Moctar Sidi El Hacen El Ide,key_passes_90,negative,-17.360325241099044
+MID,7717,Rayane Aabid,op_f3_passes_90,positive,23.260670690088475
+MID,7717,Rayane Aabid,through_balls_90,positive,20.40352783294564
+MID,7717,Rayane Aabid,obv_dribble_carry_90,positive,17.546384975802766
+MID,7717,Rayane Aabid,counterpressures_90,negative,-26.637737075760207
+MID,7717,Rayane Aabid,ball_recoveries_90,negative,-21.094187803253575
+MID,7717,Rayane Aabid,obv_pass_90,negative,-16.73932930991152
+MID,10689,Sabir Bougrine,op_f3_passes_90,positive,33.517317048999914
+MID,10689,Sabir Bougrine,key_passes_90,positive,30.660174191857053
+MID,10689,Sabir Bougrine,through_balls_90,positive,30.660174191857053
+MID,10689,Sabir Bougrine,obv_dribble_carry_90,negative,-63.62554009385723
+MID,10689,Sabir Bougrine,ball_recoveries_90,negative,-56.16154507454468
+MID,10689,Sabir Bougrine,counterpressures_90,negative,5.7178169724022325
+MID,21648,Anas Tahiri,op_f3_passes_90,positive,44.51116947479325
+MID,21648,Anas Tahiri,key_passes_90,positive,35.939740903364665
+MID,21648,Anas Tahiri,through_balls_90,positive,21.654026617650374
+MID,21648,Anas Tahiri,counterpressures_90,negative,-46.917401953778196
+MID,21648,Anas Tahiri,obv_dribble_carry_90,negative,-41.20311623949248
+MID,21648,Anas Tahiri,ball_recoveries_90,negative,-32.781302563045124
+MID,138860,Youssef Michte,counterpressures_90,positive,48.881538237983875
+MID,138860,Youssef Michte,ball_recoveries_90,positive,7.993810290158908
+MID,138860,Youssef Michte,through_balls_90,positive,0.6249302943714383
+MID,138860,Youssef Michte,key_passes_90,negative,-19.37506970562856
+MID,138860,Youssef Michte,op_f3_passes_90,negative,-16.517926848485704
+MID,138860,Youssef Michte,obv_pass_90,negative,-10.80364113419999
+MID,138872,Oussama Mahrous,obv_dribble_carry_90,positive,22.214751722493816
+MID,138872,Oussama Mahrous,counterpressures_90,positive,14.622728115448652
+MID,138872,Oussama Mahrous,key_passes_90,positive,5.071894579636663
+MID,138872,Oussama Mahrous,through_balls_90,negative,-29.21381970607762
+MID,138872,Oussama Mahrous,op_f3_passes_90,negative,-6.356676848934754
+MID,138872,Oussama Mahrous,ball_recoveries_90,negative,-5.696486727917687
+MID,138873,Abdelghafour Lamirat,through_balls_90,positive,26.579643913638527
+MID,138873,Abdelghafour Lamirat,ball_recoveries_90,positive,6.092154793405108
+MID,138873,Abdelghafour Lamirat,counterpressures_90,positive,1.0096256384023121
+MID,138873,Abdelghafour Lamirat,op_f3_passes_90,negative,-16.277498943504334
+MID,138873,Abdelghafour Lamirat,obv_pass_90,negative,-16.277498943504334
+MID,138873,Abdelghafour Lamirat,key_passes_90,negative,-1.991784657790049
+MID,138983,Zine Eddine Derrag,through_balls_90,positive,25.72824233006682
+MID,138983,Zine Eddine Derrag,obv_pass_90,positive,14.299670901495404
+MID,138983,Zine Eddine Derrag,op_f3_passes_90,positive,14.299670901495404
+MID,138983,Zine Eddine Derrag,counterpressures_90,negative,-23.779869440355633
+MID,138983,Zine Eddine Derrag,obv_dribble_carry_90,negative,-17.12890052707604
+MID,138983,Zine Eddine Derrag,key_passes_90,negative,-17.12890052707604
+MID,139565,Larbi Naji,ball_recoveries_90,positive,53.77514537980371
+MID,139565,Larbi Naji,obv_pass_90,positive,25.20371680837514
+MID,139565,Larbi Naji,obv_dribble_carry_90,positive,-9.081997477339144
+MID,139565,Larbi Naji,through_balls_90,negative,-23.367711763053432
+MID,139565,Larbi Naji,op_f3_passes_90,negative,-17.65342604876772
+MID,139565,Larbi Naji,key_passes_90,negative,-14.796283191624862
+MID,140872,Mohamed Rabie Hrimat,obv_dribble_carry_90,positive,37.37323955833432
+MID,140872,Mohamed Rabie Hrimat,op_f3_passes_90,positive,34.51609670119146
+MID,140872,Mohamed Rabie Hrimat,obv_pass_90,positive,25.94466812976289
+MID,140872,Mohamed Rabie Hrimat,counterpressures_90,negative,-44.31069215491347
+MID,140872,Mohamed Rabie Hrimat,through_balls_90,negative,-39.76961758452282
+MID,140872,Mohamed Rabie Hrimat,ball_recoveries_90,negative,-13.984077065329515
+MID,141254,Hamza Afsal,key_passes_90,positive,27.43704833222241
+MID,141254,Hamza Afsal,obv_dribble_carry_90,positive,24.579905475079563
+MID,141254,Hamza Afsal,op_f3_passes_90,positive,-1.134380239206159
+MID,141254,Hamza Afsal,obv_pass_90,negative,-21.134380239206152
+MID,141254,Hamza Afsal,counterpressures_90,negative,-16.39518055759556
+MID,141254,Hamza Afsal,ball_recoveries_90,negative,-9.361489674945055
+MID,143166,Zakaria Fati,through_balls_90,positive,40.32505033693165
+MID,143166,Zakaria Fati,obv_dribble_carry_90,positive,31.753621765503084
+MID,143166,Zakaria Fati,key_passes_90,positive,17.467907479788806
+MID,143166,Zakaria Fati,obv_pass_90,negative,-48.24637823449691
+MID,143166,Zakaria Fati,ball_recoveries_90,negative,-27.244317815784637
+MID,143166,Zakaria Fati,counterpressures_90,negative,-22.95236244030221
+MID,144436,Anas Serrhat,obv_dribble_carry_90,positive,25.72799366409184
+MID,144436,Anas Serrhat,obv_pass_90,positive,8.585136521234702
+MID,144436,Anas Serrhat,through_balls_90,positive,5.727993664091855
+MID,144436,Anas Serrhat,counterpressures_90,negative,-27.826069385270245
+MID,144436,Anas Serrhat,key_passes_90,negative,-5.70057776447959
+MID,144436,Anas Serrhat,ball_recoveries_90,negative,-3.671041792331792
+MID,151743,Mohamed Al Makahasi,obv_pass_90,positive,32.270294557167496
+MID,151743,Mohamed Al Makahasi,op_f3_passes_90,positive,26.556008842881788
+MID,151743,Mohamed Al Makahasi,obv_dribble_carry_90,positive,-2.0154197285467816
+MID,151743,Mohamed Al Makahasi,ball_recoveries_90,negative,-34.20275304742539
+MID,151743,Mohamed Al Makahasi,counterpressures_90,negative,-15.72014830984066
+MID,151743,Mohamed Al Makahasi,through_balls_90,negative,-4.872562585689643
+MID,194912,Faouzi Abd El Mouttalib,op_f3_passes_90,positive,21.20429951484249
+MID,194912,Faouzi Abd El Mouttalib,ball_recoveries_90,positive,20.028569834839274
+MID,194912,Faouzi Abd El Mouttalib,counterpressures_90,positive,13.9499325909483
+MID,194912,Faouzi Abd El Mouttalib,key_passes_90,negative,-21.652843342300365
+MID,194912,Faouzi Abd El Mouttalib,obv_dribble_carry_90,negative,-15.938557628014653
+MID,194912,Faouzi Abd El Mouttalib,through_balls_90,negative,-10.224271913728938
+MID,312413,Soulaimane El Bouchqali,key_passes_90,positive,38.46037950531917
+MID,312413,Soulaimane El Bouchqali,op_f3_passes_90,positive,27.03180807674775
+MID,312413,Soulaimane El Bouchqali,key_passes_90,positive,24.17466521960489
+MID,312413,Soulaimane El Bouchqali,ball_recoveries_90,negative,-55.82533478039511
+MID,312413,Soulaimane El Bouchqali,obv_pass_90,negative,-52.968191923252256
+MID,312413,Soulaimane El Bouchqali,through_balls_90,negative,-32.96819192325225
+MID,313284,Achraf Harmach,key_passes_90,positive,23.175650372850626
+MID,313284,Achraf Harmach,through_balls_90,positive,20.31850751570775
+MID,313284,Achraf Harmach,obv_pass_90,positive,14.604221801422042
+MID,313284,Achraf Harmach,ball_recoveries_90,negative,-36.825088181325214
+MID,313284,Achraf Harmach,obv_dribble_carry_90,negative,-36.82434962714939
+MID,313284,Achraf Harmach,counterpressures_90,negative,6.661122031357863
+MID,407207,Ennaama El Bellali,counterpressures_90,positive,18.49659950028653
+MID,407207,Ennaama El Bellali,obv_pass_90,positive,1.7680457208992735
+MID,407207,Ennaama El Bellali,obv_dribble_carry_90,positive,1.7680457208992735
+MID,407207,Ennaama El Bellali,op_f3_passes_90,negative,-9.660525707672154
+MID,407207,Ennaama El Bellali,through_balls_90,negative,-9.660525707672154
+MID,407207,Ennaama El Bellali,key_passes_90,negative,-3.946239993386442
+MID,407506,Oussama Nourdine,counterpressures_90,positive,48.545522122551695
+MID,407506,Oussama Nourdine,ball_recoveries_90,positive,12.192179690534807
+MID,407506,Oussama Nourdine,obv_dribble_carry_90,positive,7.852459637382701
+MID,407506,Oussama Nourdine,key_passes_90,negative,-29.290397505474452
+MID,407506,Oussama Nourdine,obv_pass_90,negative,-17.86182607690302
+MID,407506,Oussama Nourdine,through_balls_90,negative,-15.004683219760164
+MID,407852,Abdessamad Mahir,ball_recoveries_90,positive,29.483961386158107
+MID,407852,Abdessamad Mahir,obv_pass_90,positive,25.903382350268053
+MID,407852,Abdessamad Mahir,obv_dribble_carry_90,positive,11.617668064553747
+MID,407852,Abdessamad Mahir,key_passes_90,negative,-36.953760506874815
+MID,407852,Abdessamad Mahir,op_f3_passes_90,negative,-31.2394747925891
+MID,407852,Abdessamad Mahir,through_balls_90,negative,-5.525189078303377
+MID,415853,Claude Gnolou,ball_recoveries_90,positive,25.04392549507081
+MID,415853,Claude Gnolou,counterpressures_90,positive,21.30100857111033
+MID,415853,Claude Gnolou,obv_pass_90,positive,10.159584615335206
+MID,415853,Claude Gnolou,through_balls_90,negative,-24.126129670379076
+MID,415853,Claude Gnolou,op_f3_passes_90,negative,-21.26898681323622
+MID,415853,Claude Gnolou,key_passes_90,negative,-12.697558241807648
+MID,416303,El Mahdi Akoumi,counterpressures_90,positive,52.021850774957976
+MID,416303,El Mahdi Akoumi,ball_recoveries_90,positive,16.440323921680722
+MID,416303,El Mahdi Akoumi,obv_pass_90,positive,-2.263863510756302
+MID,416303,El Mahdi Akoumi,obv_dribble_carry_90,negative,-25.121006367899167
+MID,416303,El Mahdi Akoumi,through_balls_90,negative,-25.121006367899167
+MID,416303,El Mahdi Akoumi,key_passes_90,negative,-10.835292082184878
+MID,424979,Soufiane Tazi,counterpressures_90,positive,20.348579413948002
+MID,424979,Soufiane Tazi,key_passes_90,positive,20.257826040376784
+MID,424979,Soufiane Tazi,op_f3_passes_90,positive,11.686397468948215
+MID,424979,Soufiane Tazi,ball_recoveries_90,negative,-30.20913818726045
+MID,424979,Soufiane Tazi,obv_dribble_carry_90,negative,-16.88503110248036
+MID,424979,Soufiane Tazi,obv_pass_90,negative,-8.313602531051785
+MID,442288,Adnane Berdad,through_balls_90,positive,14.266504920403918
+MID,442288,Adnane Berdad,ball_recoveries_90,positive,7.063869616374454
+MID,442288,Adnane Berdad,obv_dribble_carry_90,positive,2.8379334918324943
+MID,442288,Adnane Berdad,op_f3_passes_90,negative,-20.019209365310363
+MID,442288,Adnane Berdad,obv_pass_90,negative,-8.590637936738936
+MID,442288,Adnane Berdad,counterpressures_90,negative,1.6036057816059142
+MID,442292,Abdellatif El Bajjani,ball_recoveries_90,positive,15.506836822999311
+MID,442292,Abdellatif El Bajjani,obv_dribble_carry_90,positive,9.391536386569662
+MID,442292,Abdellatif El Bajjani,counterpressures_90,positive,8.964052672723824
+MID,442292,Abdellatif El Bajjani,key_passes_90,negative,-24.894177899144623
+MID,442292,Abdellatif El Bajjani,op_f3_passes_90,negative,-10.608463613430338
+MID,442292,Abdellatif El Bajjani,obv_pass_90,negative,-2.0370350420017758
+MID,443951,Youness Akharraz,obv_pass_90,positive,60.903084713157824
+MID,443951,Youness Akharraz,ball_recoveries_90,positive,6.972676810962646
+MID,443951,Youness Akharraz,key_passes_90,positive,-4.811201001127909
+MID,443951,Youness Akharraz,op_f3_passes_90,negative,-21.95405814398505
+MID,443951,Youness Akharraz,counterpressures_90,negative,-17.202386091037432
+MID,443951,Youness Akharraz,obv_dribble_carry_90,negative,-16.239772429699336
+MID,446355,Ishak Zidani,counterpressures_90,positive,35.53390176774139
+MID,446355,Ishak Zidani,key_passes_90,positive,7.806592191755428
+MID,446355,Ishak Zidani,op_f3_passes_90,positive,4.949449334612574
+MID,446355,Ishak Zidani,obv_dribble_carry_90,negative,-23.621979236815996
+MID,446355,Ishak Zidani,through_balls_90,negative,-20.764836379673138
+MID,446355,Ishak Zidani,ball_recoveries_90,negative,-8.852577012232835
+MID,450709,Joseph Bakasu       ,through_balls_90,positive,30.62640161740461
+MID,450709,Joseph Bakasu       ,counterpressures_90,positive,12.614736089090584
+MID,450709,Joseph Bakasu       ,key_passes_90,positive,10.626401617404625
+MID,450709,Joseph Bakasu       ,obv_dribble_carry_90,negative,-26.51645552545253
+MID,450709,Joseph Bakasu       ,op_f3_passes_90,negative,-20.802169811166813
+MID,450709,Joseph Bakasu       ,obv_pass_90,negative,-3.6593126683096706
+MID,477679,Redouane Oubidar,ball_recoveries_90,positive,28.82299741288203
+MID,477679,Redouane Oubidar,counterpressures_90,positive,11.736173870160265
+MID,477679,Redouane Oubidar,op_f3_passes_90,positive,2.7453086005343934
+MID,477679,Redouane Oubidar,obv_pass_90,negative,-11.540405685179895
+MID,477679,Redouane Oubidar,key_passes_90,negative,-11.540405685179895
+MID,477679,Redouane Oubidar,through_balls_90,negative,-11.540405685179895
+MID,477680,Hamza Saoud,obv_pass_90,positive,36.21236374027491
+MID,477680,Hamza Saoud,obv_dribble_carry_90,positive,33.35522088313205
+MID,477680,Hamza Saoud,key_passes_90,positive,7.64093516884634
+MID,477680,Hamza Saoud,through_balls_90,negative,-38.07335054543937
+MID,477680,Hamza Saoud,counterpressures_90,negative,-26.419873124852316
+MID,477680,Hamza Saoud,ball_recoveries_90,negative,-11.78480271937935
+MID,477682,Ayoub Benaadi,obv_pass_90,positive,23.084268185230002
+MID,477682,Ayoub Benaadi,key_passes_90,positive,23.084268185230002
+MID,477682,Ayoub Benaadi,through_balls_90,positive,23.084268185230002
+MID,477682,Ayoub Benaadi,ball_recoveries_90,negative,-46.154753518549185
+MID,477682,Ayoub Benaadi,counterpressures_90,negative,-34.98087312188652
+MID,477682,Ayoub Benaadi,obv_dribble_carry_90,negative,3.084268185230002
+MID,523308,Adil Khalloufi,obv_dribble_carry_90,positive,16.98877664047002
+MID,523308,Adil Khalloufi,ball_recoveries_90,positive,5.700731219574038
+MID,523308,Adil Khalloufi,through_balls_90,positive,5.560205211898577
+MID,523308,Adil Khalloufi,counterpressures_90,negative,-16.358900136209797
+MID,523308,Adil Khalloufi,op_f3_passes_90,negative,-8.725509073815715
+MID,523308,Adil Khalloufi,obv_pass_90,negative,-5.868366216672854
+MID,523973,Hamza Rafa,ball_recoveries_90,positive,26.893226564006866
+MID,523973,Hamza Rafa,counterpressures_90,positive,23.102723274307884
+MID,523973,Hamza Rafa,obv_dribble_carry_90,positive,2.000810032337043
+MID,523973,Hamza Rafa,key_passes_90,negative,-20.85633282480581
+MID,523973,Hamza Rafa,op_f3_passes_90,negative,-15.142047110520098
+MID,523973,Hamza Rafa,obv_pass_90,negative,-12.284904253377242
+MID,523996,Fred Duval Ngoma,obv_dribble_carry_90,positive,28.23584242599489
+MID,523996,Fred Duval Ngoma,through_balls_90,positive,11.092985283137736
+MID,523996,Fred Duval Ngoma,ball_recoveries_90,positive,9.669408170759432
+MID,523996,Fred Duval Ngoma,obv_pass_90,negative,-31.76415757400512
+MID,523996,Fred Duval Ngoma,counterpressures_90,negative,-19.4200488721624
+MID,523996,Fred Duval Ngoma,key_passes_90,negative,-0.3355861454336946
+WINGER,3302,Nordin Amrabat,key_passes_90,positive,33.26696651312717
+WINGER,3302,Nordin Amrabat,dribble_ratio,positive,29.266966513127173
+WINGER,3302,Nordin Amrabat,crossing_ratio,positive,15.266966513127173
+WINGER,3302,Nordin Amrabat,np_shots_90,negative,-46.73303348687283
+WINGER,3302,Nordin Amrabat,np_xg_90,negative,-46.73303348687283
+WINGER,3302,Nordin Amrabat,obv_dribble_carry_90,negative,5.2770476837308
+WINGER,7550,Mounir Chouiar,crossing_ratio,positive,24.26779330957192
+WINGER,7550,Mounir Chouiar,dribble_ratio,positive,12.267793309571921
+WINGER,7550,Mounir Chouiar,key_passes_90,positive,8.267793309571921
+WINGER,7550,Mounir Chouiar,obv_pass_90,negative,-38.806449662045964
+WINGER,7550,Mounir Chouiar,np_xg_90,negative,-7.732206690428072
+WINGER,7550,Mounir Chouiar,obv_dribble_carry_90,negative,-2.5325168858136564
+WINGER,16208,Arthur Kevin Yamga,crossing_ratio,positive,65.9723698136122
+WINGER,16208,Arthur Kevin Yamga,obv_pass_90,positive,15.302881240639955
+WINGER,16208,Arthur Kevin Yamga,dribble_ratio,positive,-6.027630186387796
+WINGER,16208,Arthur Kevin Yamga,obv_dribble_carry_90,negative,-25.16473030870098
+WINGER,16208,Arthur Kevin Yamga,np_shots_90,negative,-22.027630186387796
+WINGER,16208,Arthur Kevin Yamga,key_passes_90,negative,-18.027630186387796
+WINGER,34952,Soufyan Ahannach,key_passes_90,positive,30.493051655546928
+WINGER,34952,Soufyan Ahannach,np_shots_90,positive,6.493051655546928
+WINGER,34952,Soufyan Ahannach,dribble_ratio,positive,6.493051655546928
+WINGER,34952,Soufyan Ahannach,np_xg_90,negative,-29.506948344453072
+WINGER,34952,Soufyan Ahannach,obv_dribble_carry_90,negative,-13.15493304186348
+WINGER,34952,Soufyan Ahannach,crossing_ratio,negative,-1.5069483444530718
+WINGER,132614,Walid Nassi Ouled Bentle,crossing_ratio,positive,45.25747555308125
+WINGER,132614,Walid Nassi Ouled Bentle,obv_dribble_carry_90,positive,26.088264670010403
+WINGER,132614,Walid Nassi Ouled Bentle,key_passes_90,positive,13.25747555308125
+WINGER,132614,Walid Nassi Ouled Bentle,np_shots_90,negative,-42.74252444691875
+WINGER,132614,Walid Nassi Ouled Bentle,obv_pass_90,negative,-20.375642435416665
+WINGER,132614,Walid Nassi Ouled Bentle,np_xg_90,negative,-14.74252444691875
+WINGER,134249,Adam Ennaffati,dribble_ratio,positive,42.30130511933214
+WINGER,134249,Adam Ennaffati,key_passes_90,positive,38.30130511933214
+WINGER,134249,Adam Ennaffati,np_shots_90,positive,10.301305119332142
+WINGER,134249,Adam Ennaffati,crossing_ratio,negative,-33.69869488066786
+WINGER,134249,Adam Ennaffati,np_xg_90,negative,-25.698694880667855
+WINGER,134249,Adam Ennaffati,obv_dribble_carry_90,negative,-19.653904261506455
+WINGER,138895,Abdelfattah Hadraf,dribble_ratio,positive,40.96550007132623
+WINGER,138895,Abdelfattah Hadraf,crossing_ratio,positive,24.965500071326233
+WINGER,138895,Abdelfattah Hadraf,key_passes_90,positive,16.965500071326233
+WINGER,138895,Abdelfattah Hadraf,np_xg_90,negative,-23.034499928673767
+WINGER,138895,Abdelfattah Hadraf,obv_pass_90,negative,-21.064977886757767
+WINGER,138895,Abdelfattah Hadraf,obv_dribble_carry_90,negative,-19.762522469873375
+WINGER,139001,Youssef Anouar,dribble_ratio,positive,29.810788914998355
+WINGER,139001,Youssef Anouar,key_passes_90,positive,21.810788914998355
+WINGER,139001,Youssef Anouar,obv_pass_90,positive,18.250174450360362
+WINGER,139001,Youssef Anouar,np_xg_90,negative,-46.189211085001645
+WINGER,139001,Youssef Anouar,crossing_ratio,negative,-14.189211085001645
+WINGER,139001,Youssef Anouar,np_shots_90,negative,-14.189211085001645
+WINGER,139008,Amine Souane,np_shots_90,positive,37.36830745135668
+WINGER,139008,Amine Souane,np_xg_90,positive,29.368307451356678
+WINGER,139008,Amine Souane,dribble_ratio,positive,13.368307451356678
+WINGER,139008,Amine Souane,obv_dribble_carry_90,negative,-50.63169254864332
+WINGER,139008,Amine Souane,key_passes_90,negative,-34.63169254864332
+WINGER,139008,Amine Souane,obv_pass_90,negative,-4.209844708140082
+WINGER,139017,Salah-eddine Benyachou,np_shots_90,positive,41.56249426533781
+WINGER,139017,Salah-eddine Benyachou,np_xg_90,positive,37.56249426533781
+WINGER,139017,Salah-eddine Benyachou,crossing_ratio,positive,-6.437505734662189
+WINGER,139017,Salah-eddine Benyachou,dribble_ratio,negative,-24.43750573466219
+WINGER,139017,Salah-eddine Benyachou,obv_dribble_carry_90,negative,-19.093319629871182
+WINGER,139017,Salah-eddine Benyachou,obv_pass_90,negative,-18.719151696817868
+WINGER,139568,Youssef Zghoudi,np_xg_90,positive,38.82966788722259
+WINGER,139568,Youssef Zghoudi,obv_pass_90,positive,29.779633841238073
+WINGER,139568,Youssef Zghoudi,key_passes_90,positive,2.829667887222591
+WINGER,139568,Youssef Zghoudi,dribble_ratio,negative,-29.17033211277741
+WINGER,139568,Youssef Zghoudi,crossing_ratio,negative,-21.17033211277741
+WINGER,139568,Youssef Zghoudi,np_shots_90,negative,-13.170332112777409
+WINGER,140874,Reda Slim,key_passes_90,positive,29.43874043352652
+WINGER,140874,Reda Slim,obv_pass_90,positive,29.43874043352652
+WINGER,140874,Reda Slim,crossing_ratio,positive,5.438740433526519
+WINGER,140874,Reda Slim,dribble_ratio,negative,-34.56125956647348
+WINGER,140874,Reda Slim,np_shots_90,negative,-34.56125956647348
+WINGER,140874,Reda Slim,obv_dribble_carry_90,negative,-0.6324426011590987
+WINGER,143490,Ahmed Hammoudan,obv_dribble_carry_90,positive,43.27396110136335
+WINGER,143490,Ahmed Hammoudan,crossing_ratio,positive,6.533845342096214
+WINGER,143490,Ahmed Hammoudan,dribble_ratio,positive,-1.4661546579037932
+WINGER,143490,Ahmed Hammoudan,obv_pass_90,negative,-35.94318781184444
+WINGER,143490,Ahmed Hammoudan,key_passes_90,negative,-9.466154657903793
+WINGER,143490,Ahmed Hammoudan,np_xg_90,negative,-1.4661546579037932
+WINGER,179311,Imad Riahi,key_passes_90,positive,28.856140900006068
+WINGER,179311,Imad Riahi,dribble_ratio,positive,24.856140900006068
+WINGER,179311,Imad Riahi,obv_pass_90,positive,20.392314320891728
+WINGER,179311,Imad Riahi,np_shots_90,negative,-35.14385909999393
+WINGER,179311,Imad Riahi,np_xg_90,negative,-35.14385909999393
+WINGER,179311,Imad Riahi,crossing_ratio,negative,-3.143859099993932
+WINGER,199611,Youssef Mehri,np_xg_90,positive,58.33652932042425
+WINGER,199611,Youssef Mehri,np_shots_90,positive,38.33652932042425
+WINGER,199611,Youssef Mehri,obv_pass_90,positive,-6.019175922545468
+WINGER,199611,Youssef Mehri,obv_dribble_carry_90,negative,-37.66347067957575
+WINGER,199611,Youssef Mehri,key_passes_90,negative,-33.66347067957575
+WINGER,199611,Youssef Mehri,crossing_ratio,negative,-11.663470679575752
+WINGER,275341,Yazid Faffa,obv_dribble_carry_90,positive,65.11973691231728
+WINGER,275341,Yazid Faffa,np_shots_90,positive,17.119736912317286
+WINGER,275341,Yazid Faffa,np_xg_90,positive,9.119736912317286
+WINGER,275341,Yazid Faffa,crossing_ratio,negative,-30.880263087682714
+WINGER,275341,Yazid Faffa,obv_pass_90,negative,-30.71842147390369
+WINGER,275341,Yazid Faffa,dribble_ratio,negative,-18.880263087682714
+WINGER,312935,Amine Azri,obv_dribble_carry_90,positive,34.06521640546288
+WINGER,312935,Amine Azri,np_shots_90,positive,34.06521640546288
+WINGER,312935,Amine Azri,np_xg_90,positive,18.065216405462877
+WINGER,312935,Amine Azri,dribble_ratio,negative,-53.93478359453712
+WINGER,312935,Amine Azri,crossing_ratio,negative,-33.93478359453712
+WINGER,312935,Amine Azri,key_passes_90,negative,-1.934783594537123
+WINGER,358748,Abdellah Ait Brahim,obv_pass_90,positive,31.870807673740316
+WINGER,358748,Abdellah Ait Brahim,key_passes_90,positive,24.11276542723099
+WINGER,358748,Abdellah Ait Brahim,np_shots_90,positive,0.11276542723099325
+WINGER,358748,Abdellah Ait Brahim,np_xg_90,negative,-23.88723457276901
+WINGER,358748,Abdellah Ait Brahim,obv_dribble_carry_90,negative,-16.43463480989527
+WINGER,358748,Abdellah Ait Brahim,crossing_ratio,negative,-11.88723457276901
+WINGER,381935,Ismail Mihrab,obv_dribble_carry_90,positive,30.15830689278998
+WINGER,381935,Ismail Mihrab,np_xg_90,positive,28.45118477049226
+WINGER,381935,Ismail Mihrab,dribble_ratio,positive,12.451184770492262
+WINGER,381935,Ismail Mihrab,crossing_ratio,negative,-51.54881522950774
+WINGER,381935,Ismail Mihrab,obv_pass_90,negative,-20.414230745251295
+WINGER,381935,Ismail Mihrab,key_passes_90,negative,-11.548815229507738
+WINGER,409131,Abdellatif Benkassou,np_shots_90,positive,43.50295537600978
+WINGER,409131,Abdellatif Benkassou,np_xg_90,positive,23.50295537600978
+WINGER,409131,Abdellatif Benkassou,dribble_ratio,positive,11.50295537600978
+WINGER,409131,Abdellatif Benkassou,obv_pass_90,negative,-36.49704462399022
+WINGER,409131,Abdellatif Benkassou,key_passes_90,negative,-24.49704462399022
+WINGER,409131,Abdellatif Benkassou,crossing_ratio,negative,-10.49704462399022
+WINGER,435547,Abdallah Ziani,np_xg_90,positive,48.39646927481743
+WINGER,435547,Abdallah Ziani,np_shots_90,positive,40.39646927481743
+WINGER,435547,Abdallah Ziani,obv_dribble_carry_90,positive,21.596620269586545
+WINGER,435547,Abdallah Ziani,dribble_ratio,negative,-43.60353072518257
+WINGER,435547,Abdallah Ziani,key_passes_90,negative,-31.603530725182573
+WINGER,435547,Abdallah Ziani,obv_pass_90,negative,-23.578966643673642
+WINGER,449373,Marouane Oujeddou,dribble_ratio,positive,32.026719233625194
+WINGER,449373,Marouane Oujeddou,np_shots_90,positive,8.026719233625201
+WINGER,449373,Marouane Oujeddou,key_passes_90,positive,8.026719233625201
+WINGER,449373,Marouane Oujeddou,obv_pass_90,negative,-30.492141688148518
+WINGER,449373,Marouane Oujeddou,crossing_ratio,negative,-11.973280766374806
+WINGER,449373,Marouane Oujeddou,obv_dribble_carry_90,negative,-9.641454479977384
+WINGER,460266,Youness Dahmani,np_shots_90,positive,23.501785062984602
+WINGER,460266,Youness Dahmani,crossing_ratio,positive,19.501785062984602
+WINGER,460266,Youness Dahmani,dribble_ratio,positive,7.501785062984602
+WINGER,460266,Youness Dahmani,key_passes_90,negative,-32.49821493701539
+WINGER,460266,Youness Dahmani,obv_pass_90,negative,-23.030686652123364
+WINGER,460266,Youness Dahmani,obv_dribble_carry_90,negative,-2.4782386627996402
+WINGER,477555,Adam Brika,crossing_ratio,positive,24.542918920548992
+WINGER,477555,Adam Brika,np_xg_90,positive,18.542918920548992
+WINGER,477555,Adam Brika,dribble_ratio,positive,2.542918920548992
+WINGER,477555,Adam Brika,np_shots_90,negative,-21.457081079451008
+WINGER,477555,Adam Brika,key_passes_90,negative,-13.457081079451008
+WINGER,477555,Adam Brika,obv_dribble_carry_90,negative,-11.694265535985103
+WINGER,523312,Brahim Mansouri,crossing_ratio,positive,48.39167464562983
+WINGER,523312,Brahim Mansouri,key_passes_90,positive,12.391674645629827
+WINGER,523312,Brahim Mansouri,dribble_ratio,positive,0.391674645629827
+WINGER,523312,Brahim Mansouri,np_shots_90,negative,-31.608325354370173
+WINGER,523312,Brahim Mansouri,np_xg_90,negative,-27.608325354370173
+WINGER,523312,Brahim Mansouri,obv_dribble_carry_90,negative,-1.3880114801094052

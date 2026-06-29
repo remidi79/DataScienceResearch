@@ -1,0 +1,14 @@
+{
+  "dataset": "season_metadata",
+  "fields_detected": [],
+  "required_fields": [
+    "season_id",
+    "season_name",
+    "competition_id"
+  ],
+  "missing_fields": [
+    "season_id",
+    "season_name",
+    "competition_id"
+  ]
+}

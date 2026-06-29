@@ -1,0 +1,14 @@
+{
+  "dataset": "team_metadata",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/team_metadata/team_metadata.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "team_id",
+    "team_name"
+  ],
+  "missing_fields": [
+    "team_id",
+    "team_name"
+  ],
+  "generated_at": "2026-06-29T13:53:54.018113+00:00"
+}

@@ -1,0 +1,9 @@
+task_id,dataset,source,target,priority,blocking_status,validation_check,expected_min_rows,expected_min_competitions,expected_min_seasons,expected_min_matches,owner_status
+R001,competition_metadata,StatsBomb competitions/seasons endpoints or DataPlatform bronze metadata,metadata/competitions_seasons,1,blocking,"row counts, required keys, ID consistency, coverage gates",1,3,2,0,pending_dataplatform_reload
+R002,silver_matches,StatsBomb matches endpoint by competition/season,silver/silver_matches.jsonl,1,blocking,"row counts, required keys, ID consistency, coverage gates",100,3,2,100,pending_dataplatform_reload
+R003,silver_lineups,StatsBomb lineups endpoint by match,silver/silver_lineups.jsonl,1,blocking,"row counts, required keys, ID consistency, coverage gates",3000,3,2,100,pending_dataplatform_reload
+R004,silver_events,StatsBomb events endpoint by match,silver/silver_events.jsonl,1,blocking,"row counts, required keys, ID consistency, coverage gates",250000,3,2,100,pending_dataplatform_reload
+R005,player_match_stats_direct,StatsBomb player match stats endpoint,marts_v2/mart_statsbomb_player_match_stats_direct_v1.jsonl,1,blocking,"row counts, required keys, ID consistency, coverage gates",3000,3,2,100,pending_dataplatform_reload
+R006,team_match_stats_direct,StatsBomb team match stats endpoint,marts_v2/mart_statsbomb_team_match_stats_direct_v1.jsonl,1,blocking,"row counts, required keys, ID consistency, coverage gates",200,3,2,100,pending_dataplatform_reload
+R007,player_season_stats_direct,StatsBomb player season stats endpoint,marts_v2/mart_statsbomb_player_season_stats_direct_v1.jsonl,2,blocking,"row counts, required keys, ID consistency, coverage gates",300,3,2,0,pending_dataplatform_reload
+R008,team_season_stats_direct,StatsBomb team season stats endpoint,marts_v2/mart_statsbomb_team_season_stats_direct_v1.jsonl,2,blocking,"row counts, required keys, ID consistency, coverage gates",20,3,2,0,pending_dataplatform_reload

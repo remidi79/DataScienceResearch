@@ -1,0 +1,22 @@
+{
+  "dataset": "player_season_stats_direct",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_player_season_stats_direct_v1.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "player_id",
+    "player_name",
+    "team_id",
+    "competition_id",
+    "season_id",
+    "minutes"
+  ],
+  "missing_fields": [
+    "player_id",
+    "player_name",
+    "team_id",
+    "competition_id",
+    "season_id",
+    "minutes"
+  ],
+  "generated_at": "2026-06-29T13:53:54.016972+00:00"
+}

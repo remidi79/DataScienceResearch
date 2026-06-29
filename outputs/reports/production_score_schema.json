@@ -1,0 +1,1207 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Football Score Engine PlayerScore",
+  "type": "object",
+  "required": [
+    "player_id",
+    "role",
+    "score_engine_version",
+    "scores",
+    "percentiles",
+    "confidence",
+    "metric_contributions",
+    "dimension_contributions",
+    "strengths",
+    "weaknesses",
+    "quality_flags",
+    "metadata"
+  ],
+  "properties": {
+    "player_id": {
+      "type": "string"
+    },
+    "player_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "role": {
+      "type": "string",
+      "enum": [
+        "GK",
+        "CB",
+        "FB",
+        "MID",
+        "WINGER",
+        "CF"
+      ]
+    },
+    "score_engine_version": {
+      "type": "string"
+    },
+    "scores": {
+      "type": "object",
+      "properties": {
+        "overall": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        },
+        "dimensions": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+          }
+        }
+      }
+    },
+    "percentiles": {
+      "type": "object",
+      "properties": {
+        "role": {
+          "type": "number"
+        },
+        "competition": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "global": {
+          "type": [
+            "number",
+            "null"
+          ]
+        }
+      }
+    },
+    "confidence": {
+      "type": "object",
+      "required": [
+        "confidence_index",
+        "confidence_interval",
+        "bootstrap_stability",
+        "weight_stability",
+        "minutes_reliability",
+        "population_reliability",
+        "metric_coverage",
+        "data_quality",
+        "validation_status"
+      ]
+    },
+    "metric_contributions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "metric",
+          "dimension",
+          "raw_value",
+          "normalized_value",
+          "direction",
+          "weight",
+          "contribution"
+        ]
+      }
+    },
+    "dimension_contributions": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "dimension",
+          "score",
+          "weight",
+          "contribution"
+        ]
+      }
+    },
+    "strengths": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "weaknesses": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "quality_flags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "metadata": {
+      "type": "object"
+    }
+  },
+  "score_engine_roles": {
+    "GK": {
+      "score_name": "GK_prototype_role_score",
+      "status": "research_validation_score",
+      "role_specific": true,
+      "metrics": [
+        {
+          "metric": "goals_faced_90",
+          "dimension_id": "GK_D1",
+          "weight": 0.3051239029370946,
+          "normalization": "percentile_rank",
+          "direction": "lower_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "wide_confidence_interval"
+          ]
+        },
+        {
+          "metric": "obv_pass_90",
+          "dimension_id": "GK_D1",
+          "weight": 0.3078646518127998,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "wide_confidence_interval"
+          ]
+        },
+        {
+          "metric": "pass_length",
+          "dimension_id": "GK_D1",
+          "weight": 0.3870114452501056,
+          "normalization": "winsorized_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "high_method_disagreement",
+            "wide_confidence_interval"
+          ]
+        },
+        {
+          "metric": "p_pass_length",
+          "dimension_id": "GK_D2",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "average_x_defensive_action",
+          "dimension_id": "GK_D3",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "dimension_id": "GK_D1",
+          "weight": 0.3154710460629024,
+          "number_of_metrics": 3,
+          "confidence_level": "low",
+          "warning_flags": [
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "GK_D2",
+          "weight": 0.385256152258395,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "GK_D3",
+          "weight": 0.2992728016787025,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        }
+      ],
+      "calibration": {
+        "percentile_scope": "within_role_family",
+        "competition_percentile": "secondary_output",
+        "global_percentile": "secondary_output",
+        "calibration_status": "requires_full_population_recalibration"
+      }
+    },
+    "CB": {
+      "score_name": "CB_prototype_role_score",
+      "status": "research_validation_score",
+      "role_specific": true,
+      "metrics": [
+        {
+          "metric": "obv_defensive_action_90",
+          "dimension_id": "CB_D1",
+          "weight": 1.0,
+          "normalization": "winsorized_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "op_xgbuildup_90",
+          "dimension_id": "CB_D2",
+          "weight": 1.0,
+          "normalization": "robust_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "aerial_ratio",
+          "dimension_id": "CB_D3",
+          "weight": 1.0,
+          "normalization": "winsorized_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "interceptions_90",
+          "dimension_id": "CB_D4",
+          "weight": 1.0,
+          "normalization": "log_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "obv_pass_90",
+          "dimension_id": "CB_D5",
+          "weight": 1.0,
+          "normalization": "winsorized_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "op_f3_passes_90",
+          "dimension_id": "CB_D6",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "ball_recoveries_90",
+          "dimension_id": "CB_D7",
+          "weight": 1.0,
+          "normalization": "min_max",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "blocks_per_shot",
+          "dimension_id": "CB_D8",
+          "weight": 1.0,
+          "normalization": "min_max",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "clearance_90",
+          "dimension_id": "CB_D9",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "dimension_id": "CB_D1",
+          "weight": 0.0913135819047432,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CB_D2",
+          "weight": 0.1307944295646897,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CB_D3",
+          "weight": 0.1261520539248123,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CB_D4",
+          "weight": 0.1189891943534493,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CB_D5",
+          "weight": 0.0934351270839692,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CB_D6",
+          "weight": 0.112007042085517,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CB_D7",
+          "weight": 0.1175685491737079,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CB_D8",
+          "weight": 0.1023037951575486,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CB_D9",
+          "weight": 0.1074362267515625,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        }
+      ],
+      "calibration": {
+        "percentile_scope": "within_role_family",
+        "competition_percentile": "secondary_output",
+        "global_percentile": "secondary_output",
+        "calibration_status": "requires_full_population_recalibration"
+      }
+    },
+    "FB": {
+      "score_name": "FB_prototype_role_score",
+      "status": "research_validation_score",
+      "role_specific": true,
+      "metrics": [
+        {
+          "metric": "ball_recoveries_90",
+          "dimension_id": "FB_D1",
+          "weight": 1.0,
+          "normalization": "z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "counterpressures_90",
+          "dimension_id": "FB_D2",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "obv_dribble_carry_90",
+          "dimension_id": "FB_D3",
+          "weight": 0.4646627107759882,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "high_method_disagreement"
+          ]
+        },
+        {
+          "metric": "op_f3_passes_90",
+          "dimension_id": "FB_D3",
+          "weight": 0.5353372892240118,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "high_method_disagreement"
+          ]
+        },
+        {
+          "metric": "box_cross_ratio",
+          "dimension_id": "FB_D4",
+          "weight": 1.0,
+          "normalization": "log_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "key_passes_90",
+          "dimension_id": "FB_D5",
+          "weight": 1.0,
+          "normalization": "log_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "dribble_ratio",
+          "dimension_id": "FB_D6",
+          "weight": 1.0,
+          "normalization": "log_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "obv_pass_90",
+          "dimension_id": "FB_D7",
+          "weight": 1.0,
+          "normalization": "robust_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "dimension_id": "FB_D1",
+          "weight": 0.1286751312635452,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "FB_D2",
+          "weight": 0.1362716503969289,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "FB_D3",
+          "weight": 0.1470749979196108,
+          "number_of_metrics": 2,
+          "confidence_level": "low",
+          "warning_flags": [
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "FB_D4",
+          "weight": 0.1295442393933857,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "FB_D5",
+          "weight": 0.1612719704160795,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "FB_D6",
+          "weight": 0.1593828952529595,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "FB_D7",
+          "weight": 0.1377791153574903,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        }
+      ],
+      "calibration": {
+        "percentile_scope": "within_role_family",
+        "competition_percentile": "secondary_output",
+        "global_percentile": "secondary_output",
+        "calibration_status": "requires_full_population_recalibration"
+      }
+    },
+    "MID": {
+      "score_name": "MID_prototype_role_score",
+      "status": "research_validation_score",
+      "role_specific": true,
+      "metrics": [
+        {
+          "metric": "key_passes_90",
+          "dimension_id": "MID_D1",
+          "weight": 0.4360290041716492,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "high_method_disagreement"
+          ]
+        },
+        {
+          "metric": "op_f3_passes_90",
+          "dimension_id": "MID_D1",
+          "weight": 0.5639709958283508,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "high_method_disagreement"
+          ]
+        },
+        {
+          "metric": "through_balls_90",
+          "dimension_id": "MID_D2",
+          "weight": 1.0,
+          "normalization": "quantile_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "obv_pass_90",
+          "dimension_id": "MID_D4",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "obv_dribble_carry_90",
+          "dimension_id": "MID_D5",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "ball_recoveries_90",
+          "dimension_id": "MID_D6",
+          "weight": 1.0,
+          "normalization": "robust_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "counterpressures_90",
+          "dimension_id": "MID_D7",
+          "weight": 1.0,
+          "normalization": "z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "single_metric_dimension"
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "dimension_id": "MID_D1",
+          "weight": 0.1795532754603053,
+          "number_of_metrics": 2,
+          "confidence_level": "low",
+          "warning_flags": [
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "MID_D2",
+          "weight": 0.1604972240972159,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "MID_D4",
+          "weight": 0.145098530084538,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "MID_D5",
+          "weight": 0.1619335043894743,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "MID_D6",
+          "weight": 0.1850608329011326,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "MID_D7",
+          "weight": 0.1678566330673337,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "unstable_weight"
+          ]
+        }
+      ],
+      "calibration": {
+        "percentile_scope": "within_role_family",
+        "competition_percentile": "secondary_output",
+        "global_percentile": "secondary_output",
+        "calibration_status": "requires_full_population_recalibration"
+      }
+    },
+    "WINGER": {
+      "score_name": "WINGER_prototype_role_score",
+      "status": "research_validation_score",
+      "role_specific": true,
+      "metrics": [
+        {
+          "metric": "np_shots_90",
+          "dimension_id": "WINGER_D1",
+          "weight": 0.5353035045045068,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "high_method_disagreement"
+          ]
+        },
+        {
+          "metric": "np_xg_90",
+          "dimension_id": "WINGER_D1",
+          "weight": 0.4646964954954932,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "high_method_disagreement"
+          ]
+        },
+        {
+          "metric": "key_passes_90",
+          "dimension_id": "WINGER_D2",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "obv_pass_90",
+          "dimension_id": "WINGER_D3",
+          "weight": 1.0,
+          "normalization": "log_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "dribble_ratio",
+          "dimension_id": "WINGER_D4",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "crossing_ratio",
+          "dimension_id": "WINGER_D5",
+          "weight": 1.0,
+          "normalization": "percentile_rank",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "obv_dribble_carry_90",
+          "dimension_id": "WINGER_D6",
+          "weight": 1.0,
+          "normalization": "winsorized_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "dimension_id": "WINGER_D1",
+          "weight": 0.1814910313534977,
+          "number_of_metrics": 2,
+          "confidence_level": "low",
+          "warning_flags": [
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "WINGER_D2",
+          "weight": 0.1843048261728965,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "WINGER_D3",
+          "weight": 0.1382550215490106,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "WINGER_D4",
+          "weight": 0.1820369373273654,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "WINGER_D5",
+          "weight": 0.1795022603979958,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "WINGER_D6",
+          "weight": 0.1344099231992338,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        }
+      ],
+      "calibration": {
+        "percentile_scope": "within_role_family",
+        "competition_percentile": "secondary_output",
+        "global_percentile": "secondary_output",
+        "calibration_status": "requires_full_population_recalibration"
+      }
+    },
+    "CF": {
+      "score_name": "CF_prototype_role_score",
+      "status": "research_validation_score",
+      "role_specific": true,
+      "metrics": [
+        {
+          "metric": "goals_90",
+          "dimension_id": "CF_D1",
+          "weight": 0.2315312346992665,
+          "normalization": "log_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "wide_confidence_interval"
+          ]
+        },
+        {
+          "metric": "np_xg_90",
+          "dimension_id": "CF_D1",
+          "weight": 0.2329031381291347,
+          "normalization": "z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "wide_confidence_interval"
+          ]
+        },
+        {
+          "metric": "op_passes_into_and_touches_inside_box_90",
+          "dimension_id": "CF_D1",
+          "weight": 0.3041348706890016,
+          "normalization": "winsorized_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "high_method_disagreement",
+            "wide_confidence_interval"
+          ]
+        },
+        {
+          "metric": "op_xgchain_90",
+          "dimension_id": "CF_D1",
+          "weight": 0.2314307564825971,
+          "normalization": "log_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "wide_confidence_interval"
+          ]
+        },
+        {
+          "metric": "np_shots_90",
+          "dimension_id": "CF_D2",
+          "weight": 1.0,
+          "normalization": "winsorized_z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "aerial_ratio",
+          "dimension_id": "CF_D3",
+          "weight": 1.0,
+          "normalization": "z_score",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "available_match_level",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        },
+        {
+          "metric": "aerial_wins_90",
+          "dimension_id": "CF_D4",
+          "weight": 1.0,
+          "normalization": "log_transform",
+          "direction": "higher_is_better",
+          "match_level_mapping_status": "season_only_metric",
+          "include_in_score": true,
+          "confidence": "low",
+          "warning_flags": [
+            "small_sample",
+            "single_metric_dimension"
+          ]
+        }
+      ],
+      "dimensions": [
+        {
+          "dimension_id": "CF_D1",
+          "weight": 0.2276288952196653,
+          "number_of_metrics": 4,
+          "confidence_level": "low",
+          "warning_flags": [
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CF_D2",
+          "weight": 0.2801097265043216,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CF_D3",
+          "weight": 0.264481383795097,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        },
+        {
+          "dimension_id": "CF_D4",
+          "weight": 0.2277799944809161,
+          "number_of_metrics": 1,
+          "confidence_level": "low",
+          "warning_flags": [
+            "single_metric_dimension",
+            "small_sample",
+            "unstable_weight"
+          ]
+        }
+      ],
+      "calibration": {
+        "percentile_scope": "within_role_family",
+        "competition_percentile": "secondary_output",
+        "global_percentile": "secondary_output",
+        "calibration_status": "requires_full_population_recalibration"
+      }
+    }
+  }
+}

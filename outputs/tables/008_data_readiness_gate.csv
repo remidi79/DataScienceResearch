@@ -1,0 +1,11 @@
+criterion,observed,minimum_required,status,blocks_production_candidate
+at_least_2_seasons,1,2,FAIL,True
+at_least_3_competitions_if_available,1,3,FAIL,True
+enough_matches_for_temporal_validation,11,100,FAIL,True
+enough_teams_for_context_bias_testing,18,20,FAIL,True
+enough_goalkeepers,12,20,FAIL,True
+enough_cb_eligible_players,25,50,FAIL,True
+enough_fb_eligible_players,23,50,FAIL,True
+enough_mid_eligible_players,34,50,FAIL,True
+enough_winger_eligible_players,25,50,FAIL,True
+enough_cf_eligible_players,22,50,FAIL,True

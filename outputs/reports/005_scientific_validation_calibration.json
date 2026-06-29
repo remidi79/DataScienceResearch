@@ -1,0 +1,103 @@
+{
+  "experiment_id": "005",
+  "title": "Scientific Validation & Calibration of the Football Score Engine",
+  "generated_at": "2026-06-29T10:28:35.389115+00:00",
+  "data_root": "/home/platform/DataPlatform/tmp/master_data_warehouse",
+  "production_coefficients_declared": false,
+  "production_ready": false,
+  "table_counts": {
+    "bootstrap_statistics": 141,
+    "score_confidence": 141,
+    "reliability_summary": 6,
+    "score_correlations": 595,
+    "score_mutual_information": 595,
+    "score_redundancy": 0,
+    "rank_stability": 141,
+    "weight_confidence_intervals": 43,
+    "production_readiness": 48,
+    "football_review_candidates": 285,
+    "score_sensitivity_analysis": 2205,
+    "rank_instability_players": 157,
+    "explainability_contributions": 846,
+    "dimension_independence_pca": 10
+  },
+  "figures_generated": 38,
+  "figure_paths": [
+    "outputs/figures/005_GK_bootstrap_distribution.png",
+    "outputs/figures/005_GK_confidence_intervals.png",
+    "outputs/figures/005_GK_rank_stability.png",
+    "outputs/figures/005_GK_sensitivity_tornado.png",
+    "outputs/figures/005_GK_confidence_distribution.png",
+    "outputs/figures/005_GK_top_bottom_dashboard.png",
+    "outputs/figures/005_CB_bootstrap_distribution.png",
+    "outputs/figures/005_CB_confidence_intervals.png",
+    "outputs/figures/005_CB_rank_stability.png",
+    "outputs/figures/005_CB_sensitivity_tornado.png",
+    "outputs/figures/005_CB_confidence_distribution.png",
+    "outputs/figures/005_CB_top_bottom_dashboard.png",
+    "outputs/figures/005_FB_bootstrap_distribution.png",
+    "outputs/figures/005_FB_confidence_intervals.png",
+    "outputs/figures/005_FB_rank_stability.png",
+    "outputs/figures/005_FB_sensitivity_tornado.png",
+    "outputs/figures/005_FB_confidence_distribution.png",
+    "outputs/figures/005_FB_top_bottom_dashboard.png",
+    "outputs/figures/005_MID_bootstrap_distribution.png",
+    "outputs/figures/005_MID_confidence_intervals.png",
+    "outputs/figures/005_MID_rank_stability.png",
+    "outputs/figures/005_MID_sensitivity_tornado.png",
+    "outputs/figures/005_MID_confidence_distribution.png",
+    "outputs/figures/005_MID_top_bottom_dashboard.png",
+    "outputs/figures/005_WINGER_bootstrap_distribution.png",
+    "outputs/figures/005_WINGER_confidence_intervals.png",
+    "outputs/figures/005_WINGER_rank_stability.png",
+    "outputs/figures/005_WINGER_sensitivity_tornado.png",
+    "outputs/figures/005_WINGER_confidence_distribution.png",
+    "outputs/figures/005_WINGER_top_bottom_dashboard.png",
+    "outputs/figures/005_CF_bootstrap_distribution.png",
+    "outputs/figures/005_CF_confidence_intervals.png",
+    "outputs/figures/005_CF_rank_stability.png",
+    "outputs/figures/005_CF_sensitivity_tornado.png",
+    "outputs/figures/005_CF_confidence_distribution.png",
+    "outputs/figures/005_CF_top_bottom_dashboard.png",
+    "outputs/figures/005_score_redundancy_heatmap.png",
+    "outputs/figures/005_score_dendrogram.png"
+  ],
+  "role_summary": [
+    {
+      "role": "GK",
+      "players_validated": 12,
+      "avg_confidence": 70.79339522569695,
+      "readiness": "Prototype"
+    },
+    {
+      "role": "CB",
+      "players_validated": 25,
+      "avg_confidence": 69.31989589322734,
+      "readiness": "Prototype"
+    },
+    {
+      "role": "FB",
+      "players_validated": 23,
+      "avg_confidence": 69.1684553765566,
+      "readiness": "Prototype"
+    },
+    {
+      "role": "MID",
+      "players_validated": 34,
+      "avg_confidence": 73.13607100968984,
+      "readiness": "Prototype"
+    },
+    {
+      "role": "WINGER",
+      "players_validated": 25,
+      "avg_confidence": 66.84374968214432,
+      "readiness": "Prototype"
+    },
+    {
+      "role": "CF",
+      "players_validated": 22,
+      "avg_confidence": 67.87744171424787,
+      "readiness": "Prototype"
+    }
+  ]
+}

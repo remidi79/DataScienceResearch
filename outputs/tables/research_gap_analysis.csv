@@ -1,0 +1,57 @@
+role,gap_type,gap_description,severity,required_action,blocks_version
+GK,enough_eligible_players,Production gate criterion `enough_eligible_players` is FAIL.,high,Investigate and rerun validation.,1.0
+GK,enough_matches,Production gate criterion `enough_matches` is FAIL.,high,Investigate and rerun validation.,1.0
+GK,enough_seasons,Production gate criterion `enough_seasons` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+GK,enough_competitions,Production gate criterion `enough_competitions` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+GK,cross_season_stability,Production gate criterion `cross_season_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+GK,cross_competition_stability,Production gate criterion `cross_competition_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+GK,low_population_drift,Production gate criterion `low_population_drift` is FAIL.,high,Investigate and rerun validation.,1.0
+GK,expert_review_completed,Production gate criterion `expert_review_completed` is PENDING.,medium,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+GK,match_metric_mapping,4 score metrics are not directly available at match level.,medium,Complete match-level metric mapping or define approved approximations.,0.9
+CB,enough_eligible_players,Production gate criterion `enough_eligible_players` is FAIL.,high,Investigate and rerun validation.,1.0
+CB,enough_matches,Production gate criterion `enough_matches` is FAIL.,high,Investigate and rerun validation.,1.0
+CB,enough_seasons,Production gate criterion `enough_seasons` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+CB,enough_competitions,Production gate criterion `enough_competitions` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+CB,cross_season_stability,Production gate criterion `cross_season_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+CB,cross_competition_stability,Production gate criterion `cross_competition_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+CB,low_population_drift,Production gate criterion `low_population_drift` is FAIL.,high,Investigate and rerun validation.,1.0
+CB,expert_review_completed,Production gate criterion `expert_review_completed` is PENDING.,medium,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+CB,no_severe_team_context_bias,Production gate criterion `no_severe_team_context_bias` is FAIL.,high,Investigate and rerun validation.,1.0
+CB,match_metric_mapping,2 score metrics are not directly available at match level.,medium,Complete match-level metric mapping or define approved approximations.,0.9
+FB,enough_eligible_players,Production gate criterion `enough_eligible_players` is FAIL.,high,Investigate and rerun validation.,1.0
+FB,enough_matches,Production gate criterion `enough_matches` is FAIL.,high,Investigate and rerun validation.,1.0
+FB,enough_seasons,Production gate criterion `enough_seasons` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+FB,enough_competitions,Production gate criterion `enough_competitions` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+FB,cross_season_stability,Production gate criterion `cross_season_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+FB,cross_competition_stability,Production gate criterion `cross_competition_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+FB,low_population_drift,Production gate criterion `low_population_drift` is FAIL.,high,Investigate and rerun validation.,1.0
+FB,expert_review_completed,Production gate criterion `expert_review_completed` is PENDING.,medium,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+FB,match_metric_mapping,1 score metrics are not directly available at match level.,medium,Complete match-level metric mapping or define approved approximations.,0.9
+MID,enough_eligible_players,Production gate criterion `enough_eligible_players` is FAIL.,high,Investigate and rerun validation.,1.0
+MID,enough_matches,Production gate criterion `enough_matches` is FAIL.,high,Investigate and rerun validation.,1.0
+MID,enough_seasons,Production gate criterion `enough_seasons` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+MID,enough_competitions,Production gate criterion `enough_competitions` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+MID,cross_season_stability,Production gate criterion `cross_season_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+MID,cross_competition_stability,Production gate criterion `cross_competition_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+MID,low_population_drift,Production gate criterion `low_population_drift` is FAIL.,high,Investigate and rerun validation.,1.0
+MID,expert_review_completed,Production gate criterion `expert_review_completed` is PENDING.,medium,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+WINGER,enough_eligible_players,Production gate criterion `enough_eligible_players` is FAIL.,high,Investigate and rerun validation.,1.0
+WINGER,enough_matches,Production gate criterion `enough_matches` is FAIL.,high,Investigate and rerun validation.,1.0
+WINGER,enough_seasons,Production gate criterion `enough_seasons` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+WINGER,enough_competitions,Production gate criterion `enough_competitions` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+WINGER,cross_season_stability,Production gate criterion `cross_season_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+WINGER,cross_competition_stability,Production gate criterion `cross_competition_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+WINGER,low_population_drift,Production gate criterion `low_population_drift` is FAIL.,high,Investigate and rerun validation.,1.0
+WINGER,expert_review_completed,Production gate criterion `expert_review_completed` is PENDING.,medium,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+WINGER,no_severe_team_context_bias,Production gate criterion `no_severe_team_context_bias` is FAIL.,high,Investigate and rerun validation.,1.0
+WINGER,match_metric_mapping,1 score metrics are not directly available at match level.,medium,Complete match-level metric mapping or define approved approximations.,0.9
+CF,enough_eligible_players,Production gate criterion `enough_eligible_players` is FAIL.,high,Investigate and rerun validation.,1.0
+CF,enough_matches,Production gate criterion `enough_matches` is FAIL.,high,Investigate and rerun validation.,1.0
+CF,enough_seasons,Production gate criterion `enough_seasons` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+CF,enough_competitions,Production gate criterion `enough_competitions` is FAIL.,high,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+CF,cross_season_stability,Production gate criterion `cross_season_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+CF,cross_competition_stability,Production gate criterion `cross_competition_stability` is FAIL.,high,Investigate and rerun validation.,1.0
+CF,low_population_drift,Production gate criterion `low_population_drift` is FAIL.,high,Investigate and rerun validation.,1.0
+CF,expert_review_completed,Production gate criterion `expert_review_completed` is PENDING.,medium,"Load full StatsBomb population, rerun validation, and complete expert review.",1.0
+CF,no_severe_minutes_threshold_instability,Production gate criterion `no_severe_minutes_threshold_instability` is FAIL.,high,Investigate and rerun validation.,1.0
+CF,match_metric_mapping,2 score metrics are not directly available at match level.,medium,Complete match-level metric mapping or define approved approximations.,0.9

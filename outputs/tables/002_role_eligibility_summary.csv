@@ -1,0 +1,7 @@
+role_family,threshold_minutes,assigned_players,eligible_players,median_minutes,stable_metrics
+GK,600.0,19,12,1502.3833,79
+CB,900.0,44,25,1182.89995,101
+FB,900.0,45,23,1118.9917,101
+MID,900.0,77,34,910.6500249999999,97
+WINGER,750.0,57,25,662.01666,99
+CF,750.0,37,22,987.133325,97

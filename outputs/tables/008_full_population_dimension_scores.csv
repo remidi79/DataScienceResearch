@@ -1,0 +1,865 @@
+role,latent_dimension,player_id,player_name,team_id,team_name,minutes,dimension_score,number_of_available_metrics,missing_metric_count,confidence_flag,single_metric_dimension_warning,dimension_percentile,dimension_rank_within_role,experiment_008_status
+CB,CB_D1,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,51.227151902245815,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D1,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,48.342249275306735,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+CB,CB_D1,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,38.78193112223114,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+CB,CB_D1,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,54.87612189068648,2,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D1,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,26.428899827887182,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D1,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,46.73997536012383,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D1,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,79.00437582565473,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D1,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,70.01745784706105,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D1,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,94.36608676136504,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D1,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,41.23169763829683,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D1,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,37.621128228639954,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D1,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,53.85600856718228,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D1,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,34.32309583387007,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D1,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,0.0,1,0,low,True,6.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D1,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,100.0,1,0,low,True,98.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D1,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,78.53872085100114,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D1,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,84.43700559330185,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D1,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,56.53879079286121,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D1,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,100.0,1,0,low,True,98.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D1,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,41.24453753112577,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D1,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,25.786099435923106,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D1,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,25.503680523018065,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D1,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,57.17712492109699,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D1,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,54.79814689241316,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D1,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,0.0,1,0,low,True,6.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D2,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,72.34642180804613,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D2,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,40.97237999922151,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D2,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D2,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,32.2455869685154,2,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D2,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,84.73791530431957,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D2,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,48.53090222071037,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+CB,CB_D2,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,53.70065511125552,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D2,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,24.68619741424828,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D2,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,14.466433798392938,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D2,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,38.56848258649634,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D2,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,55.75052209202358,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D2,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,38.305405746735445,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+CB,CB_D2,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,75.71249007855918,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D2,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,52.48477619429608,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D2,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,22.251401271298302,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D2,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,47.64893849045173,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D2,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,34.86986623613114,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D2,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,56.5430632839842,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D2,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,11.711985862052623,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+CB,CB_D2,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,28.395494121599203,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D2,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,85.2955573945831,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+CB,CB_D2,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,52.5808174336427,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D2,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,52.47419896529315,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D2,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,79.49109672325906,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D2,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,76.56580009544892,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D3,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,88.90080198996442,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D3,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,53.04713299309517,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D3,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,58.21301326022555,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D3,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,14.667410044173774,2,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D3,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,67.84668186649577,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D3,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,5.133593515460849,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D3,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,71.18995344934224,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D3,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,18.823176223356374,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D3,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,38.16715178886092,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+CB,CB_D3,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,49.44461122785954,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+CB,CB_D3,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,48.157996311703926,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D3,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,57.46312741499695,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D3,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,89.55268688081658,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D3,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,43.92074452116485,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D3,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,65.49220818209113,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D3,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,49.935864195846186,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D3,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,0.0,1,0,low,True,6.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D3,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,18.20092246390655,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D3,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,0.0,1,0,low,True,6.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D3,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,89.36643405485881,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D3,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,100.0,1,0,low,True,98.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D3,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,27.217731657443235,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D3,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,83.73068044182655,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D3,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,42.09546682677877,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D3,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,100.0,1,0,low,True,98.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D4,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,24.56730533358632,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D4,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,16.689961388361727,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D4,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D4,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,0.8392557471265818,2,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+CB,CB_D4,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,67.59143980291627,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D4,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,27.38833398418648,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D4,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,15.132700103247974,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D4,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,53.50802886515944,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D4,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,36.67430155164273,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D4,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,10.934210905323264,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D4,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,60.76514235068131,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D4,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,38.043947525456026,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D4,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,52.18600751273949,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D4,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,59.69283277405864,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D4,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,16.423639752351107,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D4,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,41.32006141054798,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+CB,CB_D4,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,72.3454721765566,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D4,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,70.58547757846523,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D4,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,44.73018534838388,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D4,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,49.37736908038952,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D4,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,27.06110397275336,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+CB,CB_D4,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,65.03210448347336,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D4,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,22.453127857109145,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D4,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,43.44826801872203,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D4,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,98.73683106058772,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+CB,CB_D5,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,35.44062588331276,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D5,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,52.28449568597164,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D5,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,64.46847127501897,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D5,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,60.78611776926654,2,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D5,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,51.59806711686331,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D5,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,59.99552699259151,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D5,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,79.88550694967289,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D5,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,100.0,1,0,low,True,98.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D5,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,0.0,1,0,low,True,6.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D5,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,44.509700746046136,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D5,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,50.77953464178663,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D5,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,71.10150516594084,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D5,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,100.0,1,0,low,True,98.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D5,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,66.0978390542443,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D5,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,35.09218055257844,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D5,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,88.27179351276362,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D5,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,98.15376790181088,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D5,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,35.4466670472642,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D5,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,41.26578823860761,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+CB,CB_D5,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,12.032165568292948,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D5,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,52.22188936376783,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+CB,CB_D5,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,36.08928507856308,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D5,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,59.70491144551352,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D5,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,87.3549653453054,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D5,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,0.0,1,0,low,True,6.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D6,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,76.92307692307693,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D6,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,23.07692307692308,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D6,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,84.61538461538461,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D6,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,50.0,2,0,low,True,50.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D6,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,57.692307692307686,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D6,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,26.923076923076923,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D6,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,69.23076923076923,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D6,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,96.15384615384616,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+CB,CB_D6,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,11.538461538461538,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D6,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,30.76923076923077,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+CB,CB_D6,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D6,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,61.53846153846154,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D6,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,88.46153846153845,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D6,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,3.8461538461538463,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+CB,CB_D6,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,38.46153846153847,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D6,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,42.30769230769231,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D6,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,34.61538461538461,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D6,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,50.0,1,0,low,True,50.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D6,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,15.384615384615383,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D6,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,7.6923076923076925,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D6,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,80.76923076923077,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D6,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,73.07692307692307,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D6,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,65.38461538461539,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D6,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,92.3076923076923,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D6,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,19.230769230769237,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D7,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,74.96584323449802,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D7,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,53.65771361204874,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D7,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,58.80084727692471,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D7,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,28.584943687060687,2,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D7,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,33.309506420686816,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D7,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,25.70725158346964,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D7,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,51.77730270665043,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D7,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,78.575156571544,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D7,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,22.46612649878031,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D7,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,48.73462499466929,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+CB,CB_D7,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,81.92766741722036,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D7,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,73.18362466581506,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D7,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,63.073311294331305,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D7,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,37.27213730439821,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D7,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,44.82084939315423,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D7,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,78.42131060985777,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D7,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D7,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,51.76395582897225,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D7,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,10.155332318518605,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+CB,CB_D7,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,76.40930448670997,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D7,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,16.23179636661589,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D7,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,41.27236427269242,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+CB,CB_D7,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,90.1595148160156,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+CB,CB_D7,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,42.89757859446316,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D7,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,48.60845417640398,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D8,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,47.75075751689845,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D8,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,42.62295081967214,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D8,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,59.01639344262295,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D8,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,57.77863351303774,2,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D8,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,24.863387978142075,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D8,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,60.390145617730575,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D8,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,57.1101791841403,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D8,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,40.53017091035926,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+CB,CB_D8,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,70.72599531615926,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D8,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,81.37108792846497,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+CB,CB_D8,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,33.02678928428629,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D8,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,21.875000000000004,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D8,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,0.0,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+CB,CB_D8,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,71.9585849870578,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D8,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,76.2959680992468,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D8,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,35.730253353204176,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D8,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,18.45529829305391,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D8,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,41.699376587393225,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D8,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,46.074201898188086,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+CB,CB_D8,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,28.94801878243678,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D8,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,43.57329531955335,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D8,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,82.32816964957136,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D8,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,74.71224276246949,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D8,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,64.64772869478163,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D8,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,48.77049180327869,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D9,131244,Ismaël Kandouss,2762,RSB Berkane,2149.25,34.61538461538461,1,0,low,True,34.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D9,138871,Karim El Bounagat,25917,CODM Meknès,2001.0168,53.84615384615385,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+CB,CB_D9,138918,Marwan Louadni,2838,FAR Rabat,1607.0668,26.923076923076923,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+CB,CB_D9,138958,Mouad Bahsain,6992,Hassania Agadir,1506.3167,34.61538461538461,2,0,low,True,34.0,17.0,not_recalculated_full_population_unavailable
+CB,CB_D9,138998,Abdellah Khafifi,2349,Raja Casablanca,1950.3999,57.692307692307686,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+CB,CB_D9,139023,Amine Aboulfath,6994,Wydad Casablanca,1608.4166,65.38461538461539,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+CB,CB_D9,139556,Bilal El Ouadghiri,2839,Ittihad Tanger,1500.8333,69.23076923076923,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+CB,CB_D9,157113,Badr Gaddarine,2839,Ittihad Tanger,1892.25,30.76923076923077,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+CB,CB_D9,202502,Soulaimane El Amrani,6992,Hassania Agadir,1117.3333,23.07692307692308,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+CB,CB_D9,313283,Tahar Ahmed Madeira El Khalej,11935,UTS Rabat,1015.96655,50.0,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+CB,CB_D9,314452,Zouhair Marour,36100,US Yacoub El Mansour,2187.6167,11.538461538461538,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+CB,CB_D9,314466,Mohamed Saoud,2839,Ittihad Tanger,2195.433,80.76923076923077,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+CB,CB_D9,3252,Oussama Haddadi,2762,RSB Berkane,1504.85,15.384615384615383,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+CB,CB_D9,338916,Johnstone Omurwa,36099,KAC Marrakech,1145.9666,96.15384615384616,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+CB,CB_D9,363239,Bilal Soufi,18552,Renaissance Zemamra,1606.9667,76.92307692307693,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+CB,CB_D9,407555,James Monday Ajako,18552,Renaissance Zemamra,1626.8003,42.30769230769231,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+CB,CB_D9,409303,Faraji Karmoune,6989,Olympic Safi,1912.9167,84.61538461538461,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+CB,CB_D9,419744,Driss El Jabali,6995,Maghreb Fès,1346.0168,92.3076923076923,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+CB,CB_D9,442093,Yassine Fatine,2365,Difaâ El Jadida,1008.3,38.46153846153847,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+CB,CB_D9,477678,Cheick Keita,2889,Olympique Dcheïra,1643.9834,88.46153846153845,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+CB,CB_D9,49760,Adil Rhaili,6995,Maghreb Fès,1269.3834,73.07692307692307,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+CB,CB_D9,523290,Achraf Zine,36100,US Yacoub El Mansour,1219.8333,46.15384615384615,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+CB,CB_D9,524512,Reda Ait Boughima,18552,Renaissance Zemamra,1352.4501,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+CB,CB_D9,67700,Badr Banoun,2349,Raja Casablanca,1769.8834,19.230769230769237,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+CB,CB_D9,7378,Yunis Abdelhamid,2838,FAR Rabat,937.7833,3.8461538461538463,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+CF,CF_D1,138876,Hamza Khaba,2838,FAR Rabat,808.81665,78.04318718033316,4,0,low,False,90.9090909090909,3.0,not_recalculated_full_population_unavailable
+CF,CF_D1,139566,Youssef Elfahli,2838,FAR Rabat,1451.0833,64.38422019390099,4,0,low,False,72.72727272727273,7.0,not_recalculated_full_population_unavailable
+CF,CF_D1,140867,Ismail Khafi,2349,Raja Casablanca,1004.94995,57.9205591897243,4,0,low,False,59.09090909090909,10.0,not_recalculated_full_population_unavailable
+CF,CF_D1,140886,Mustapha Sahd,25917,CODM Meknès,886.8334,80.45866402013513,4,0,low,False,95.45454545454544,2.0,not_recalculated_full_population_unavailable
+CF,CF_D1,140887,Haytham El Bahja,2839,Ittihad Tanger,1497.5667,47.06592511192467,4,0,low,False,45.45454545454545,13.0,not_recalculated_full_population_unavailable
+CF,CF_D1,143504,Oussama Lamlaoui,2762,RSB Berkane,813.4167,85.19159604096727,4,0,low,False,100.0,1.0,not_recalculated_full_population_unavailable
+CF,CF_D1,155347,Ayoub Mouloua,2761,FUS Rabat,1735.4165,59.60276281101223,4,0,low,False,63.63636363636363,9.0,not_recalculated_full_population_unavailable
+CF,CF_D1,155705,Soufiane Benjdida,6995,Maghreb Fès,2024.9166,74.12338326515503,4,0,low,False,81.81818181818183,5.0,not_recalculated_full_population_unavailable
+CF,CF_D1,312936,Hamza Hannouri,6994,Wydad Casablanca,1161.1166,64.56942740349086,4,0,low,False,77.27272727272727,6.0,not_recalculated_full_population_unavailable
+CF,CF_D1,3319,Yacine Bammou,11935,UTS Rabat,1178.8168,24.00185738403811,4,0,low,False,18.181818181818183,19.0,not_recalculated_full_population_unavailable
+CF,CF_D1,335508,Paul Valère Bassène,2762,RSB Berkane,1335.15,62.12536347497419,4,0,low,False,68.18181818181817,8.0,not_recalculated_full_population_unavailable
+CF,CF_D1,360406,Imad Khannouss,6989,Olympic Safi,823.43335,23.01330603507341,8,0,low,False,13.636363636363637,20.0,not_recalculated_full_population_unavailable
+CF,CF_D1,38423,Siriki Sanogo,2839,Ittihad Tanger,1153.7667,0.0,4,0,low,False,4.545454545454546,22.0,not_recalculated_full_population_unavailable
+CF,CF_D1,406860,Abdelaziz El Hamzaoui,18552,Renaissance Zemamra,850.13336,24.57106824344011,4,0,low,False,22.727272727272727,18.0,not_recalculated_full_population_unavailable
+CF,CF_D1,409301,Jawad Ghabra,2839,Ittihad Tanger,1463.6833,39.81535890064183,4,0,low,False,40.909090909090914,14.0,not_recalculated_full_population_unavailable
+CF,CF_D1,442295,Reda Abardi,2889,Olympique Dcheïra,1312.8335,37.49625783597906,4,0,low,False,36.36363636363637,15.0,not_recalculated_full_population_unavailable
+CF,CF_D1,453613,Baba Bello Ilou,6992,Hassania Agadir,1744.35,77.46248706232754,4,0,low,False,86.36363636363636,4.0,not_recalculated_full_population_unavailable
+CF,CF_D1,477684,Brahim Amzili,2889,Olympique Dcheïra,1496.7002,27.56329509198613,4,0,low,False,27.27272727272727,17.0,not_recalculated_full_population_unavailable
+CF,CF_D1,503286,Mehdi Balouk,36100,US Yacoub El Mansour,1433.7333,53.08655655217596,4,0,low,False,50.0,12.0,not_recalculated_full_population_unavailable
+CF,CF_D1,522342,Younes El Bahraoui,36099,KAC Marrakech,969.3167,56.73343269375901,4,0,low,False,54.54545454545454,11.0,not_recalculated_full_population_unavailable
+CF,CF_D1,524001,Nasreddine Moustaghfir,11935,UTS Rabat,1063.3833,33.3291488661708,4,0,low,False,31.818181818181817,16.0,not_recalculated_full_population_unavailable
+CF,CF_D1,524392,Romuald Dacosta,2365,Difaâ El Jadida,1442.6,22.913011752387508,4,0,low,False,9.090909090909092,21.0,not_recalculated_full_population_unavailable
+CF,CF_D2,138876,Hamza Khaba,2838,FAR Rabat,808.81665,65.81788957682323,1,0,low,True,86.36363636363636,4.0,not_recalculated_full_population_unavailable
+CF,CF_D2,139566,Youssef Elfahli,2838,FAR Rabat,1451.0833,23.65754022116765,1,0,low,True,27.27272727272727,17.0,not_recalculated_full_population_unavailable
+CF,CF_D2,140867,Ismail Khafi,2349,Raja Casablanca,1004.94995,52.34973451952075,1,0,low,True,68.18181818181817,8.0,not_recalculated_full_population_unavailable
+CF,CF_D2,140886,Mustapha Sahd,25917,CODM Meknès,886.8334,98.32905519519818,1,0,low,True,90.9090909090909,3.0,not_recalculated_full_population_unavailable
+CF,CF_D2,140887,Haytham El Bahja,2839,Ittihad Tanger,1497.5667,40.348893605790806,1,0,low,True,40.909090909090914,14.0,not_recalculated_full_population_unavailable
+CF,CF_D2,143504,Oussama Lamlaoui,2762,RSB Berkane,813.4167,100.0,1,0,low,True,97.72727272727272,1.0,not_recalculated_full_population_unavailable
+CF,CF_D2,155347,Ayoub Mouloua,2761,FUS Rabat,1735.4165,52.37407181540243,1,0,low,True,72.72727272727273,7.0,not_recalculated_full_population_unavailable
+CF,CF_D2,155705,Soufiane Benjdida,6995,Maghreb Fès,2024.9166,100.0,1,0,low,True,97.72727272727272,1.0,not_recalculated_full_population_unavailable
+CF,CF_D2,312936,Hamza Hannouri,6994,Wydad Casablanca,1161.1166,38.36623247266815,1,0,low,True,36.36363636363637,15.0,not_recalculated_full_population_unavailable
+CF,CF_D2,3319,Yacine Bammou,11935,UTS Rabat,1178.8168,57.15924750199847,1,0,low,True,77.27272727272727,6.0,not_recalculated_full_population_unavailable
+CF,CF_D2,335508,Paul Valère Bassène,2762,RSB Berkane,1335.15,44.42231948075946,1,0,low,True,45.45454545454545,13.0,not_recalculated_full_population_unavailable
+CF,CF_D2,360406,Imad Khannouss,6989,Olympic Safi,823.43335,25.707223903074617,2,0,low,True,31.818181818181817,16.0,not_recalculated_full_population_unavailable
+CF,CF_D2,38423,Siriki Sanogo,2839,Ittihad Tanger,1153.7667,0.0,1,0,low,True,6.8181818181818175,21.0,not_recalculated_full_population_unavailable
+CF,CF_D2,406860,Abdelaziz El Hamzaoui,18552,Renaissance Zemamra,850.13336,9.832072289029856,1,0,low,True,18.181818181818183,19.0,not_recalculated_full_population_unavailable
+CF,CF_D2,409301,Jawad Ghabra,2839,Ittihad Tanger,1463.6833,45.72261813980138,1,0,low,True,54.54545454545454,11.0,not_recalculated_full_population_unavailable
+CF,CF_D2,442295,Reda Abardi,2889,Olympique Dcheïra,1312.8335,46.05490771518505,1,0,low,True,59.09090909090909,10.0,not_recalculated_full_population_unavailable
+CF,CF_D2,453613,Baba Bello Ilou,6992,Hassania Agadir,1744.35,65.45473511774225,1,0,low,True,81.81818181818183,5.0,not_recalculated_full_population_unavailable
+CF,CF_D2,477684,Brahim Amzili,2889,Olympique Dcheïra,1496.7002,0.0,1,0,low,True,6.8181818181818175,21.0,not_recalculated_full_population_unavailable
+CF,CF_D2,503286,Mehdi Balouk,36100,US Yacoub El Mansour,1433.7333,44.44354337582367,1,0,low,True,50.0,12.0,not_recalculated_full_population_unavailable
+CF,CF_D2,522342,Younes El Bahraoui,36099,KAC Marrakech,969.3167,51.272175942691725,1,0,low,True,63.63636363636363,9.0,not_recalculated_full_population_unavailable
+CF,CF_D2,524001,Nasreddine Moustaghfir,11935,UTS Rabat,1063.3833,15.37338221822916,1,0,low,True,22.727272727272727,18.0,not_recalculated_full_population_unavailable
+CF,CF_D2,524392,Romuald Dacosta,2365,Difaâ El Jadida,1442.6,7.639462401798649,1,0,low,True,13.636363636363637,20.0,not_recalculated_full_population_unavailable
+CF,CF_D3,138876,Hamza Khaba,2838,FAR Rabat,808.81665,54.689759378706405,1,0,low,True,59.09090909090909,10.0,not_recalculated_full_population_unavailable
+CF,CF_D3,139566,Youssef Elfahli,2838,FAR Rabat,1451.0833,73.51112712857014,1,0,low,True,90.9090909090909,3.0,not_recalculated_full_population_unavailable
+CF,CF_D3,140867,Ismail Khafi,2349,Raja Casablanca,1004.94995,54.449950445986126,1,0,low,True,54.54545454545454,11.0,not_recalculated_full_population_unavailable
+CF,CF_D3,140886,Mustapha Sahd,25917,CODM Meknès,886.8334,50.08044482771936,1,0,low,True,45.45454545454545,13.0,not_recalculated_full_population_unavailable
+CF,CF_D3,140887,Haytham El Bahja,2839,Ittihad Tanger,1497.5667,47.67096134786918,1,0,low,True,36.36363636363637,15.0,not_recalculated_full_population_unavailable
+CF,CF_D3,143504,Oussama Lamlaoui,2762,RSB Berkane,813.4167,9.306563509063588,1,0,low,True,4.545454545454546,22.0,not_recalculated_full_population_unavailable
+CF,CF_D3,155347,Ayoub Mouloua,2761,FUS Rabat,1735.4165,42.789675528935234,1,0,low,True,31.818181818181817,16.0,not_recalculated_full_population_unavailable
+CF,CF_D3,155705,Soufiane Benjdida,6995,Maghreb Fès,2024.9166,17.57775525885012,1,0,low,True,18.181818181818183,19.0,not_recalculated_full_population_unavailable
+CF,CF_D3,312936,Hamza Hannouri,6994,Wydad Casablanca,1161.1166,65.37491688725522,1,0,low,True,72.72727272727273,7.0,not_recalculated_full_population_unavailable
+CF,CF_D3,3319,Yacine Bammou,11935,UTS Rabat,1178.8168,71.7623953228285,1,0,low,True,81.81818181818183,5.0,not_recalculated_full_population_unavailable
+CF,CF_D3,335508,Paul Valère Bassène,2762,RSB Berkane,1335.15,75.30312295721485,1,0,low,True,95.45454545454544,2.0,not_recalculated_full_population_unavailable
+CF,CF_D3,360406,Imad Khannouss,6989,Olympic Safi,823.43335,11.061557097235983,2,0,low,True,9.090909090909092,21.0,not_recalculated_full_population_unavailable
+CF,CF_D3,38423,Siriki Sanogo,2839,Ittihad Tanger,1153.7667,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+CF,CF_D3,406860,Abdelaziz El Hamzaoui,18552,Renaissance Zemamra,850.13336,55.97828498735262,1,0,low,True,63.63636363636363,9.0,not_recalculated_full_population_unavailable
+CF,CF_D3,409301,Jawad Ghabra,2839,Ittihad Tanger,1463.6833,54.07486467942365,1,0,low,True,50.0,12.0,not_recalculated_full_population_unavailable
+CF,CF_D3,442295,Reda Abardi,2889,Olympique Dcheïra,1312.8335,72.32903865213083,1,0,low,True,86.36363636363636,4.0,not_recalculated_full_population_unavailable
+CF,CF_D3,453613,Baba Bello Ilou,6992,Hassania Agadir,1744.35,49.33451695476904,1,0,low,True,40.909090909090914,14.0,not_recalculated_full_population_unavailable
+CF,CF_D3,477684,Brahim Amzili,2889,Olympique Dcheïra,1496.7002,63.80681970374735,1,0,low,True,68.18181818181817,8.0,not_recalculated_full_population_unavailable
+CF,CF_D3,503286,Mehdi Balouk,36100,US Yacoub El Mansour,1433.7333,11.174430128840434,1,0,low,True,13.636363636363637,20.0,not_recalculated_full_population_unavailable
+CF,CF_D3,522342,Younes El Bahraoui,36099,KAC Marrakech,969.3167,19.51778257973322,1,0,low,True,22.727272727272727,18.0,not_recalculated_full_population_unavailable
+CF,CF_D3,524001,Nasreddine Moustaghfir,11935,UTS Rabat,1063.3833,70.73121566914716,1,0,low,True,77.27272727272727,6.0,not_recalculated_full_population_unavailable
+CF,CF_D3,524392,Romuald Dacosta,2365,Difaâ El Jadida,1442.6,22.595704083806485,1,0,low,True,27.27272727272727,17.0,not_recalculated_full_population_unavailable
+CF,CF_D4,138876,Hamza Khaba,2838,FAR Rabat,808.81665,69.40342335734199,1,0,low,True,72.72727272727273,7.0,not_recalculated_full_population_unavailable
+CF,CF_D4,139566,Youssef Elfahli,2838,FAR Rabat,1451.0833,33.55880421090332,1,0,low,True,31.818181818181817,16.0,not_recalculated_full_population_unavailable
+CF,CF_D4,140867,Ismail Khafi,2349,Raja Casablanca,1004.94995,36.69677457462671,1,0,low,True,36.36363636363637,15.0,not_recalculated_full_population_unavailable
+CF,CF_D4,140886,Mustapha Sahd,25917,CODM Meknès,886.8334,73.86766817965363,1,0,low,True,86.36363636363636,4.0,not_recalculated_full_population_unavailable
+CF,CF_D4,140887,Haytham El Bahja,2839,Ittihad Tanger,1497.5667,15.42822496934021,1,0,low,True,18.181818181818183,19.0,not_recalculated_full_population_unavailable
+CF,CF_D4,143504,Oussama Lamlaoui,2762,RSB Berkane,813.4167,0.0,1,0,low,True,4.545454545454546,22.0,not_recalculated_full_population_unavailable
+CF,CF_D4,155347,Ayoub Mouloua,2761,FUS Rabat,1735.4165,54.58663388201629,1,0,low,True,68.18181818181817,8.0,not_recalculated_full_population_unavailable
+CF,CF_D4,155705,Soufiane Benjdida,6995,Maghreb Fès,2024.9166,14.1280119138513,1,0,low,True,13.636363636363637,20.0,not_recalculated_full_population_unavailable
+CF,CF_D4,312936,Hamza Hannouri,6994,Wydad Casablanca,1161.1166,70.35507047772964,1,0,low,True,77.27272727272727,6.0,not_recalculated_full_population_unavailable
+CF,CF_D4,3319,Yacine Bammou,11935,UTS Rabat,1178.8168,90.49986799421151,1,0,low,True,95.45454545454544,2.0,not_recalculated_full_population_unavailable
+CF,CF_D4,335508,Paul Valère Bassène,2762,RSB Berkane,1335.15,41.666306941505006,1,0,low,True,40.909090909090914,14.0,not_recalculated_full_population_unavailable
+CF,CF_D4,360406,Imad Khannouss,6989,Olympic Safi,823.43335,24.53631305719471,2,0,low,True,22.727272727272727,18.0,not_recalculated_full_population_unavailable
+CF,CF_D4,38423,Siriki Sanogo,2839,Ittihad Tanger,1153.7667,52.86629920994296,1,0,low,True,59.09090909090909,10.0,not_recalculated_full_population_unavailable
+CF,CF_D4,406860,Abdelaziz El Hamzaoui,18552,Renaissance Zemamra,850.13336,72.56258644801892,1,0,low,True,81.81818181818183,5.0,not_recalculated_full_population_unavailable
+CF,CF_D4,409301,Jawad Ghabra,2839,Ittihad Tanger,1463.6833,50.96917812384545,1,0,low,True,50.0,12.0,not_recalculated_full_population_unavailable
+CF,CF_D4,442295,Reda Abardi,2889,Olympique Dcheïra,1312.8335,53.32581658263346,1,0,low,True,63.63636363636363,9.0,not_recalculated_full_population_unavailable
+CF,CF_D4,453613,Baba Bello Ilou,6992,Hassania Agadir,1744.35,77.29713132960595,1,0,low,True,90.9090909090909,3.0,not_recalculated_full_population_unavailable
+CF,CF_D4,477684,Brahim Amzili,2889,Olympique Dcheïra,1496.7002,52.82955657493142,1,0,low,True,54.54545454545454,11.0,not_recalculated_full_population_unavailable
+CF,CF_D4,503286,Mehdi Balouk,36100,US Yacoub El Mansour,1433.7333,8.387032894487247,1,0,low,True,9.090909090909092,21.0,not_recalculated_full_population_unavailable
+CF,CF_D4,522342,Younes El Bahraoui,36099,KAC Marrakech,969.3167,32.412930668158786,1,0,low,True,27.27272727272727,17.0,not_recalculated_full_population_unavailable
+CF,CF_D4,524001,Nasreddine Moustaghfir,11935,UTS Rabat,1063.3833,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+CF,CF_D4,524392,Romuald Dacosta,2365,Difaâ El Jadida,1442.6,43.44483187751214,1,0,low,True,45.45454545454545,13.0,not_recalculated_full_population_unavailable
+FB,FB_D1,135851,Augusto de Jesus Corte Real Carneiro,2838,FAR Rabat,1209.55,39.25437023028511,1,0,low,True,47.82608695652174,13.0,not_recalculated_full_population_unavailable
+FB,FB_D1,138910,Jamal Ech-Chammakh,2838,FAR Rabat,928.38336,76.55305464175757,1,0,low,True,95.65217391304348,2.0,not_recalculated_full_population_unavailable
+FB,FB_D1,138927,Saad El Morsli,6989,Olympic Safi,1579.6667,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+FB,FB_D1,138945,Mohamed Boulacsout,2349,Raja Casablanca,1667.3833,0.0,1,0,low,True,4.3478260869565215,23.0,not_recalculated_full_population_unavailable
+FB,FB_D1,138949,Ayoub Boucheta,6994,Wydad Casablanca,1453.0,6.296226075516971,1,0,low,True,17.391304347826086,20.0,not_recalculated_full_population_unavailable
+FB,FB_D1,138956,Anas Bach,2838,FAR Rabat,1963.4335,43.91823397441936,1,0,low,True,56.52173913043478,11.0,not_recalculated_full_population_unavailable
+FB,FB_D1,139560,Hamza El Moussaoui,2762,RSB Berkane,1272.2667,40.57771496209882,1,0,low,True,52.17391304347826,12.0,not_recalculated_full_population_unavailable
+FB,FB_D1,140876,Mohamed Moufid,6994,Wydad Casablanca,1725.5333,67.57139014829782,1,0,low,True,82.6086956521739,5.0,not_recalculated_full_population_unavailable
+FB,FB_D1,142789,Oussama Soukhane,2761,FUS Rabat,1879.2666,2.990417580408982,1,0,low,True,13.043478260869565,21.0,not_recalculated_full_population_unavailable
+FB,FB_D1,152015,Zakaria Kiani,2839,Ittihad Tanger,2197.05,61.81446277563083,1,0,low,True,69.56521739130434,8.0,not_recalculated_full_population_unavailable
+FB,FB_D1,178342,Ettayb Boukhriss,2762,RSB Berkane,1045.5667,33.84106074410659,1,0,low,True,39.130434782608695,15.0,not_recalculated_full_population_unavailable
+FB,FB_D1,261620,Nadir Lougmani,36099,KAC Marrakech,1729.9835,49.32466909868097,1,0,low,True,60.86956521739131,10.0,not_recalculated_full_population_unavailable
+FB,FB_D1,313287,Redouane Ait Lemkadem,11935,UTS Rabat,2003.1166,1.6486243058998813,1,0,low,True,8.695652173913043,22.0,not_recalculated_full_population_unavailable
+FB,FB_D1,314451,Houdaifa El Mahasni,2761,FUS Rabat,2082.3667,72.66609400359232,1,0,low,True,91.30434782608695,3.0,not_recalculated_full_population_unavailable
+FB,FB_D1,337496,Haytam Manaout,2762,RSB Berkane,1040.9333,62.31899684821528,1,0,low,True,73.91304347826086,7.0,not_recalculated_full_population_unavailable
+FB,FB_D1,339278,Chemseddine Knaidil,25917,CODM Meknès,1806.9502,23.49552685470484,1,0,low,True,21.73913043478261,19.0,not_recalculated_full_population_unavailable
+FB,FB_D1,406864,Hamza Malki,2365,Difaâ El Jadida,1218.2834,38.00359711509286,1,0,low,True,43.47826086956522,14.0,not_recalculated_full_population_unavailable
+FB,FB_D1,442100,Marouane Ouhrou,6995,Maghreb Fès,1878.4333,28.97852192801198,1,0,low,True,34.78260869565217,16.0,not_recalculated_full_population_unavailable
+FB,FB_D1,442286,Oussama Daoui,25917,CODM Meknès,1507.8333,26.27130601252134,1,0,low,True,30.434782608695656,17.0,not_recalculated_full_population_unavailable
+FB,FB_D1,522352,Hamza Fassoukh,36099,KAC Marrakech,1321.8834,66.7280482383796,1,0,low,True,78.26086956521739,6.0,not_recalculated_full_population_unavailable
+FB,FB_D1,523293,Nassim Azzoubairi,36100,US Yacoub El Mansour,1764.2832,70.27395634960558,1,0,low,True,86.95652173913044,4.0,not_recalculated_full_population_unavailable
+FB,FB_D1,523318,Younes El Khafi,2889,Olympique Dcheïra,1192.4167,56.88837118507987,1,0,low,True,65.21739130434783,9.0,not_recalculated_full_population_unavailable
+FB,FB_D1,81364,Euclides da Silva Cabral,6992,Hassania Agadir,1706.5833,25.431491471983254,1,0,low,True,26.08695652173913,18.0,not_recalculated_full_population_unavailable
+FB,FB_D2,135851,Augusto de Jesus Corte Real Carneiro,2838,FAR Rabat,1209.55,4.3478260869565215,1,0,low,True,4.3478260869565215,23.0,not_recalculated_full_population_unavailable
+FB,FB_D2,138910,Jamal Ech-Chammakh,2838,FAR Rabat,928.38336,86.95652173913044,1,0,low,True,86.95652173913044,4.0,not_recalculated_full_population_unavailable
+FB,FB_D2,138927,Saad El Morsli,6989,Olympic Safi,1579.6667,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+FB,FB_D2,138945,Mohamed Boulacsout,2349,Raja Casablanca,1667.3833,17.391304347826086,1,0,low,True,17.391304347826086,20.0,not_recalculated_full_population_unavailable
+FB,FB_D2,138949,Ayoub Boucheta,6994,Wydad Casablanca,1453.0,82.6086956521739,1,0,low,True,82.6086956521739,5.0,not_recalculated_full_population_unavailable
+FB,FB_D2,138956,Anas Bach,2838,FAR Rabat,1963.4335,8.695652173913043,1,0,low,True,8.695652173913043,22.0,not_recalculated_full_population_unavailable
+FB,FB_D2,139560,Hamza El Moussaoui,2762,RSB Berkane,1272.2667,30.434782608695656,1,0,low,True,30.434782608695656,17.0,not_recalculated_full_population_unavailable
+FB,FB_D2,140876,Mohamed Moufid,6994,Wydad Casablanca,1725.5333,43.47826086956522,1,0,low,True,43.47826086956522,14.0,not_recalculated_full_population_unavailable
+FB,FB_D2,142789,Oussama Soukhane,2761,FUS Rabat,1879.2666,26.08695652173913,1,0,low,True,26.08695652173913,18.0,not_recalculated_full_population_unavailable
+FB,FB_D2,152015,Zakaria Kiani,2839,Ittihad Tanger,2197.05,56.52173913043478,1,0,low,True,56.52173913043478,11.0,not_recalculated_full_population_unavailable
+FB,FB_D2,178342,Ettayb Boukhriss,2762,RSB Berkane,1045.5667,52.17391304347826,1,0,low,True,52.17391304347826,12.0,not_recalculated_full_population_unavailable
+FB,FB_D2,261620,Nadir Lougmani,36099,KAC Marrakech,1729.9835,73.91304347826086,1,0,low,True,73.91304347826086,7.0,not_recalculated_full_population_unavailable
+FB,FB_D2,313287,Redouane Ait Lemkadem,11935,UTS Rabat,2003.1166,91.30434782608695,1,0,low,True,91.30434782608695,3.0,not_recalculated_full_population_unavailable
+FB,FB_D2,314451,Houdaifa El Mahasni,2761,FUS Rabat,2082.3667,34.78260869565217,1,0,low,True,34.78260869565217,16.0,not_recalculated_full_population_unavailable
+FB,FB_D2,337496,Haytam Manaout,2762,RSB Berkane,1040.9333,65.21739130434783,1,0,low,True,65.21739130434783,9.0,not_recalculated_full_population_unavailable
+FB,FB_D2,339278,Chemseddine Knaidil,25917,CODM Meknès,1806.9502,78.26086956521739,1,0,low,True,78.26086956521739,6.0,not_recalculated_full_population_unavailable
+FB,FB_D2,406864,Hamza Malki,2365,Difaâ El Jadida,1218.2834,21.73913043478261,1,0,low,True,21.73913043478261,19.0,not_recalculated_full_population_unavailable
+FB,FB_D2,442100,Marouane Ouhrou,6995,Maghreb Fès,1878.4333,39.130434782608695,1,0,low,True,39.130434782608695,15.0,not_recalculated_full_population_unavailable
+FB,FB_D2,442286,Oussama Daoui,25917,CODM Meknès,1507.8333,60.86956521739131,1,0,low,True,60.86956521739131,10.0,not_recalculated_full_population_unavailable
+FB,FB_D2,522352,Hamza Fassoukh,36099,KAC Marrakech,1321.8834,69.56521739130434,1,0,low,True,69.56521739130434,8.0,not_recalculated_full_population_unavailable
+FB,FB_D2,523293,Nassim Azzoubairi,36100,US Yacoub El Mansour,1764.2832,95.65217391304348,1,0,low,True,95.65217391304348,2.0,not_recalculated_full_population_unavailable
+FB,FB_D2,523318,Younes El Khafi,2889,Olympique Dcheïra,1192.4167,13.043478260869565,1,0,low,True,13.043478260869565,21.0,not_recalculated_full_population_unavailable
+FB,FB_D2,81364,Euclides da Silva Cabral,6992,Hassania Agadir,1706.5833,47.82608695652174,1,0,low,True,47.82608695652174,13.0,not_recalculated_full_population_unavailable
+FB,FB_D3,135851,Augusto de Jesus Corte Real Carneiro,2838,FAR Rabat,1209.55,53.71031692278312,2,0,low,False,65.21739130434783,9.0,not_recalculated_full_population_unavailable
+FB,FB_D3,138910,Jamal Ech-Chammakh,2838,FAR Rabat,928.38336,90.99706705022598,2,0,low,False,95.65217391304348,2.0,not_recalculated_full_population_unavailable
+FB,FB_D3,138927,Saad El Morsli,6989,Olympic Safi,1579.6667,83.70712598013877,2,0,low,False,82.6086956521739,5.0,not_recalculated_full_population_unavailable
+FB,FB_D3,138945,Mohamed Boulacsout,2349,Raja Casablanca,1667.3833,80.58842299662612,2,0,low,False,78.26086956521739,6.0,not_recalculated_full_population_unavailable
+FB,FB_D3,138949,Ayoub Boucheta,6994,Wydad Casablanca,1453.0,33.069616815965375,2,0,low,False,26.08695652173913,18.0,not_recalculated_full_population_unavailable
+FB,FB_D3,138956,Anas Bach,2838,FAR Rabat,1963.4335,85.5508106353046,2,0,low,False,91.30434782608695,3.0,not_recalculated_full_population_unavailable
+FB,FB_D3,139560,Hamza El Moussaoui,2762,RSB Berkane,1272.2667,83.8378187556178,2,0,low,False,86.95652173913044,4.0,not_recalculated_full_population_unavailable
+FB,FB_D3,140876,Mohamed Moufid,6994,Wydad Casablanca,1725.5333,43.962129645808126,2,0,low,False,47.82608695652174,13.0,not_recalculated_full_population_unavailable
+FB,FB_D3,142789,Oussama Soukhane,2761,FUS Rabat,1879.2666,35.704451023235094,2,0,low,False,34.78260869565217,16.0,not_recalculated_full_population_unavailable
+FB,FB_D3,152015,Zakaria Kiani,2839,Ittihad Tanger,2197.05,52.48119381933923,2,0,low,False,60.86956521739131,10.0,not_recalculated_full_population_unavailable
+FB,FB_D3,178342,Ettayb Boukhriss,2762,RSB Berkane,1045.5667,75.31875458208671,2,0,low,False,69.56521739130434,8.0,not_recalculated_full_population_unavailable
+FB,FB_D3,261620,Nadir Lougmani,36099,KAC Marrakech,1729.9835,35.57375824775606,2,0,low,False,30.434782608695656,17.0,not_recalculated_full_population_unavailable
+FB,FB_D3,313287,Redouane Ait Lemkadem,11935,UTS Rabat,2003.1166,24.37396464205233,2,0,low,False,17.391304347826086,20.0,not_recalculated_full_population_unavailable
+FB,FB_D3,314451,Houdaifa El Mahasni,2761,FUS Rabat,2082.3667,43.47826086956522,2,0,low,False,43.47826086956522,14.0,not_recalculated_full_population_unavailable
+FB,FB_D3,337496,Haytam Manaout,2762,RSB Berkane,1040.9333,91.30434782608695,2,0,low,False,100.0,1.0,not_recalculated_full_population_unavailable
+FB,FB_D3,339278,Chemseddine Knaidil,25917,CODM Meknès,1806.9502,52.17391304347826,2,0,low,False,56.52173913043478,11.0,not_recalculated_full_population_unavailable
+FB,FB_D3,406864,Hamza Malki,2365,Difaâ El Jadida,1218.2834,6.675379518365268,2,0,low,False,4.3478260869565215,23.0,not_recalculated_full_population_unavailable
+FB,FB_D3,442100,Marouane Ouhrou,6995,Maghreb Fès,1878.4333,80.28114222076516,2,0,low,False,73.91304347826086,7.0,not_recalculated_full_population_unavailable
+FB,FB_D3,442286,Oussama Daoui,25917,CODM Meknès,1507.8333,11.02320560532179,2,0,low,False,8.695652173913043,22.0,not_recalculated_full_population_unavailable
+FB,FB_D3,522352,Hamza Fassoukh,36099,KAC Marrakech,1321.8834,24.6812454179133,2,0,low,False,21.73913043478261,19.0,not_recalculated_full_population_unavailable
+FB,FB_D3,523293,Nassim Azzoubairi,36100,US Yacoub El Mansour,1764.2832,50.76820193965243,2,0,low,False,52.17391304347826,12.0,not_recalculated_full_population_unavailable
+FB,FB_D3,523318,Younes El Khafi,2889,Olympique Dcheïra,1192.4167,18.48973467579094,2,0,low,False,13.043478260869565,21.0,not_recalculated_full_population_unavailable
+FB,FB_D3,81364,Euclides da Silva Cabral,6992,Hassania Agadir,1706.5833,42.249137766121336,2,0,low,False,39.130434782608695,15.0,not_recalculated_full_population_unavailable
+FB,FB_D4,135851,Augusto de Jesus Corte Real Carneiro,2838,FAR Rabat,1209.55,46.88292755917866,1,0,low,True,47.82608695652174,13.0,not_recalculated_full_population_unavailable
+FB,FB_D4,138910,Jamal Ech-Chammakh,2838,FAR Rabat,928.38336,65.71022263005763,1,0,low,True,73.91304347826086,7.0,not_recalculated_full_population_unavailable
+FB,FB_D4,138927,Saad El Morsli,6989,Olympic Safi,1579.6667,38.16441653406402,1,0,low,True,30.434782608695656,17.0,not_recalculated_full_population_unavailable
+FB,FB_D4,138945,Mohamed Boulacsout,2349,Raja Casablanca,1667.3833,54.01578697201009,1,0,low,True,52.17391304347826,12.0,not_recalculated_full_population_unavailable
+FB,FB_D4,138949,Ayoub Boucheta,6994,Wydad Casablanca,1453.0,60.125579705774925,1,0,low,True,65.21739130434783,9.0,not_recalculated_full_population_unavailable
+FB,FB_D4,138956,Anas Bach,2838,FAR Rabat,1963.4335,61.28217940241616,1,0,low,True,69.56521739130434,8.0,not_recalculated_full_population_unavailable
+FB,FB_D4,139560,Hamza El Moussaoui,2762,RSB Berkane,1272.2667,43.09421964426729,1,0,low,True,43.47826086956522,14.0,not_recalculated_full_population_unavailable
+FB,FB_D4,140876,Mohamed Moufid,6994,Wydad Casablanca,1725.5333,58.15103995460908,1,0,low,True,60.86956521739131,10.0,not_recalculated_full_population_unavailable
+FB,FB_D4,142789,Oussama Soukhane,2761,FUS Rabat,1879.2666,80.22472377060781,1,0,low,True,86.95652173913044,4.0,not_recalculated_full_population_unavailable
+FB,FB_D4,152015,Zakaria Kiani,2839,Ittihad Tanger,2197.05,55.09161219198722,1,0,low,True,56.52173913043478,11.0,not_recalculated_full_population_unavailable
+FB,FB_D4,178342,Ettayb Boukhriss,2762,RSB Berkane,1045.5667,25.57126634482774,1,0,low,True,17.391304347826086,20.0,not_recalculated_full_population_unavailable
+FB,FB_D4,261620,Nadir Lougmani,36099,KAC Marrakech,1729.9835,23.86126258466668,1,0,low,True,13.043478260869565,21.0,not_recalculated_full_population_unavailable
+FB,FB_D4,313287,Redouane Ait Lemkadem,11935,UTS Rabat,2003.1166,41.42156441163045,1,0,low,True,39.130434782608695,15.0,not_recalculated_full_population_unavailable
+FB,FB_D4,314451,Houdaifa El Mahasni,2761,FUS Rabat,2082.3667,30.70861484459942,1,0,low,True,21.73913043478261,19.0,not_recalculated_full_population_unavailable
+FB,FB_D4,337496,Haytam Manaout,2762,RSB Berkane,1040.9333,0.0,1,0,low,True,4.3478260869565215,23.0,not_recalculated_full_population_unavailable
+FB,FB_D4,339278,Chemseddine Knaidil,25917,CODM Meknès,1806.9502,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+FB,FB_D4,406864,Hamza Malki,2365,Difaâ El Jadida,1218.2834,35.8586551323866,1,0,low,True,26.08695652173913,18.0,not_recalculated_full_population_unavailable
+FB,FB_D4,442100,Marouane Ouhrou,6995,Maghreb Fès,1878.4333,76.65895329741176,1,0,low,True,82.6086956521739,5.0,not_recalculated_full_population_unavailable
+FB,FB_D4,442286,Oussama Daoui,25917,CODM Meknès,1507.8333,88.71030750318607,1,0,low,True,95.65217391304348,2.0,not_recalculated_full_population_unavailable
+FB,FB_D4,522352,Hamza Fassoukh,36099,KAC Marrakech,1321.8834,9.6614896212533,1,0,low,True,8.695652173913043,22.0,not_recalculated_full_population_unavailable
+FB,FB_D4,523293,Nassim Azzoubairi,36100,US Yacoub El Mansour,1764.2832,72.4541939040064,1,0,low,True,78.26086956521739,6.0,not_recalculated_full_population_unavailable
+FB,FB_D4,523318,Younes El Khafi,2889,Olympique Dcheïra,1192.4167,39.87442029422508,1,0,low,True,34.78260869565217,16.0,not_recalculated_full_population_unavailable
+FB,FB_D4,81364,Euclides da Silva Cabral,6992,Hassania Agadir,1706.5833,86.75734785340373,1,0,low,True,91.30434782608695,3.0,not_recalculated_full_population_unavailable
+FB,FB_D5,135851,Augusto de Jesus Corte Real Carneiro,2838,FAR Rabat,1209.55,29.16017217810597,1,0,low,True,13.043478260869565,21.0,not_recalculated_full_population_unavailable
+FB,FB_D5,138910,Jamal Ech-Chammakh,2838,FAR Rabat,928.38336,70.20890216117105,1,0,low,True,73.91304347826086,7.0,not_recalculated_full_population_unavailable
+FB,FB_D5,138927,Saad El Morsli,6989,Olympic Safi,1579.6667,77.04375021889498,1,0,low,True,86.95652173913044,4.0,not_recalculated_full_population_unavailable
+FB,FB_D5,138945,Mohamed Boulacsout,2349,Raja Casablanca,1667.3833,58.4247087320894,1,0,low,True,52.17391304347826,12.0,not_recalculated_full_population_unavailable
+FB,FB_D5,138949,Ayoub Boucheta,6994,Wydad Casablanca,1453.0,72.81341371378403,1,0,low,True,82.6086956521739,5.0,not_recalculated_full_population_unavailable
+FB,FB_D5,138956,Anas Bach,2838,FAR Rabat,1963.4335,70.53655336812508,1,0,low,True,78.26086956521739,6.0,not_recalculated_full_population_unavailable
+FB,FB_D5,139560,Hamza El Moussaoui,2762,RSB Berkane,1272.2667,98.73124259812796,1,0,low,True,95.65217391304348,2.0,not_recalculated_full_population_unavailable
+FB,FB_D5,140876,Mohamed Moufid,6994,Wydad Casablanca,1725.5333,56.31231659735118,1,0,low,True,47.82608695652174,13.0,not_recalculated_full_population_unavailable
+FB,FB_D5,142789,Oussama Soukhane,2761,FUS Rabat,1879.2666,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+FB,FB_D5,152015,Zakaria Kiani,2839,Ittihad Tanger,2197.05,66.7879162280039,1,0,low,True,69.56521739130434,8.0,not_recalculated_full_population_unavailable
+FB,FB_D5,178342,Ettayb Boukhriss,2762,RSB Berkane,1045.5667,35.86929749229132,1,0,low,True,26.08695652173913,18.0,not_recalculated_full_population_unavailable
+FB,FB_D5,261620,Nadir Lougmani,36099,KAC Marrakech,1729.9835,34.265124157250355,1,0,low,True,21.73913043478261,19.0,not_recalculated_full_population_unavailable
+FB,FB_D5,313287,Redouane Ait Lemkadem,11935,UTS Rabat,2003.1166,60.92263602907231,1,0,low,True,60.86956521739131,10.0,not_recalculated_full_population_unavailable
+FB,FB_D5,314451,Houdaifa El Mahasni,2761,FUS Rabat,2082.3667,36.07271258625093,1,0,low,True,30.434782608695656,17.0,not_recalculated_full_population_unavailable
+FB,FB_D5,337496,Haytam Manaout,2762,RSB Berkane,1040.9333,26.04346449181163,1,0,low,True,8.695652173913043,22.0,not_recalculated_full_population_unavailable
+FB,FB_D5,339278,Chemseddine Knaidil,25917,CODM Meknès,1806.9502,63.1112977960459,1,0,low,True,65.21739130434783,9.0,not_recalculated_full_population_unavailable
+FB,FB_D5,406864,Hamza Malki,2365,Difaâ El Jadida,1218.2834,0.0,1,0,low,True,4.3478260869565215,23.0,not_recalculated_full_population_unavailable
+FB,FB_D5,442100,Marouane Ouhrou,6995,Maghreb Fès,1878.4333,92.96945677812008,1,0,low,True,91.30434782608695,3.0,not_recalculated_full_population_unavailable
+FB,FB_D5,442286,Oussama Daoui,25917,CODM Meknès,1507.8333,59.27239128014076,1,0,low,True,56.52173913043478,11.0,not_recalculated_full_population_unavailable
+FB,FB_D5,522352,Hamza Fassoukh,36099,KAC Marrakech,1321.8834,40.96883801810294,1,0,low,True,39.130434782608695,15.0,not_recalculated_full_population_unavailable
+FB,FB_D5,523293,Nassim Azzoubairi,36100,US Yacoub El Mansour,1764.2832,54.96591482734456,1,0,low,True,43.47826086956522,14.0,not_recalculated_full_population_unavailable
+FB,FB_D5,523318,Younes El Khafi,2889,Olympique Dcheïra,1192.4167,29.787993952267943,1,0,low,True,17.391304347826086,20.0,not_recalculated_full_population_unavailable
+FB,FB_D5,81364,Euclides da Silva Cabral,6992,Hassania Agadir,1706.5833,40.75612175592213,1,0,low,True,34.78260869565217,16.0,not_recalculated_full_population_unavailable
+FB,FB_D6,135851,Augusto de Jesus Corte Real Carneiro,2838,FAR Rabat,1209.55,86.91814968620746,1,0,low,True,95.65217391304348,2.0,not_recalculated_full_population_unavailable
+FB,FB_D6,138910,Jamal Ech-Chammakh,2838,FAR Rabat,928.38336,45.9608566661143,1,0,low,True,52.17391304347826,12.0,not_recalculated_full_population_unavailable
+FB,FB_D6,138927,Saad El Morsli,6989,Olympic Safi,1579.6667,1.2223808272108418,1,0,low,True,8.695652173913043,22.0,not_recalculated_full_population_unavailable
+FB,FB_D6,138945,Mohamed Boulacsout,2349,Raja Casablanca,1667.3833,0.0,1,0,low,True,4.3478260869565215,23.0,not_recalculated_full_population_unavailable
+FB,FB_D6,138949,Ayoub Boucheta,6994,Wydad Casablanca,1453.0,38.97815151495114,1,0,low,True,43.47826086956522,14.0,not_recalculated_full_population_unavailable
+FB,FB_D6,138956,Anas Bach,2838,FAR Rabat,1963.4335,68.45262929765039,1,0,low,True,78.26086956521739,6.0,not_recalculated_full_population_unavailable
+FB,FB_D6,139560,Hamza El Moussaoui,2762,RSB Berkane,1272.2667,69.71142434068818,1,0,low,True,82.6086956521739,5.0,not_recalculated_full_population_unavailable
+FB,FB_D6,140876,Mohamed Moufid,6994,Wydad Casablanca,1725.5333,31.183776788236084,1,0,low,True,30.434782608695656,17.0,not_recalculated_full_population_unavailable
+FB,FB_D6,142789,Oussama Soukhane,2761,FUS Rabat,1879.2666,24.259760981755715,1,0,low,True,21.73913043478261,19.0,not_recalculated_full_population_unavailable
+FB,FB_D6,152015,Zakaria Kiani,2839,Ittihad Tanger,2197.05,34.187951197875535,1,0,low,True,34.78260869565217,16.0,not_recalculated_full_population_unavailable
+FB,FB_D6,178342,Ettayb Boukhriss,2762,RSB Berkane,1045.5667,52.71457876153479,1,0,low,True,58.69565217391305,10.0,not_recalculated_full_population_unavailable
+FB,FB_D6,261620,Nadir Lougmani,36099,KAC Marrakech,1729.9835,18.80328627824944,1,0,low,True,17.391304347826086,20.0,not_recalculated_full_population_unavailable
+FB,FB_D6,313287,Redouane Ait Lemkadem,11935,UTS Rabat,2003.1166,54.82981573552049,1,0,low,True,65.21739130434783,9.0,not_recalculated_full_population_unavailable
+FB,FB_D6,314451,Houdaifa El Mahasni,2761,FUS Rabat,2082.3667,72.94873577892317,1,0,low,True,86.95652173913044,4.0,not_recalculated_full_population_unavailable
+FB,FB_D6,337496,Haytam Manaout,2762,RSB Berkane,1040.9333,81.04687771145421,1,0,low,True,91.30434782608695,3.0,not_recalculated_full_population_unavailable
+FB,FB_D6,339278,Chemseddine Knaidil,25917,CODM Meknès,1806.9502,39.8120456005023,1,0,low,True,47.82608695652174,13.0,not_recalculated_full_population_unavailable
+FB,FB_D6,406864,Hamza Malki,2365,Difaâ El Jadida,1218.2834,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+FB,FB_D6,442100,Marouane Ouhrou,6995,Maghreb Fès,1878.4333,29.57541475502567,1,0,low,True,26.08695652173913,18.0,not_recalculated_full_population_unavailable
+FB,FB_D6,442286,Oussama Daoui,25917,CODM Meknès,1507.8333,65.59188560245983,1,0,low,True,71.73913043478261,7.0,not_recalculated_full_population_unavailable
+FB,FB_D6,522352,Hamza Fassoukh,36099,KAC Marrakech,1321.8834,65.59188560245983,1,0,low,True,71.73913043478261,7.0,not_recalculated_full_population_unavailable
+FB,FB_D6,523293,Nassim Azzoubairi,36100,US Yacoub El Mansour,1764.2832,12.486847759355856,1,0,low,True,13.043478260869565,21.0,not_recalculated_full_population_unavailable
+FB,FB_D6,523318,Younes El Khafi,2889,Olympique Dcheïra,1192.4167,52.71457876153479,1,0,low,True,58.69565217391305,10.0,not_recalculated_full_population_unavailable
+FB,FB_D6,81364,Euclides da Silva Cabral,6992,Hassania Agadir,1706.5833,36.27307822453002,1,0,low,True,39.130434782608695,15.0,not_recalculated_full_population_unavailable
+FB,FB_D7,135851,Augusto de Jesus Corte Real Carneiro,2838,FAR Rabat,1209.55,77.81696036595496,1,0,low,True,82.6086956521739,5.0,not_recalculated_full_population_unavailable
+FB,FB_D7,138910,Jamal Ech-Chammakh,2838,FAR Rabat,928.38336,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+FB,FB_D7,138927,Saad El Morsli,6989,Olympic Safi,1579.6667,57.0250807535162,1,0,low,True,47.82608695652174,13.0,not_recalculated_full_population_unavailable
+FB,FB_D7,138945,Mohamed Boulacsout,2349,Raja Casablanca,1667.3833,34.11320712917605,1,0,low,True,13.043478260869565,21.0,not_recalculated_full_population_unavailable
+FB,FB_D7,138949,Ayoub Boucheta,6994,Wydad Casablanca,1453.0,84.59226197364538,1,0,low,True,86.95652173913044,4.0,not_recalculated_full_population_unavailable
+FB,FB_D7,138956,Anas Bach,2838,FAR Rabat,1963.4335,52.4788921523721,1,0,low,True,43.47826086956522,14.0,not_recalculated_full_population_unavailable
+FB,FB_D7,139560,Hamza El Moussaoui,2762,RSB Berkane,1272.2667,94.88815379126058,1,0,low,True,95.65217391304348,2.0,not_recalculated_full_population_unavailable
+FB,FB_D7,140876,Mohamed Moufid,6994,Wydad Casablanca,1725.5333,46.16056214536413,1,0,low,True,39.130434782608695,15.0,not_recalculated_full_population_unavailable
+FB,FB_D7,142789,Oussama Soukhane,2761,FUS Rabat,1879.2666,89.06759013269998,1,0,low,True,91.30434782608695,3.0,not_recalculated_full_population_unavailable
+FB,FB_D7,152015,Zakaria Kiani,2839,Ittihad Tanger,2197.05,64.56029930616063,1,0,low,True,65.21739130434783,9.0,not_recalculated_full_population_unavailable
+FB,FB_D7,178342,Ettayb Boukhriss,2762,RSB Berkane,1045.5667,71.84677249292582,1,0,low,True,78.26086956521739,6.0,not_recalculated_full_population_unavailable
+FB,FB_D7,261620,Nadir Lougmani,36099,KAC Marrakech,1729.9835,64.17476459509048,1,0,low,True,60.86956521739131,10.0,not_recalculated_full_population_unavailable
+FB,FB_D7,313287,Redouane Ait Lemkadem,11935,UTS Rabat,2003.1166,35.976282914392776,1,0,low,True,17.391304347826086,20.0,not_recalculated_full_population_unavailable
+FB,FB_D7,314451,Houdaifa El Mahasni,2761,FUS Rabat,2082.3667,41.66522786640184,1,0,low,True,30.434782608695656,17.0,not_recalculated_full_population_unavailable
+FB,FB_D7,337496,Haytam Manaout,2762,RSB Berkane,1040.9333,0.0,1,0,low,True,4.3478260869565215,23.0,not_recalculated_full_population_unavailable
+FB,FB_D7,339278,Chemseddine Knaidil,25917,CODM Meknès,1806.9502,43.72497137455503,1,0,low,True,34.78260869565217,16.0,not_recalculated_full_population_unavailable
+FB,FB_D7,406864,Hamza Malki,2365,Difaâ El Jadida,1218.2834,62.67570368288062,1,0,low,True,56.52173913043478,11.0,not_recalculated_full_population_unavailable
+FB,FB_D7,442100,Marouane Ouhrou,6995,Maghreb Fès,1878.4333,71.52827436843219,1,0,low,True,73.91304347826086,7.0,not_recalculated_full_population_unavailable
+FB,FB_D7,442286,Oussama Daoui,25917,CODM Meknès,1507.8333,61.17676536358284,1,0,low,True,52.17391304347826,12.0,not_recalculated_full_population_unavailable
+FB,FB_D7,522352,Hamza Fassoukh,36099,KAC Marrakech,1321.8834,36.79505315167857,1,0,low,True,21.73913043478261,19.0,not_recalculated_full_population_unavailable
+FB,FB_D7,523293,Nassim Azzoubairi,36100,US Yacoub El Mansour,1764.2832,66.37931554655667,1,0,low,True,69.56521739130434,8.0,not_recalculated_full_population_unavailable
+FB,FB_D7,523318,Younes El Khafi,2889,Olympique Dcheïra,1192.4167,31.690929426946997,1,0,low,True,8.695652173913043,22.0,not_recalculated_full_population_unavailable
+FB,FB_D7,81364,Euclides da Silva Cabral,6992,Hassania Agadir,1706.5833,37.0575602240289,1,0,low,True,26.08695652173913,18.0,not_recalculated_full_population_unavailable
+GK,GK_D1,138841,Salaheddine Chihab,6995,Maghreb Fès,2015.4667,40.94877609208959,3,0,low,False,25.0,10.0,not_recalculated_full_population_unavailable
+GK,GK_D1,138950,Mehdi Harrar,2349,Raja Casablanca,2133.3833,41.23808744636556,3,0,low,False,33.33333333333333,9.0,not_recalculated_full_population_unavailable
+GK,GK_D1,138972,Mahdi Benabid,6994,Wydad Casablanca,2228.7834,57.83793122498697,3,0,low,False,83.33333333333334,3.0,not_recalculated_full_population_unavailable
+GK,GK_D1,139011,Ahmed Reda Tagnaouti,2838,FAR Rabat,1502.3833,27.99253067653122,3,0,low,False,8.333333333333332,12.0,not_recalculated_full_population_unavailable
+GK,GK_D1,139555,Aymane Majid,25917,CODM Meknès,1386.4,52.42137212047232,3,0,low,False,66.66666666666666,5.0,not_recalculated_full_population_unavailable
+GK,GK_D1,139572,Amine El Ouaad,2839,Ittihad Tanger,2078.9502,48.12967587601975,3,0,low,False,50.0,7.0,not_recalculated_full_population_unavailable
+GK,GK_D1,317852,Abderahmane El Houasli,11935,UTS Rabat,1286.4167,57.514124514904594,3,0,low,False,75.0,4.0,not_recalculated_full_population_unavailable
+GK,GK_D1,362445,Badreddine Abyir,6992,Hassania Agadir,2208.4167,62.54676855226488,3,0,low,False,91.66666666666666,2.0,not_recalculated_full_population_unavailable
+GK,GK_D1,36951,Babacar Niasse,2365,Difaâ El Jadida,2050.4001,46.24943940349866,3,0,low,False,41.66666666666667,8.0,not_recalculated_full_population_unavailable
+GK,GK_D1,477675,Mohamed Idar,2889,Olympique Dcheïra,2196.5332,51.039496504010536,3,0,low,False,58.333333333333336,6.0,not_recalculated_full_population_unavailable
+GK,GK_D1,522350,Mohamed Jemjami,36099,KAC Marrakech,1812.0667,82.20110566200282,3,0,low,False,100.0,1.0,not_recalculated_full_population_unavailable
+GK,GK_D1,523287,Ismail Sayad,36100,US Yacoub El Mansour,1163.6832,30.38330105419481,3,0,low,False,16.666666666666664,11.0,not_recalculated_full_population_unavailable
+GK,GK_D2,138841,Salaheddine Chihab,6995,Maghreb Fès,2015.4667,33.33333333333333,1,0,low,True,33.33333333333333,9.0,not_recalculated_full_population_unavailable
+GK,GK_D2,138950,Mehdi Harrar,2349,Raja Casablanca,2133.3833,8.333333333333332,1,0,low,True,8.333333333333332,12.0,not_recalculated_full_population_unavailable
+GK,GK_D2,138972,Mahdi Benabid,6994,Wydad Casablanca,2228.7834,58.333333333333336,1,0,low,True,58.333333333333336,6.0,not_recalculated_full_population_unavailable
+GK,GK_D2,139011,Ahmed Reda Tagnaouti,2838,FAR Rabat,1502.3833,50.0,1,0,low,True,50.0,7.0,not_recalculated_full_population_unavailable
+GK,GK_D2,139555,Aymane Majid,25917,CODM Meknès,1386.4,41.66666666666667,1,0,low,True,41.66666666666667,8.0,not_recalculated_full_population_unavailable
+GK,GK_D2,139572,Amine El Ouaad,2839,Ittihad Tanger,2078.9502,75.0,1,0,low,True,75.0,4.0,not_recalculated_full_population_unavailable
+GK,GK_D2,317852,Abderahmane El Houasli,11935,UTS Rabat,1286.4167,25.0,1,0,low,True,25.0,10.0,not_recalculated_full_population_unavailable
+GK,GK_D2,362445,Badreddine Abyir,6992,Hassania Agadir,2208.4167,83.33333333333334,1,0,low,True,83.33333333333334,3.0,not_recalculated_full_population_unavailable
+GK,GK_D2,36951,Babacar Niasse,2365,Difaâ El Jadida,2050.4001,66.66666666666666,1,0,low,True,66.66666666666666,5.0,not_recalculated_full_population_unavailable
+GK,GK_D2,477675,Mohamed Idar,2889,Olympique Dcheïra,2196.5332,91.66666666666666,1,0,low,True,91.66666666666666,2.0,not_recalculated_full_population_unavailable
+GK,GK_D2,522350,Mohamed Jemjami,36099,KAC Marrakech,1812.0667,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+GK,GK_D2,523287,Ismail Sayad,36100,US Yacoub El Mansour,1163.6832,16.666666666666664,1,0,low,True,16.666666666666664,11.0,not_recalculated_full_population_unavailable
+GK,GK_D3,138841,Salaheddine Chihab,6995,Maghreb Fès,2015.4667,16.666666666666664,1,0,low,True,16.666666666666664,11.0,not_recalculated_full_population_unavailable
+GK,GK_D3,138950,Mehdi Harrar,2349,Raja Casablanca,2133.3833,66.66666666666666,1,0,low,True,66.66666666666666,5.0,not_recalculated_full_population_unavailable
+GK,GK_D3,138972,Mahdi Benabid,6994,Wydad Casablanca,2228.7834,33.33333333333333,1,0,low,True,33.33333333333333,9.0,not_recalculated_full_population_unavailable
+GK,GK_D3,139011,Ahmed Reda Tagnaouti,2838,FAR Rabat,1502.3833,8.333333333333332,1,0,low,True,8.333333333333332,12.0,not_recalculated_full_population_unavailable
+GK,GK_D3,139555,Aymane Majid,25917,CODM Meknès,1386.4,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+GK,GK_D3,139572,Amine El Ouaad,2839,Ittihad Tanger,2078.9502,91.66666666666666,1,0,low,True,91.66666666666666,2.0,not_recalculated_full_population_unavailable
+GK,GK_D3,317852,Abderahmane El Houasli,11935,UTS Rabat,1286.4167,25.0,1,0,low,True,25.0,10.0,not_recalculated_full_population_unavailable
+GK,GK_D3,362445,Badreddine Abyir,6992,Hassania Agadir,2208.4167,83.33333333333334,1,0,low,True,83.33333333333334,3.0,not_recalculated_full_population_unavailable
+GK,GK_D3,36951,Babacar Niasse,2365,Difaâ El Jadida,2050.4001,75.0,1,0,low,True,75.0,4.0,not_recalculated_full_population_unavailable
+GK,GK_D3,477675,Mohamed Idar,2889,Olympique Dcheïra,2196.5332,50.0,1,0,low,True,50.0,7.0,not_recalculated_full_population_unavailable
+GK,GK_D3,522350,Mohamed Jemjami,36099,KAC Marrakech,1812.0667,41.66666666666667,1,0,low,True,41.66666666666667,8.0,not_recalculated_full_population_unavailable
+GK,GK_D3,523287,Ismail Sayad,36100,US Yacoub El Mansour,1163.6832,58.333333333333336,1,0,low,True,58.333333333333336,6.0,not_recalculated_full_population_unavailable
+MID,MID_D1,10689,Sabir Bougrine,2349,Raja Casablanca,1519.933,98.75420284522386,2,0,low,False,100.0,1.0,not_recalculated_full_population_unavailable
+MID,MID_D1,138860,Youssef Michte,2365,Difaâ El Jadida,1534.3501,4.468488559509574,2,0,low,False,2.941176470588235,34.0,not_recalculated_full_population_unavailable
+MID,MID_D1,138872,Oussama Mahrous,36099,KAC Marrakech,946.41675,50.69747433339028,2,0,low,False,55.88235294117647,16.0,not_recalculated_full_population_unavailable
+MID,MID_D1,138873,Abdelghafour Lamirat,6994,Wydad Casablanca,1501.45,46.2289857738807,2,0,low,False,47.05882352941176,19.0,not_recalculated_full_population_unavailable
+MID,MID_D1,138983,Zine Eddine Derrag,2838,FAR Rabat,1000.7,60.58194558317673,2,0,low,False,58.82352941176471,15.0,not_recalculated_full_population_unavailable
+MID,MID_D1,139565,Larbi Naji,25917,CODM Meknès,1892.6,29.81722572620471,2,0,low,False,35.294117647058826,23.0,not_recalculated_full_population_unavailable
+MID,MID_D1,140872,Mohamed Rabie Hrimat,2838,FAR Rabat,1687.5834,82.19329128554345,2,0,low,False,82.35294117647058,7.0,not_recalculated_full_population_unavailable
+MID,MID_D1,141254,Hamza Afsal,6995,Maghreb Fès,982.0499,69.60082869061854,2,0,low,False,70.58823529411765,11.0,not_recalculated_full_population_unavailable
+MID,MID_D1,143166,Zakaria Fati,36100,US Yacoub El Mansour,1729.35,66.59453432147127,2,0,low,False,64.70588235294117,13.0,not_recalculated_full_population_unavailable
+MID,MID_D1,144436,Anas Serrhat,2761,FUS Rabat,2207.3833,67.32563141665243,2,0,low,False,67.64705882352942,12.0,not_recalculated_full_population_unavailable
+MID,MID_D1,151743,Mohamed Al Makahasi,2349,Raja Casablanca,1844.75,76.11345702366717,2,0,low,False,76.47058823529412,9.0,not_recalculated_full_population_unavailable
+MID,MID_D1,194912,Faouzi Abd El Mouttalib,2839,Ittihad Tanger,1603.85,35.59875696407218,2,0,low,False,41.17647058823529,21.0,not_recalculated_full_population_unavailable
+MID,MID_D1,21648,Anas Tahiri,6995,Maghreb Fès,1222.9333,87.691179964243,2,0,low,False,94.11764705882352,3.0,not_recalculated_full_population_unavailable
+MID,MID_D1,312413,Soulaimane El Bouchqali,2838,FAR Rabat,63.416668,81.50314718457363,4,0,low,False,79.41176470588235,8.0,not_recalculated_full_population_unavailable
+MID,MID_D1,313284,Achraf Harmach,6995,Maghreb Fès,1416.0166,83.37184291673785,2,0,low,False,85.29411764705883,6.0,not_recalculated_full_population_unavailable
+MID,MID_D1,407207,Ennaama El Bellali,2839,Ittihad Tanger,1060.2168,25.348737166695138,2,0,low,False,20.588235294117645,28.0,not_recalculated_full_population_unavailable
+MID,MID_D1,407506,Oussama Nourdine,6995,Maghreb Fès,1983.2667,21.4621941903623,2,0,low,False,17.647058823529413,29.0,not_recalculated_full_population_unavailable
+MID,MID_D1,407852,Abdessamad Mahir,2761,FUS Rabat,2116.4497,17.508405690447717,2,0,low,False,14.705882352941178,30.0,not_recalculated_full_population_unavailable
+MID,MID_D1,415853,Claude Gnolou,36099,KAC Marrakech,1884.1833,29.451677178614133,2,0,low,False,32.35294117647059,24.0,not_recalculated_full_population_unavailable
+MID,MID_D1,416303,El Mahdi Akoumi,6992,Hassania Agadir,1424.8833,40.36554854759058,2,0,low,False,44.11764705882353,20.0,not_recalculated_full_population_unavailable
+MID,MID_D1,424979,Soufiane Tazi,2761,FUS Rabat,1206.7834,83.73739146432843,2,0,low,False,88.23529411764706,5.0,not_recalculated_full_population_unavailable
+MID,MID_D1,442288,Adnane Berdad,25917,CODM Meknès,1615.9169,27.10923438106627,2,0,low,False,23.52941176470588,27.0,not_recalculated_full_population_unavailable
+MID,MID_D1,442292,Abdellatif El Bajjani,18552,Renaissance Zemamra,1764.4001,28.056728511833583,2,0,low,False,29.411764705882355,25.0,not_recalculated_full_population_unavailable
+MID,MID_D1,443951,Youness Akharraz,11935,UTS Rabat,1331.9833,16.046211500085413,2,0,low,False,11.76470588235294,31.0,not_recalculated_full_population_unavailable
+MID,MID_D1,446355,Ishak Zidani,18552,Renaissance Zemamra,1066.95,49.81722572620471,2,0,low,False,50.0,18.0,not_recalculated_full_population_unavailable
+MID,MID_D1,450709,Joseph Bakasu       ,6994,Wydad Casablanca,1569.6168,27.98948298825184,2,0,low,False,26.47058823529412,26.0,not_recalculated_full_population_unavailable
+MID,MID_D1,477679,Redouane Oubidar,2889,Olympique Dcheïra,1254.8667,30.91387136897644,2,0,low,False,38.23529411764706,22.0,not_recalculated_full_population_unavailable
+MID,MID_D1,477680,Hamza Saoud,2889,Olympique Dcheïra,1441.9332,63.737391464328425,2,0,low,False,61.76470588235294,14.0,not_recalculated_full_population_unavailable
+MID,MID_D1,477682,Ayoub Benaadi,2889,Olympique Dcheïra,1579.8833,91.94327148816642,2,0,low,False,97.05882352941175,2.0,not_recalculated_full_population_unavailable
+MID,MID_D1,523308,Adil Khalloufi,36100,US Yacoub El Mansour,2093.65,70.69747433339029,2,0,low,False,73.52941176470588,10.0,not_recalculated_full_population_unavailable
+MID,MID_D1,523973,Hamza Rafa,36099,KAC Marrakech,1053.5333,8.936977119019147,2,0,low,False,5.88235294117647,33.0,not_recalculated_full_population_unavailable
+MID,MID_D1,523996,Fred Duval Ngoma,6989,Olympic Safi,1765.4167,50.18277427379529,2,0,low,False,52.94117647058824,17.0,not_recalculated_full_population_unavailable
+MID,MID_D1,7183,Moctar Sidi El Hacen El Ide,2365,Difaâ El Jadida,1722.7499,9.08612863102356,2,0,low,False,8.823529411764707,32.0,not_recalculated_full_population_unavailable
+MID,MID_D1,7717,Rayane Aabid,2762,RSB Berkane,1303.0834,85.5651342022813,2,0,low,False,91.17647058823528,4.0,not_recalculated_full_population_unavailable
+MID,MID_D2,10689,Sabir Bougrine,2349,Raja Casablanca,1519.933,97.14285714285714,1,0,low,True,97.05882352941175,2.0,not_recalculated_full_population_unavailable
+MID,MID_D2,138860,Youssef Michte,2365,Difaâ El Jadida,1534.3501,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,138872,Oussama Mahrous,36099,KAC Marrakech,946.41675,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,138873,Abdelghafour Lamirat,6994,Wydad Casablanca,1501.45,82.85714285714286,1,0,low,True,82.35294117647058,7.0,not_recalculated_full_population_unavailable
+MID,MID_D2,138983,Zine Eddine Derrag,2838,FAR Rabat,1000.7,85.71428571428571,1,0,low,True,85.29411764705883,6.0,not_recalculated_full_population_unavailable
+MID,MID_D2,139565,Larbi Naji,25917,CODM Meknès,1892.6,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,140872,Mohamed Rabie Hrimat,2838,FAR Rabat,1687.5834,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,141254,Hamza Afsal,6995,Maghreb Fès,982.0499,54.285714285714285,1,0,low,True,55.88235294117647,16.0,not_recalculated_full_population_unavailable
+MID,MID_D2,143166,Zakaria Fati,36100,US Yacoub El Mansour,1729.35,94.28571428571428,1,0,low,True,94.11764705882352,3.0,not_recalculated_full_population_unavailable
+MID,MID_D2,144436,Anas Serrhat,2761,FUS Rabat,2207.3833,77.14285714285715,1,0,low,True,76.47058823529412,9.0,not_recalculated_full_population_unavailable
+MID,MID_D2,151743,Mohamed Al Makahasi,2349,Raja Casablanca,1844.75,57.14285714285714,1,0,low,True,58.82352941176471,15.0,not_recalculated_full_population_unavailable
+MID,MID_D2,194912,Faouzi Abd El Mouttalib,2839,Ittihad Tanger,1603.85,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,21648,Anas Tahiri,6995,Maghreb Fès,1222.9333,68.57142857142857,1,0,low,True,70.58823529411765,11.0,not_recalculated_full_population_unavailable
+MID,MID_D2,312413,Soulaimane El Bouchqali,2838,FAR Rabat,63.416668,48.57142857142858,2,0,low,True,50.0,18.0,not_recalculated_full_population_unavailable
+MID,MID_D2,313284,Achraf Harmach,6995,Maghreb Fès,1416.0166,88.57142857142857,1,0,low,True,88.23529411764706,5.0,not_recalculated_full_population_unavailable
+MID,MID_D2,407207,Ennaama El Bellali,2839,Ittihad Tanger,1060.2168,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,407506,Oussama Nourdine,6995,Maghreb Fès,1983.2667,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,407852,Abdessamad Mahir,2761,FUS Rabat,2116.4497,45.71428571428572,1,0,low,True,44.11764705882353,20.0,not_recalculated_full_population_unavailable
+MID,MID_D2,415853,Claude Gnolou,36099,KAC Marrakech,1884.1833,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,416303,El Mahdi Akoumi,6992,Hassania Agadir,1424.8833,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,424979,Soufiane Tazi,2761,FUS Rabat,1206.7834,71.42857142857143,1,0,low,True,73.52941176470588,10.0,not_recalculated_full_population_unavailable
+MID,MID_D2,442288,Adnane Berdad,25917,CODM Meknès,1615.9169,51.42857142857142,1,0,low,True,52.94117647058824,17.0,not_recalculated_full_population_unavailable
+MID,MID_D2,442292,Abdellatif El Bajjani,18552,Renaissance Zemamra,1764.4001,48.57142857142857,1,0,low,True,47.05882352941176,19.0,not_recalculated_full_population_unavailable
+MID,MID_D2,443951,Youness Akharraz,11935,UTS Rabat,1331.9833,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,446355,Ishak Zidani,18552,Renaissance Zemamra,1066.95,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,450709,Joseph Bakasu       ,6994,Wydad Casablanca,1569.6168,65.71428571428571,1,0,low,True,67.64705882352942,12.0,not_recalculated_full_population_unavailable
+MID,MID_D2,477679,Redouane Oubidar,2889,Olympique Dcheïra,1254.8667,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,477680,Hamza Saoud,2889,Olympique Dcheïra,1441.9332,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,477682,Ayoub Benaadi,2889,Olympique Dcheïra,1579.8833,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+MID,MID_D2,523308,Adil Khalloufi,36100,US Yacoub El Mansour,2093.65,80.0,1,0,low,True,79.41176470588235,8.0,not_recalculated_full_population_unavailable
+MID,MID_D2,523973,Hamza Rafa,36099,KAC Marrakech,1053.5333,22.857142857142858,1,0,low,True,22.058823529411764,21.0,not_recalculated_full_population_unavailable
+MID,MID_D2,523996,Fred Duval Ngoma,6989,Olympic Safi,1765.4167,60.0,1,0,low,True,61.76470588235294,14.0,not_recalculated_full_population_unavailable
+MID,MID_D2,7183,Moctar Sidi El Hacen El Ide,2365,Difaâ El Jadida,1722.7499,62.85714285714285,1,0,low,True,64.70588235294117,13.0,not_recalculated_full_population_unavailable
+MID,MID_D2,7717,Rayane Aabid,2762,RSB Berkane,1303.0834,91.42857142857144,1,0,low,True,91.17647058823528,4.0,not_recalculated_full_population_unavailable
+MID,MID_D4,10689,Sabir Bougrine,2349,Raja Casablanca,1519.933,85.71428571428571,1,0,low,True,85.29411764705883,6.0,not_recalculated_full_population_unavailable
+MID,MID_D4,138860,Youssef Michte,2365,Difaâ El Jadida,1534.3501,11.428571428571429,1,0,low,True,8.823529411764707,32.0,not_recalculated_full_population_unavailable
+MID,MID_D4,138872,Oussama Mahrous,36099,KAC Marrakech,946.41675,51.42857142857142,1,0,low,True,52.94117647058824,17.0,not_recalculated_full_population_unavailable
+MID,MID_D4,138873,Abdelghafour Lamirat,6994,Wydad Casablanca,1501.45,40.0,1,0,low,True,41.17647058823529,21.0,not_recalculated_full_population_unavailable
+MID,MID_D4,138983,Zine Eddine Derrag,2838,FAR Rabat,1000.7,74.28571428571429,1,0,low,True,73.52941176470588,10.0,not_recalculated_full_population_unavailable
+MID,MID_D4,139565,Larbi Naji,25917,CODM Meknès,1892.6,71.42857142857143,1,0,low,True,70.58823529411765,11.0,not_recalculated_full_population_unavailable
+MID,MID_D4,140872,Mohamed Rabie Hrimat,2838,FAR Rabat,1687.5834,88.57142857142857,1,0,low,True,88.23529411764706,5.0,not_recalculated_full_population_unavailable
+MID,MID_D4,141254,Hamza Afsal,6995,Maghreb Fès,982.0499,37.142857142857146,1,0,low,True,38.23529411764706,22.0,not_recalculated_full_population_unavailable
+MID,MID_D4,143166,Zakaria Fati,36100,US Yacoub El Mansour,1729.35,5.714285714285714,1,0,low,True,2.941176470588235,34.0,not_recalculated_full_population_unavailable
+MID,MID_D4,144436,Anas Serrhat,2761,FUS Rabat,2207.3833,80.0,1,0,low,True,79.41176470588235,8.0,not_recalculated_full_population_unavailable
+MID,MID_D4,151743,Mohamed Al Makahasi,2349,Raja Casablanca,1844.75,94.28571428571428,1,0,low,True,94.11764705882352,3.0,not_recalculated_full_population_unavailable
+MID,MID_D4,194912,Faouzi Abd El Mouttalib,2839,Ittihad Tanger,1603.85,25.71428571428571,1,0,low,True,23.52941176470588,27.0,not_recalculated_full_population_unavailable
+MID,MID_D4,21648,Anas Tahiri,6995,Maghreb Fès,1222.9333,65.71428571428571,1,0,low,True,64.70588235294117,13.0,not_recalculated_full_population_unavailable
+MID,MID_D4,312413,Soulaimane El Bouchqali,2838,FAR Rabat,63.416668,32.857142857142854,2,0,low,True,32.35294117647059,24.0,not_recalculated_full_population_unavailable
+MID,MID_D4,313284,Achraf Harmach,6995,Maghreb Fès,1416.0166,82.85714285714286,1,0,low,True,82.35294117647058,7.0,not_recalculated_full_population_unavailable
+MID,MID_D4,407207,Ennaama El Bellali,2839,Ittihad Tanger,1060.2168,34.285714285714285,1,0,low,True,35.294117647058826,23.0,not_recalculated_full_population_unavailable
+MID,MID_D4,407506,Oussama Nourdine,6995,Maghreb Fès,1983.2667,20.0,1,0,low,True,17.647058823529413,29.0,not_recalculated_full_population_unavailable
+MID,MID_D4,407852,Abdessamad Mahir,2761,FUS Rabat,2116.4497,77.14285714285715,1,0,low,True,76.47058823529412,9.0,not_recalculated_full_population_unavailable
+MID,MID_D4,415853,Claude Gnolou,36099,KAC Marrakech,1884.1833,57.14285714285714,1,0,low,True,58.82352941176471,15.0,not_recalculated_full_population_unavailable
+MID,MID_D4,416303,El Mahdi Akoumi,6992,Hassania Agadir,1424.8833,45.71428571428572,1,0,low,True,47.05882352941176,19.0,not_recalculated_full_population_unavailable
+MID,MID_D4,424979,Soufiane Tazi,2761,FUS Rabat,1206.7834,60.0,1,0,low,True,61.76470588235294,14.0,not_recalculated_full_population_unavailable
+MID,MID_D4,442288,Adnane Berdad,25917,CODM Meknès,1615.9169,28.57142857142857,1,0,low,True,26.47058823529412,26.0,not_recalculated_full_population_unavailable
+MID,MID_D4,442292,Abdellatif El Bajjani,18552,Renaissance Zemamra,1764.4001,42.85714285714285,1,0,low,True,44.11764705882353,20.0,not_recalculated_full_population_unavailable
+MID,MID_D4,443951,Youness Akharraz,11935,UTS Rabat,1331.9833,91.42857142857144,1,0,low,True,91.17647058823528,4.0,not_recalculated_full_population_unavailable
+MID,MID_D4,446355,Ishak Zidani,18552,Renaissance Zemamra,1066.95,48.57142857142857,1,0,low,True,50.0,18.0,not_recalculated_full_population_unavailable
+MID,MID_D4,450709,Joseph Bakasu       ,6994,Wydad Casablanca,1569.6168,31.428571428571427,1,0,low,True,29.411764705882355,25.0,not_recalculated_full_population_unavailable
+MID,MID_D4,477679,Redouane Oubidar,2889,Olympique Dcheïra,1254.8667,22.857142857142858,1,0,low,True,20.588235294117645,28.0,not_recalculated_full_population_unavailable
+MID,MID_D4,477680,Hamza Saoud,2889,Olympique Dcheïra,1441.9332,97.14285714285714,1,0,low,True,97.05882352941175,2.0,not_recalculated_full_population_unavailable
+MID,MID_D4,477682,Ayoub Benaadi,2889,Olympique Dcheïra,1579.8833,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+MID,MID_D4,523308,Adil Khalloufi,36100,US Yacoub El Mansour,2093.65,68.57142857142857,1,0,low,True,67.64705882352942,12.0,not_recalculated_full_population_unavailable
+MID,MID_D4,523973,Hamza Rafa,36099,KAC Marrakech,1053.5333,14.285714285714285,1,0,low,True,11.76470588235294,31.0,not_recalculated_full_population_unavailable
+MID,MID_D4,523996,Fred Duval Ngoma,6989,Olympic Safi,1765.4167,17.142857142857142,1,0,low,True,14.705882352941178,30.0,not_recalculated_full_population_unavailable
+MID,MID_D4,7183,Moctar Sidi El Hacen El Ide,2365,Difaâ El Jadida,1722.7499,8.571428571428571,1,0,low,True,5.88235294117647,33.0,not_recalculated_full_population_unavailable
+MID,MID_D4,7717,Rayane Aabid,2762,RSB Berkane,1303.0834,54.285714285714285,1,0,low,True,55.88235294117647,16.0,not_recalculated_full_population_unavailable
+MID,MID_D5,10689,Sabir Bougrine,2349,Raja Casablanca,1519.933,2.857142857142857,1,0,low,True,2.941176470588235,34.0,not_recalculated_full_population_unavailable
+MID,MID_D5,138860,Youssef Michte,2365,Difaâ El Jadida,1534.3501,11.428571428571429,1,0,low,True,11.76470588235294,31.0,not_recalculated_full_population_unavailable
+MID,MID_D5,138872,Oussama Mahrous,36099,KAC Marrakech,946.41675,74.28571428571429,1,0,low,True,73.52941176470588,10.0,not_recalculated_full_population_unavailable
+MID,MID_D5,138873,Abdelghafour Lamirat,6994,Wydad Casablanca,1501.45,57.14285714285714,1,0,low,True,58.82352941176471,15.0,not_recalculated_full_population_unavailable
+MID,MID_D5,138983,Zine Eddine Derrag,2838,FAR Rabat,1000.7,42.85714285714285,1,0,low,True,44.11764705882353,20.0,not_recalculated_full_population_unavailable
+MID,MID_D5,139565,Larbi Naji,25917,CODM Meknès,1892.6,37.142857142857146,1,0,low,True,38.23529411764706,22.0,not_recalculated_full_population_unavailable
+MID,MID_D5,140872,Mohamed Rabie Hrimat,2838,FAR Rabat,1687.5834,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+MID,MID_D5,141254,Hamza Afsal,6995,Maghreb Fès,982.0499,82.85714285714286,1,0,low,True,82.35294117647058,7.0,not_recalculated_full_population_unavailable
+MID,MID_D5,143166,Zakaria Fati,36100,US Yacoub El Mansour,1729.35,85.71428571428571,1,0,low,True,85.29411764705883,6.0,not_recalculated_full_population_unavailable
+MID,MID_D5,144436,Anas Serrhat,2761,FUS Rabat,2207.3833,97.14285714285714,1,0,low,True,97.05882352941175,2.0,not_recalculated_full_population_unavailable
+MID,MID_D5,151743,Mohamed Al Makahasi,2349,Raja Casablanca,1844.75,60.0,1,0,low,True,61.76470588235294,14.0,not_recalculated_full_population_unavailable
+MID,MID_D5,194912,Faouzi Abd El Mouttalib,2839,Ittihad Tanger,1603.85,17.142857142857142,1,0,low,True,17.647058823529413,29.0,not_recalculated_full_population_unavailable
+MID,MID_D5,21648,Anas Tahiri,6995,Maghreb Fès,1222.9333,5.714285714285714,1,0,low,True,5.88235294117647,33.0,not_recalculated_full_population_unavailable
+MID,MID_D5,312413,Soulaimane El Bouchqali,2838,FAR Rabat,63.416668,67.14285714285714,2,0,low,True,67.64705882352942,12.0,not_recalculated_full_population_unavailable
+MID,MID_D5,313284,Achraf Harmach,6995,Maghreb Fès,1416.0166,31.428571428571427,1,0,low,True,32.35294117647059,24.0,not_recalculated_full_population_unavailable
+MID,MID_D5,407207,Ennaama El Bellali,2839,Ittihad Tanger,1060.2168,34.285714285714285,1,0,low,True,35.294117647058826,23.0,not_recalculated_full_population_unavailable
+MID,MID_D5,407506,Oussama Nourdine,6995,Maghreb Fès,1983.2667,45.71428571428572,1,0,low,True,47.05882352941176,19.0,not_recalculated_full_population_unavailable
+MID,MID_D5,407852,Abdessamad Mahir,2761,FUS Rabat,2116.4497,62.85714285714285,1,0,low,True,64.70588235294117,13.0,not_recalculated_full_population_unavailable
+MID,MID_D5,415853,Claude Gnolou,36099,KAC Marrakech,1884.1833,48.57142857142857,1,0,low,True,50.0,18.0,not_recalculated_full_population_unavailable
+MID,MID_D5,416303,El Mahdi Akoumi,6992,Hassania Agadir,1424.8833,22.857142857142858,1,0,low,True,23.52941176470588,27.0,not_recalculated_full_population_unavailable
+MID,MID_D5,424979,Soufiane Tazi,2761,FUS Rabat,1206.7834,51.42857142857142,1,0,low,True,52.94117647058824,17.0,not_recalculated_full_population_unavailable
+MID,MID_D5,442288,Adnane Berdad,25917,CODM Meknès,1615.9169,40.0,1,0,low,True,41.17647058823529,21.0,not_recalculated_full_population_unavailable
+MID,MID_D5,442292,Abdellatif El Bajjani,18552,Renaissance Zemamra,1764.4001,54.285714285714285,1,0,low,True,55.88235294117647,16.0,not_recalculated_full_population_unavailable
+MID,MID_D5,443951,Youness Akharraz,11935,UTS Rabat,1331.9833,14.285714285714285,1,0,low,True,14.705882352941178,30.0,not_recalculated_full_population_unavailable
+MID,MID_D5,446355,Ishak Zidani,18552,Renaissance Zemamra,1066.95,20.0,1,0,low,True,20.588235294117645,28.0,not_recalculated_full_population_unavailable
+MID,MID_D5,450709,Joseph Bakasu       ,6994,Wydad Casablanca,1569.6168,8.571428571428571,1,0,low,True,8.823529411764707,32.0,not_recalculated_full_population_unavailable
+MID,MID_D5,477679,Redouane Oubidar,2889,Olympique Dcheïra,1254.8667,25.71428571428571,1,0,low,True,26.47058823529412,26.0,not_recalculated_full_population_unavailable
+MID,MID_D5,477680,Hamza Saoud,2889,Olympique Dcheïra,1441.9332,94.28571428571428,1,0,low,True,94.11764705882352,3.0,not_recalculated_full_population_unavailable
+MID,MID_D5,477682,Ayoub Benaadi,2889,Olympique Dcheïra,1579.8833,80.0,1,0,low,True,79.41176470588235,8.0,not_recalculated_full_population_unavailable
+MID,MID_D5,523308,Adil Khalloufi,36100,US Yacoub El Mansour,2093.65,91.42857142857144,1,0,low,True,91.17647058823528,4.0,not_recalculated_full_population_unavailable
+MID,MID_D5,523973,Hamza Rafa,36099,KAC Marrakech,1053.5333,28.57142857142857,1,0,low,True,29.411764705882355,25.0,not_recalculated_full_population_unavailable
+MID,MID_D5,523996,Fred Duval Ngoma,6989,Olympic Safi,1765.4167,77.14285714285715,1,0,low,True,76.47058823529412,9.0,not_recalculated_full_population_unavailable
+MID,MID_D5,7183,Moctar Sidi El Hacen El Ide,2365,Difaâ El Jadida,1722.7499,71.42857142857143,1,0,low,True,70.58823529411765,11.0,not_recalculated_full_population_unavailable
+MID,MID_D5,7717,Rayane Aabid,2762,RSB Berkane,1303.0834,88.57142857142857,1,0,low,True,88.23529411764706,5.0,not_recalculated_full_population_unavailable
+MID,MID_D6,10689,Sabir Bougrine,2349,Raja Casablanca,1519.933,10.32113787645541,1,0,low,True,2.941176470588235,34.0,not_recalculated_full_population_unavailable
+MID,MID_D6,138860,Youssef Michte,2365,Difaâ El Jadida,1534.3501,30.226022852930328,1,0,low,True,17.647058823529413,29.0,not_recalculated_full_population_unavailable
+MID,MID_D6,138872,Oussama Mahrous,36099,KAC Marrakech,946.41675,46.37447583530279,1,0,low,True,44.11764705882353,20.0,not_recalculated_full_population_unavailable
+MID,MID_D6,138873,Abdelghafour Lamirat,6994,Wydad Casablanca,1501.45,62.36965373690944,1,0,low,True,76.47058823529412,9.0,not_recalculated_full_population_unavailable
+MID,MID_D6,138983,Zine Eddine Derrag,2838,FAR Rabat,1000.7,63.696129745669005,1,0,low,True,82.35294117647058,7.0,not_recalculated_full_population_unavailable
+MID,MID_D6,139565,Larbi Naji,25917,CODM Meknès,1892.6,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+MID,MID_D6,140872,Mohamed Rabie Hrimat,2838,FAR Rabat,1687.5834,48.642683376336166,1,0,low,True,47.05882352941176,19.0,not_recalculated_full_population_unavailable
+MID,MID_D6,141254,Hamza Afsal,6995,Maghreb Fès,982.0499,48.91574770711824,1,0,low,True,50.0,18.0,not_recalculated_full_population_unavailable
+MID,MID_D6,143166,Zakaria Fati,36100,US Yacoub El Mansour,1729.35,26.716346132997987,1,0,low,True,11.76470588235294,31.0,not_recalculated_full_population_unavailable
+MID,MID_D6,144436,Anas Serrhat,2761,FUS Rabat,2207.3833,67.7438216864335,1,0,low,True,88.23529411764706,5.0,not_recalculated_full_population_unavailable
+MID,MID_D6,151743,Mohamed Al Makahasi,2349,Raja Casablanca,1844.75,27.81266668112139,1,0,low,True,14.705882352941178,30.0,not_recalculated_full_population_unavailable
+MID,MID_D6,194912,Faouzi Abd El Mouttalib,2839,Ittihad Tanger,1603.85,53.10998460571107,1,0,low,True,61.76470588235294,14.0,not_recalculated_full_population_unavailable
+MID,MID_D6,21648,Anas Tahiri,6995,Maghreb Fès,1222.9333,14.13609939073307,1,0,low,True,5.88235294117647,33.0,not_recalculated_full_population_unavailable
+MID,MID_D6,312413,Soulaimane El Bouchqali,2838,FAR Rabat,63.416668,20.577108041889808,2,0,low,True,8.823529411764707,32.0,not_recalculated_full_population_unavailable
+MID,MID_D6,313284,Achraf Harmach,6995,Maghreb Fès,1416.0166,31.42783287439561,1,0,low,True,23.52941176470588,27.0,not_recalculated_full_population_unavailable
+MID,MID_D6,407207,Ennaama El Bellali,2839,Ittihad Tanger,1060.2168,33.75226903146072,1,0,low,True,29.411764705882355,25.0,not_recalculated_full_population_unavailable
+MID,MID_D6,407506,Oussama Nourdine,6995,Maghreb Fès,1983.2667,50.05400576743783,1,0,low,True,58.82352941176471,15.0,not_recalculated_full_population_unavailable
+MID,MID_D6,407852,Abdessamad Mahir,2761,FUS Rabat,2116.4497,80.7234361787472,1,0,low,True,97.05882352941175,2.0,not_recalculated_full_population_unavailable
+MID,MID_D6,415853,Claude Gnolou,36099,KAC Marrakech,1884.1833,72.02719802259274,1,0,low,True,91.17647058823528,4.0,not_recalculated_full_population_unavailable
+MID,MID_D6,416303,El Mahdi Akoumi,6992,Hassania Agadir,1424.8833,64.41847314672275,1,0,low,True,85.29411764705883,6.0,not_recalculated_full_population_unavailable
+MID,MID_D6,424979,Soufiane Tazi,2761,FUS Rabat,1206.7834,38.104464343791335,1,0,low,True,38.23529411764706,22.0,not_recalculated_full_population_unavailable
+MID,MID_D6,442288,Adnane Berdad,25917,CODM Meknès,1615.9169,44.22593612454196,1,0,low,True,41.17647058823529,21.0,not_recalculated_full_population_unavailable
+MID,MID_D6,442292,Abdellatif El Bajjani,18552,Renaissance Zemamra,1764.4001,60.401014722143934,1,0,low,True,73.52941176470588,10.0,not_recalculated_full_population_unavailable
+MID,MID_D6,443951,Youness Akharraz,11935,UTS Rabat,1331.9833,37.49816352637627,1,0,low,True,35.294117647058826,23.0,not_recalculated_full_population_unavailable
+MID,MID_D6,446355,Ishak Zidani,18552,Renaissance Zemamra,1066.95,34.76940222458316,1,0,low,True,32.35294117647059,24.0,not_recalculated_full_population_unavailable
+MID,MID_D6,450709,Joseph Bakasu       ,6994,Wydad Casablanca,1569.6168,32.19828277791027,1,0,low,True,26.47058823529412,26.0,not_recalculated_full_population_unavailable
+MID,MID_D6,477679,Redouane Oubidar,2889,Olympique Dcheïra,1254.8667,63.220545955204784,1,0,low,True,79.41176470588235,8.0,not_recalculated_full_population_unavailable
+MID,MID_D6,477680,Hamza Saoud,2889,Olympique Dcheïra,1441.9332,49.14569068320288,1,0,low,True,52.94117647058824,17.0,not_recalculated_full_population_unavailable
+MID,MID_D6,477682,Ayoub Benaadi,2889,Olympique Dcheïra,1579.8833,30.76097829622081,1,0,low,True,20.588235294117645,28.0,not_recalculated_full_population_unavailable
+MID,MID_D6,523308,Adil Khalloufi,36100,US Yacoub El Mansour,2093.65,80.14052600767546,1,0,low,True,94.11764705882352,3.0,not_recalculated_full_population_unavailable
+MID,MID_D6,523973,Hamza Rafa,36099,KAC Marrakech,1053.5333,53.46384510309839,1,0,low,True,64.70588235294117,13.0,not_recalculated_full_population_unavailable
+MID,MID_D6,523996,Fred Duval Ngoma,6989,Olympic Safi,1765.4167,58.576422887621696,1,0,low,True,70.58823529411765,11.0,not_recalculated_full_population_unavailable
+MID,MID_D6,7183,Moctar Sidi El Hacen El Ide,2365,Difaâ El Jadida,1722.7499,56.863901476550815,1,0,low,True,67.64705882352942,12.0,not_recalculated_full_population_unavailable
+MID,MID_D6,7717,Rayane Aabid,2762,RSB Berkane,1303.0834,49.93085579237223,1,0,low,True,55.88235294117647,16.0,not_recalculated_full_population_unavailable
+MID,MID_D7,10689,Sabir Bougrine,2349,Raja Casablanca,1519.933,72.20049992340232,1,0,low,True,85.29411764705883,6.0,not_recalculated_full_population_unavailable
+MID,MID_D7,138860,Youssef Michte,2365,Difaâ El Jadida,1534.3501,71.1137508007553,1,0,low,True,82.35294117647058,7.0,not_recalculated_full_population_unavailable
+MID,MID_D7,138872,Oussama Mahrous,36099,KAC Marrakech,946.41675,66.69369067866913,1,0,low,True,76.47058823529412,9.0,not_recalculated_full_population_unavailable
+MID,MID_D7,138873,Abdelghafour Lamirat,6994,Wydad Casablanca,1501.45,57.287124581906646,1,0,low,True,64.70588235294117,13.0,not_recalculated_full_population_unavailable
+MID,MID_D7,138983,Zine Eddine Derrag,2838,FAR Rabat,1000.7,36.206173943863256,1,0,low,True,26.47058823529412,26.0,not_recalculated_full_population_unavailable
+MID,MID_D7,139565,Larbi Naji,25917,CODM Meknès,1892.6,32.14541091280253,1,0,low,True,20.588235294117645,28.0,not_recalculated_full_population_unavailable
+MID,MID_D7,140872,Mohamed Rabie Hrimat,2838,FAR Rabat,1687.5834,18.31606828675221,1,0,low,True,8.823529411764707,32.0,not_recalculated_full_population_unavailable
+MID,MID_D7,141254,Hamza Afsal,6995,Maghreb Fès,982.0499,41.88205682446774,1,0,low,True,32.35294117647059,24.0,not_recalculated_full_population_unavailable
+MID,MID_D7,143166,Zakaria Fati,36100,US Yacoub El Mansour,1729.35,31.008301508480415,1,0,low,True,17.647058823529413,29.0,not_recalculated_full_population_unavailable
+MID,MID_D7,144436,Anas Serrhat,2761,FUS Rabat,2207.3833,43.58879409349505,1,0,low,True,38.23529411764706,22.0,not_recalculated_full_population_unavailable
+MID,MID_D7,151743,Mohamed Al Makahasi,2349,Raja Casablanca,1844.75,46.29527141870612,1,0,low,True,47.05882352941176,19.0,not_recalculated_full_population_unavailable
+MID,MID_D7,194912,Faouzi Abd El Mouttalib,2839,Ittihad Tanger,1603.85,47.031347361820096,1,0,low,True,50.0,18.0,not_recalculated_full_population_unavailable
+MID,MID_D7,21648,Anas Tahiri,6995,Maghreb Fès,1222.9333,0.0,1,0,low,True,2.941176470588235,34.0,not_recalculated_full_population_unavailable
+MID,MID_D7,312413,Soulaimane El Bouchqali,2838,FAR Rabat,63.416668,57.34309256373308,2,0,low,True,67.64705882352942,12.0,not_recalculated_full_population_unavailable
+MID,MID_D7,313284,Achraf Harmach,6995,Maghreb Fès,1416.0166,74.91404308707868,1,0,low,True,88.23529411764706,5.0,not_recalculated_full_population_unavailable
+MID,MID_D7,407207,Ennaama El Bellali,2839,Ittihad Tanger,1060.2168,51.01426806510154,1,0,low,True,58.82352941176471,15.0,not_recalculated_full_population_unavailable
+MID,MID_D7,407506,Oussama Nourdine,6995,Maghreb Fès,1983.2667,86.40734819945472,1,0,low,True,94.11764705882352,3.0,not_recalculated_full_population_unavailable
+MID,MID_D7,407852,Abdessamad Mahir,2761,FUS Rabat,2116.4497,57.952887369376526,1,0,low,True,70.58823529411765,11.0,not_recalculated_full_population_unavailable
+MID,MID_D7,415853,Claude Gnolou,36099,KAC Marrakech,1884.1833,68.28428109863226,1,0,low,True,79.41176470588235,8.0,not_recalculated_full_population_unavailable
+MID,MID_D7,416303,El Mahdi Akoumi,6992,Hassania Agadir,1424.8833,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+MID,MID_D7,424979,Soufiane Tazi,2761,FUS Rabat,1206.7834,88.66218194499979,1,0,low,True,97.05882352941175,2.0,not_recalculated_full_population_unavailable
+MID,MID_D7,442288,Adnane Berdad,25917,CODM Meknès,1615.9169,38.76567228977342,1,0,low,True,29.411764705882355,25.0,not_recalculated_full_population_unavailable
+MID,MID_D7,442292,Abdellatif El Bajjani,18552,Renaissance Zemamra,1764.4001,53.85823057186845,1,0,low,True,61.76470588235294,14.0,not_recalculated_full_population_unavailable
+MID,MID_D7,443951,Youness Akharraz,11935,UTS Rabat,1331.9833,13.323100624376186,1,0,low,True,5.88235294117647,33.0,not_recalculated_full_population_unavailable
+MID,MID_D7,446355,Ishak Zidani,18552,Renaissance Zemamra,1066.95,79.15588100455739,1,0,low,True,91.17647058823528,4.0,not_recalculated_full_population_unavailable
+MID,MID_D7,450709,Joseph Bakasu       ,6994,Wydad Casablanca,1569.6168,47.70262018597168,1,0,low,True,52.94117647058824,17.0,not_recalculated_full_population_unavailable
+MID,MID_D7,477679,Redouane Oubidar,2889,Olympique Dcheïra,1254.8667,46.13372241248302,1,0,low,True,44.11764705882353,20.0,not_recalculated_full_population_unavailable
+MID,MID_D7,477680,Hamza Saoud,2889,Olympique Dcheïra,1441.9332,34.51062027772991,1,0,low,True,23.52941176470588,27.0,not_recalculated_full_population_unavailable
+MID,MID_D7,477682,Ayoub Benaadi,2889,Olympique Dcheïra,1579.8833,41.93485869288348,1,0,low,True,35.294117647058826,23.0,not_recalculated_full_population_unavailable
+MID,MID_D7,523308,Adil Khalloufi,36100,US Yacoub El Mansour,2093.65,58.080894651891626,1,0,low,True,73.52941176470588,10.0,not_recalculated_full_population_unavailable
+MID,MID_D7,523973,Hamza Rafa,36099,KAC Marrakech,1053.5333,49.67334181339941,1,0,low,True,55.88235294117647,16.0,not_recalculated_full_population_unavailable
+MID,MID_D7,523996,Fred Duval Ngoma,6989,Olympic Safi,1765.4167,29.486965844699863,1,0,low,True,14.705882352941178,30.0,not_recalculated_full_population_unavailable
+MID,MID_D7,7183,Moctar Sidi El Hacen El Ide,2365,Difaâ El Jadida,1722.7499,21.80123235399964,1,0,low,True,11.76470588235294,31.0,not_recalculated_full_population_unavailable
+MID,MID_D7,7717,Rayane Aabid,2762,RSB Berkane,1303.0834,44.3873065198656,1,0,low,True,41.17647058823529,21.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,132614,Walid Nassi Ouled Bentle,6994,Wydad Casablanca,1031.5333,25.01150187387381,2,0,low,False,20.0,21.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,134249,Adam Ennaffati,2349,Raja Casablanca,1201.3667,47.27092616216225,2,0,low,False,48.0,14.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,138895,Abdelfattah Hadraf,2838,FAR Rabat,1100.0166,38.14121401801803,2,0,low,False,32.0,18.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,139001,Youssef Anouar,25917,CODM Meknès,906.2,29.129712144144214,2,0,low,False,24.0,20.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,139008,Amine Souane,2761,FUS Rabat,1390.2333,84.28242803603607,2,0,low,False,84.0,5.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,139017,Salah-eddine Benyachou,2761,FUS Rabat,1056.6665,94.14121401801802,2,0,low,False,96.0,2.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,139568,Youssef Zghoudi,36099,KAC Marrakech,882.10004,44.16421776576565,2,0,low,False,44.0,15.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,140874,Reda Slim,2838,FAR Rabat,1318.4001,54.58785981981973,2,0,low,False,64.0,10.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,143490,Ahmed Hammoudan,2838,FAR Rabat,1350.9333,48.0,2,0,low,False,52.0,13.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,16208,Arthur Kevin Yamga,6995,Maghreb Fès,908.2999,9.57635794594592,2,0,low,False,8.0,24.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,179311,Imad Riahi,2762,RSB Berkane,908.3334,32.0,2,0,low,False,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,199611,Youssef Mehri,2762,RSB Berkane,1731.6167,85.29392990990988,2,0,low,False,88.0,4.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,275341,Yazid Faffa,18552,Renaissance Zemamra,1653.1168,48.28242803603606,2,0,low,False,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,312935,Amine Azri,2762,RSB Berkane,831.3667,92.56485607207212,2,0,low,False,92.0,3.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,3302,Nordin Amrabat,6994,Wydad Casablanca,1213.9333,8.0,2,0,low,False,4.0,25.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,34952,Soufyan Ahannach,36100,US Yacoub El Mansour,1648.5166,43.27092616216225,2,0,low,False,40.0,16.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,358748,Abdellah Ait Brahim,6992,Hassania Agadir,1376.3834,16.847284108108166,2,0,low,False,12.0,23.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,381935,Ismail Mihrab,36099,KAC Marrakech,1046.0,79.4351439279279,2,0,low,False,80.0,6.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,409131,Abdellatif Benkassou,25917,CODM Meknès,868.2999,70.70607009009014,2,0,low,False,72.0,8.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,435547,Abdallah Ziani,2365,Difaâ El Jadida,1670.4166,95.71757196396396,2,0,low,False,100.0,1.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,449373,Marouane Oujeddou,18552,Renaissance Zemamra,1522.1,54.14121401801803,2,0,low,False,60.0,11.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,460266,Youness Dahmani,11935,UTS Rabat,1988.8333,76.56485607207212,2,0,low,False,76.0,7.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,477555,Adam Brika,6995,Maghreb Fès,1282.0334,42.58785981981973,2,0,low,False,36.0,17.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,523312,Brahim Mansouri,36100,US Yacoub El Mansour,1587.7167,17.858785981981974,2,0,low,False,16.0,22.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D1,7550,Mounir Chouiar,2762,RSB Berkane,1954.4667,62.423642054054085,2,0,low,False,68.0,9.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,132614,Walid Nassi Ouled Bentle,6994,Wydad Casablanca,1031.5333,68.0,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,134249,Adam Ennaffati,2349,Raja Casablanca,1201.3667,92.0,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,138895,Abdelfattah Hadraf,2838,FAR Rabat,1100.0166,76.0,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,139001,Youssef Anouar,25917,CODM Meknès,906.2,80.0,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,139008,Amine Souane,2761,FUS Rabat,1390.2333,16.0,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,139017,Salah-eddine Benyachou,2761,FUS Rabat,1056.6665,44.0,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,139568,Youssef Zghoudi,36099,KAC Marrakech,882.10004,36.0,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,140874,Reda Slim,2838,FAR Rabat,1318.4001,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,143490,Ahmed Hammoudan,2838,FAR Rabat,1350.9333,40.0,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,16208,Arthur Kevin Yamga,6995,Maghreb Fès,908.2999,8.0,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,179311,Imad Riahi,2762,RSB Berkane,908.3334,96.0,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,199611,Youssef Mehri,2762,RSB Berkane,1731.6167,4.0,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,275341,Yazid Faffa,18552,Renaissance Zemamra,1653.1168,24.0,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,312935,Amine Azri,2762,RSB Berkane,831.3667,64.0,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,3302,Nordin Amrabat,6994,Wydad Casablanca,1213.9333,88.0,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,34952,Soufyan Ahannach,36100,US Yacoub El Mansour,1648.5166,84.0,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,358748,Abdellah Ait Brahim,6992,Hassania Agadir,1376.3834,52.0,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,381935,Ismail Mihrab,36099,KAC Marrakech,1046.0,48.0,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,409131,Abdellatif Benkassou,25917,CODM Meknès,868.2999,12.0,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,435547,Abdallah Ziani,2365,Difaâ El Jadida,1670.4166,20.0,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,449373,Marouane Oujeddou,18552,Renaissance Zemamra,1522.1,56.00000000000001,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,460266,Youness Dahmani,11935,UTS Rabat,1988.8333,28.000000000000004,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,477555,Adam Brika,6995,Maghreb Fès,1282.0334,32.0,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,523312,Brahim Mansouri,36100,US Yacoub El Mansour,1587.7167,60.0,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D2,7550,Mounir Chouiar,2762,RSB Berkane,1954.4667,72.0,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,132614,Walid Nassi Ouled Bentle,6994,Wydad Casablanca,1031.5333,34.366882011502085,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,134249,Adam Ennaffati,2349,Raja Casablanca,1201.3667,41.84607354551363,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,138895,Abdelfattah Hadraf,2838,FAR Rabat,1100.0166,37.969522041916,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,139001,Youssef Anouar,25917,CODM Meknès,906.2,76.439385535362,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,139008,Amine Souane,2761,FUS Rabat,1390.2333,46.42184784050324,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,139017,Salah-eddine Benyachou,2761,FUS Rabat,1056.6665,35.71835403784432,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,139568,Youssef Zghoudi,36099,KAC Marrakech,882.10004,62.94996595401548,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,140874,Reda Slim,2838,FAR Rabat,1318.4001,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,143490,Ahmed Hammoudan,2838,FAR Rabat,1350.9333,13.522966846059353,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,16208,Arthur Kevin Yamga,6995,Maghreb Fès,908.2999,41.33051142702775,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,179311,Imad Riahi,2762,RSB Berkane,908.3334,87.53617342088566,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,199611,Youssef Mehri,2762,RSB Berkane,1731.6167,31.644294757030284,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,275341,Yazid Faffa,18552,Renaissance Zemamra,1653.1168,4.161841613779024,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,312935,Amine Azri,2762,RSB Berkane,831.3667,69.54348516175988,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,3302,Nordin Amrabat,6994,Wydad Casablanca,1213.9333,65.12115323750615,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,34952,Soufyan Ahannach,36100,US Yacoub El Mansour,1648.5166,54.19662310858191,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,358748,Abdellah Ait Brahim,6992,Hassania Agadir,1376.3834,59.758042246509326,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,381935,Ismail Mihrab,36099,KAC Marrakech,1046.0,39.13458448425644,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,409131,Abdellatif Benkassou,25917,CODM Meknès,868.2999,0.0,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,435547,Abdallah Ziani,2365,Difaâ El Jadida,1670.4166,28.02456408150893,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,449373,Marouane Oujeddou,18552,Renaissance Zemamra,1522.1,17.48113907822629,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,460266,Youness Dahmani,11935,UTS Rabat,1988.8333,37.46752828489203,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,477555,Adam Brika,6995,Maghreb Fès,1282.0334,46.436752012691166,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,523312,Brahim Mansouri,36100,US Yacoub El Mansour,1587.7167,47.037963606330486,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D3,7550,Mounir Chouiar,2762,RSB Berkane,1954.4667,24.925757028382115,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,132614,Walid Nassi Ouled Bentle,6994,Wydad Casablanca,1031.5333,48.0,1,0,low,True,48.0,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,134249,Adam Ennaffati,2349,Raja Casablanca,1201.3667,96.0,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,138895,Abdelfattah Hadraf,2838,FAR Rabat,1100.0166,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,139001,Youssef Anouar,25917,CODM Meknès,906.2,88.0,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,139008,Amine Souane,2761,FUS Rabat,1390.2333,64.0,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,139017,Salah-eddine Benyachou,2761,FUS Rabat,1056.6665,30.0,1,0,low,True,30.0,18.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,139568,Youssef Zghoudi,36099,KAC Marrakech,882.10004,4.0,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,140874,Reda Slim,2838,FAR Rabat,1318.4001,36.0,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,143490,Ahmed Hammoudan,2838,FAR Rabat,1350.9333,48.0,1,0,low,True,48.0,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,16208,Arthur Kevin Yamga,6995,Maghreb Fès,908.2999,20.0,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,179311,Imad Riahi,2762,RSB Berkane,908.3334,92.0,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,199611,Youssef Mehri,2762,RSB Berkane,1731.6167,30.0,1,0,low,True,30.0,18.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,275341,Yazid Faffa,18552,Renaissance Zemamra,1653.1168,16.0,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,312935,Amine Azri,2762,RSB Berkane,831.3667,12.0,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,3302,Nordin Amrabat,6994,Wydad Casablanca,1213.9333,84.0,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,34952,Soufyan Ahannach,36100,US Yacoub El Mansour,1648.5166,60.0,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,358748,Abdellah Ait Brahim,6992,Hassania Agadir,1376.3834,24.0,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,381935,Ismail Mihrab,36099,KAC Marrakech,1046.0,72.0,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,409131,Abdellatif Benkassou,25917,CODM Meknès,868.2999,48.0,1,0,low,True,48.0,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,435547,Abdallah Ziani,2365,Difaâ El Jadida,1670.4166,8.0,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,449373,Marouane Oujeddou,18552,Renaissance Zemamra,1522.1,80.0,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,460266,Youness Dahmani,11935,UTS Rabat,1988.8333,68.0,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,477555,Adam Brika,6995,Maghreb Fès,1282.0334,48.0,1,0,low,True,48.0,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,523312,Brahim Mansouri,36100,US Yacoub El Mansour,1587.7167,48.0,1,0,low,True,48.0,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D4,7550,Mounir Chouiar,2762,RSB Berkane,1954.4667,76.0,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,132614,Walid Nassi Ouled Bentle,6994,Wydad Casablanca,1031.5333,100.0,1,0,low,True,100.0,1.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,134249,Adam Ennaffati,2349,Raja Casablanca,1201.3667,20.0,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,138895,Abdelfattah Hadraf,2838,FAR Rabat,1100.0166,84.0,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,139001,Youssef Anouar,25917,CODM Meknès,906.2,44.0,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,139008,Amine Souane,2761,FUS Rabat,1390.2333,60.0,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,139017,Salah-eddine Benyachou,2761,FUS Rabat,1056.6665,48.0,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,139568,Youssef Zghoudi,36099,KAC Marrakech,882.10004,12.0,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,140874,Reda Slim,2838,FAR Rabat,1318.4001,76.0,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,143490,Ahmed Hammoudan,2838,FAR Rabat,1350.9333,56.00000000000001,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,16208,Arthur Kevin Yamga,6995,Maghreb Fès,908.2999,92.0,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,179311,Imad Riahi,2762,RSB Berkane,908.3334,64.0,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,199611,Youssef Mehri,2762,RSB Berkane,1731.6167,26.0,1,0,low,True,26.0,19.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,275341,Yazid Faffa,18552,Renaissance Zemamra,1653.1168,4.0,1,0,low,True,4.0,25.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,312935,Amine Azri,2762,RSB Berkane,831.3667,32.0,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,3302,Nordin Amrabat,6994,Wydad Casablanca,1213.9333,70.0,1,0,low,True,70.0,8.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,34952,Soufyan Ahannach,36100,US Yacoub El Mansour,1648.5166,52.0,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,358748,Abdellah Ait Brahim,6992,Hassania Agadir,1376.3834,16.0,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,381935,Ismail Mihrab,36099,KAC Marrakech,1046.0,8.0,1,0,low,True,8.0,24.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,409131,Abdellatif Benkassou,25917,CODM Meknès,868.2999,26.0,1,0,low,True,26.0,19.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,435547,Abdallah Ziani,2365,Difaâ El Jadida,1670.4166,40.0,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,449373,Marouane Oujeddou,18552,Renaissance Zemamra,1522.1,36.0,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,460266,Youness Dahmani,11935,UTS Rabat,1988.8333,80.0,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,477555,Adam Brika,6995,Maghreb Fès,1282.0334,70.0,1,0,low,True,70.0,8.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,523312,Brahim Mansouri,36100,US Yacoub El Mansour,1587.7167,96.0,1,0,low,True,96.0,2.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D5,7550,Mounir Chouiar,2762,RSB Berkane,1954.4667,88.0,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,132614,Walid Nassi Ouled Bentle,6994,Wydad Casablanca,1031.5333,80.83078911692915,1,0,low,True,84.0,5.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,134249,Adam Ennaffati,2349,Raja Casablanca,1201.3667,34.044790619161404,1,0,low,True,32.0,18.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,138895,Abdelfattah Hadraf,2838,FAR Rabat,1100.0166,39.27197745880039,1,0,low,True,44.0,15.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,139001,Youssef Anouar,25917,CODM Meknès,906.2,62.88509205964947,1,0,low,True,68.0,9.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,139008,Amine Souane,2761,FUS Rabat,1390.2333,0.0,1,0,low,True,6.0,24.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,139017,Salah-eddine Benyachou,2761,FUS Rabat,1056.6665,35.34418610479101,1,0,low,True,36.0,17.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,139568,Youssef Zghoudi,36099,KAC Marrakech,882.10004,25.24235883542638,1,0,low,True,20.0,21.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,140874,Reda Slim,2838,FAR Rabat,1318.4001,69.92881696531438,1,0,low,True,76.0,7.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,143490,Ahmed Hammoudan,2838,FAR Rabat,1350.9333,92.74011575926714,1,0,low,True,92.0,3.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,16208,Arthur Kevin Yamga,6995,Maghreb Fès,908.2999,0.8628998776868128,1,0,low,True,12.0,23.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,179311,Imad Riahi,2762,RSB Berkane,908.3334,66.4708402790718,1,0,low,True,72.0,8.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,199611,Youssef Mehri,2762,RSB Berkane,1731.6167,0.0,1,0,low,True,6.0,24.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,275341,Yazid Faffa,18552,Renaissance Zemamra,1653.1168,100.0,1,0,low,True,98.0,1.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,312935,Amine Azri,2762,RSB Berkane,831.3667,100.0,1,0,low,True,98.0,1.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,3302,Nordin Amrabat,6994,Wydad Casablanca,1213.9333,60.01008117060363,1,0,low,True,60.0,11.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,34952,Soufyan Ahannach,36100,US Yacoub El Mansour,1648.5166,40.35201530258959,1,0,low,True,48.0,14.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,358748,Abdellah Ait Brahim,6992,Hassania Agadir,1376.3834,11.45259976287374,1,0,low,True,16.0,22.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,381935,Ismail Mihrab,36099,KAC Marrakech,1046.0,89.70712212229772,1,0,low,True,88.0,4.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,409131,Abdellatif Benkassou,25917,CODM Meknès,868.2999,29.47931236793154,1,0,low,True,24.0,20.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,435547,Abdallah Ziani,2365,Difaâ El Jadida,1670.4166,73.20015099476912,1,0,low,True,80.0,6.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,449373,Marouane Oujeddou,18552,Renaissance Zemamra,1522.1,38.33182628639742,1,0,low,True,40.0,16.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,460266,Youness Dahmani,11935,UTS Rabat,1988.8333,58.01997627421576,1,0,low,True,56.00000000000001,12.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,477555,Adam Brika,6995,Maghreb Fès,1282.0334,33.762815543465905,1,0,low,True,28.000000000000004,19.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,523312,Brahim Mansouri,36100,US Yacoub El Mansour,1587.7167,46.22031387426077,1,0,low,True,52.0,13.0,not_recalculated_full_population_unavailable
+WINGER,WINGER_D6,7550,Mounir Chouiar,2762,RSB Berkane,1954.4667,61.19968980461442,1,0,low,True,64.0,10.0,not_recalculated_full_population_unavailable

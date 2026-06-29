@@ -1,0 +1,288 @@
+role,player_id,player_name,flag,matches,minutes
+CB,131244,Ismaël Kandouss,insufficient_match_history,2,199.566664
+CB,131244,Ismaël Kandouss,low_minutes_reliability,2,199.566664
+CB,138871,Karim El Bounagat,insufficient_match_history,1,81.7
+CB,138871,Karim El Bounagat,low_minutes_reliability,1,81.7
+CB,138918,Marwan Louadni,insufficient_match_history,1,98.11667
+CB,138918,Marwan Louadni,low_minutes_reliability,1,98.11667
+CB,138958,Mouad Bahsain,insufficient_match_history,1,102.96667
+CB,138958,Mouad Bahsain,low_minutes_reliability,1,102.96667
+CB,138998,Abdellah Khafifi,insufficient_match_history,1,102.96667
+CB,138998,Abdellah Khafifi,low_minutes_reliability,1,102.96667
+CB,139023,Amine Aboulfath,insufficient_match_history,1,103.8
+CB,139023,Amine Aboulfath,low_minutes_reliability,1,103.8
+CB,139556,Bilal El Ouadghiri,insufficient_match_history,2,134.133332
+CB,139556,Bilal El Ouadghiri,low_minutes_reliability,2,134.133332
+CB,157113,Badr Gaddarine,insufficient_match_history,2,211.93333
+CB,157113,Badr Gaddarine,low_minutes_reliability,2,211.93333
+CB,202502,Soulaimane El Amrani,insufficient_match_history,1,104.95
+CB,202502,Soulaimane El Amrani,low_minutes_reliability,1,104.95
+CB,313283,Tahar Ahmed Madeira El Khalej,insufficient_match_history,1,109.3
+CB,313283,Tahar Ahmed Madeira El Khalej,low_minutes_reliability,1,109.3
+CB,314452,Zouhair Marour,insufficient_match_history,1,98.11667
+CB,314452,Zouhair Marour,low_minutes_reliability,1,98.11667
+CB,314466,Mohamed Saoud,insufficient_match_history,2,211.93333
+CB,314466,Mohamed Saoud,low_minutes_reliability,2,211.93333
+CB,3252,Oussama Haddadi,insufficient_match_history,2,199.566664
+CB,3252,Oussama Haddadi,high_volatility,2,199.566664
+CB,3252,Oussama Haddadi,low_minutes_reliability,2,199.566664
+CB,338916,Johnstone Omurwa,insufficient_match_history,1,84.1
+CB,338916,Johnstone Omurwa,low_minutes_reliability,1,84.1
+CB,363239,Bilal Soufi,insufficient_match_history,1,96.316666
+CB,363239,Bilal Soufi,low_minutes_reliability,1,96.316666
+CB,407555,James Ajako,insufficient_match_history,1,112.46667
+CB,407555,James Ajako,low_minutes_reliability,1,112.46667
+CB,409303,Faraji Karmoune,insufficient_match_history,2,216.28332999999998
+CB,409303,Faraji Karmoune,low_minutes_reliability,2,216.28332999999998
+CB,419744,Driss El Jabali,insufficient_match_history,1,112.46667
+CB,419744,Driss El Jabali,low_minutes_reliability,1,112.46667
+CB,442093,Yassine Fatine,insufficient_match_history,1,96.1
+CB,442093,Yassine Fatine,low_minutes_reliability,1,96.1
+CB,477678,Cheick Keita,insufficient_match_history,1,50.6
+CB,477678,Cheick Keita,low_minutes_reliability,1,50.6
+CB,49760,Adil Rhaili,insufficient_match_history,1,112.46667
+CB,49760,Adil Rhaili,low_minutes_reliability,1,112.46667
+CB,523290,Achraf Zine,insufficient_match_history,1,98.11667
+CB,523290,Achraf Zine,low_minutes_reliability,1,98.11667
+CB,524512,Reda Ait Boughima,insufficient_match_history,1,16.633333
+CB,524512,Reda Ait Boughima,low_minutes_reliability,1,16.633333
+CB,67700,Badr Banoun,insufficient_match_history,1,102.96667
+CB,67700,Badr Banoun,low_minutes_reliability,1,102.96667
+CB,7378,Yunis Abdelhamid,insufficient_match_history,1,98.11667
+CB,7378,Yunis Abdelhamid,low_minutes_reliability,1,98.11667
+CF,138876,Hamza Khaba,insufficient_match_history,1,73.933334
+CF,138876,Hamza Khaba,low_minutes_reliability,1,73.933334
+CF,139566,Youssef Elfahli,insufficient_match_history,1,98.11667
+CF,139566,Youssef Elfahli,low_minutes_reliability,1,98.11667
+CF,140867,Ismail Khafi,insufficient_match_history,1,95.73333
+CF,140867,Ismail Khafi,low_minutes_reliability,1,95.73333
+CF,140886,Mustapha Sahd,insufficient_match_history,1,24.183332
+CF,140886,Mustapha Sahd,low_minutes_reliability,1,24.183332
+CF,140887,Haytham El Bahja,insufficient_match_history,2,151.783336
+CF,140887,Haytham El Bahja,low_minutes_reliability,2,151.783336
+CF,143504,Oussama Lamlaoui,insufficient_match_history,2,149.899994
+CF,143504,Oussama Lamlaoui,low_minutes_reliability,2,149.899994
+CF,155347,Ayoub Mouloua,insufficient_match_history,1,36.8
+CF,155347,Ayoub Mouloua,low_minutes_reliability,1,36.8
+CF,155705,Soufiane Benjdida,insufficient_match_history,1,93.666664
+CF,155705,Soufiane Benjdida,low_minutes_reliability,1,93.666664
+CF,312936,Hamza Hannouri,insufficient_match_history,1,103.8
+CF,312936,Hamza Hannouri,low_minutes_reliability,1,103.8
+CF,3319,Yacine Bammou,insufficient_match_history,1,109.3
+CF,3319,Yacine Bammou,low_minutes_reliability,1,109.3
+CF,335508,Paul Valère Bassène,insufficient_match_history,2,49.666667000000004
+CF,335508,Paul Valère Bassène,low_minutes_reliability,2,49.666667000000004
+CF,360406,Imad Khannouss,insufficient_match_history,1,96.1
+CF,360406,Imad Khannouss,low_minutes_reliability,1,96.1
+CF,38423,Siriki Sanogo,insufficient_match_history,1,41.083332
+CF,38423,Siriki Sanogo,low_minutes_reliability,1,41.083332
+CF,406860,Abdelaziz El Hamzaoui,insufficient_match_history,1,38.1
+CF,406860,Abdelaziz El Hamzaoui,low_minutes_reliability,1,38.1
+CF,409301,Jawad Ghabra,insufficient_match_history,2,137.733334
+CF,409301,Jawad Ghabra,low_minutes_reliability,2,137.733334
+CF,442295,Reda Abardi,insufficient_match_history,1,14.833333
+CF,442295,Reda Abardi,low_minutes_reliability,1,14.833333
+CF,453613,Baba Ilou,insufficient_match_history,1,92.63333
+CF,453613,Baba Ilou,low_minutes_reliability,1,92.63333
+CF,477684,Brahim Amzili,insufficient_match_history,1,81.96667
+CF,477684,Brahim Amzili,low_minutes_reliability,1,81.96667
+CF,503286,Mehdi Balouk,insufficient_match_history,1,68.933334
+CF,503286,Mehdi Balouk,low_minutes_reliability,1,68.933334
+CF,522342,Younes El Bahraoui,insufficient_match_history,2,120.183336
+CF,522342,Younes El Bahraoui,low_minutes_reliability,2,120.183336
+CF,524001,Nasreddine Moustaghfir,insufficient_match_history,1,21.583334
+CF,524001,Nasreddine Moustaghfir,low_minutes_reliability,1,21.583334
+CF,524392,R.Dacosta,insufficient_match_history,1,80.03333
+CF,524392,R.Dacosta,low_minutes_reliability,1,80.03333
+FB,135851,Tó Carneiro,insufficient_match_history,1,86.433334
+FB,135851,Tó Carneiro,low_minutes_reliability,1,86.433334
+FB,138910,Jamal Ech-Chammakh,insufficient_match_history,1,11.816667
+FB,138910,Jamal Ech-Chammakh,low_minutes_reliability,1,11.816667
+FB,138927,Saad El Morsli,insufficient_match_history,2,216.28332999999998
+FB,138927,Saad El Morsli,low_minutes_reliability,2,216.28332999999998
+FB,138945,Mohamed Boulacsout,insufficient_match_history,1,95.73333
+FB,138945,Mohamed Boulacsout,low_minutes_reliability,1,95.73333
+FB,138949,Ayoub Boucheta,insufficient_match_history,1,98.75
+FB,138949,Ayoub Boucheta,low_minutes_reliability,1,98.75
+FB,138956,Anas Bach,insufficient_match_history,1,98.11667
+FB,138956,Anas Bach,low_minutes_reliability,1,98.11667
+FB,139560,Hamza El Moussaoui,insufficient_match_history,2,199.566664
+FB,139560,Hamza El Moussaoui,low_minutes_reliability,2,199.566664
+FB,140876,Mohamed Moufid,insufficient_match_history,1,103.8
+FB,140876,Mohamed Moufid,low_minutes_reliability,1,103.8
+FB,142789,Oussama Soukhane,insufficient_match_history,1,102.96667
+FB,142789,Oussama Soukhane,low_minutes_reliability,1,102.96667
+FB,152015,Zakaria Kiani,insufficient_match_history,2,125.31667
+FB,152015,Zakaria Kiani,low_minutes_reliability,2,125.31667
+FB,178342,Ettayb Boukhriss,insufficient_match_history,1,46.083332
+FB,178342,Ettayb Boukhriss,low_minutes_reliability,1,46.083332
+FB,261620,Nadir Lougmani,insufficient_match_history,1,38.583332
+FB,261620,Nadir Lougmani,low_minutes_reliability,1,38.583332
+FB,313287,Redouane Ait Lemkadem,insufficient_match_history,1,109.3
+FB,313287,Redouane Ait Lemkadem,low_minutes_reliability,1,109.3
+FB,314451,Houdaifa El Mahasni,insufficient_match_history,1,78.51667
+FB,314451,Houdaifa El Mahasni,low_minutes_reliability,1,78.51667
+FB,337496,Haytam Manaout,insufficient_match_history,1,102.88333
+FB,337496,Haytam Manaout,low_minutes_reliability,1,102.88333
+FB,339278,Chemseddine Knaidil,insufficient_match_history,1,96.1
+FB,339278,Chemseddine Knaidil,low_minutes_reliability,1,96.1
+FB,406864,Hamza Malki,insufficient_match_history,1,96.1
+FB,406864,Hamza Malki,low_minutes_reliability,1,96.1
+FB,442100,Marouane Ouhrou,insufficient_match_history,1,112.46667
+FB,442100,Marouane Ouhrou,low_minutes_reliability,1,112.46667
+FB,442286,Oussama Daoui,insufficient_match_history,1,96.1
+FB,442286,Oussama Daoui,low_minutes_reliability,1,96.1
+FB,522352,Hamza Fassoukh,insufficient_match_history,2,206.68333
+FB,522352,Hamza Fassoukh,low_minutes_reliability,2,206.68333
+FB,523293,Nassim Azzoubairi,insufficient_match_history,1,89.0
+FB,523293,Nassim Azzoubairi,low_minutes_reliability,1,89.0
+FB,523318,Younes El Khafi,insufficient_match_history,1,96.683334
+FB,523318,Younes El Khafi,low_minutes_reliability,1,96.683334
+FB,81364,Euclides Cabral,insufficient_match_history,1,79.433334
+FB,81364,Euclides Cabral,low_minutes_reliability,1,79.433334
+GK,138841,Salaheddine Chihab,insufficient_match_history,1,112.46667
+GK,138841,Salaheddine Chihab,low_minutes_reliability,1,112.46667
+GK,138950,El Mehdi Al Harrar,insufficient_match_history,1,102.96667
+GK,138950,El Mehdi Al Harrar,low_minutes_reliability,1,102.96667
+GK,138972,El Mehdi Benabid,insufficient_match_history,1,103.8
+GK,138972,El Mehdi Benabid,low_minutes_reliability,1,103.8
+GK,139011,Ahmed Reda Tagnaouti,insufficient_match_history,1,98.11667
+GK,139011,Ahmed Reda Tagnaouti,low_minutes_reliability,1,98.11667
+GK,139555,Aymane Majid,insufficient_match_history,1,96.1
+GK,139555,Aymane Majid,low_minutes_reliability,1,96.1
+GK,139572,Amine El Ouaad,insufficient_match_history,2,190.10000000000002
+GK,139572,Amine El Ouaad,high_volatility,2,190.10000000000002
+GK,139572,Amine El Ouaad,low_minutes_reliability,2,190.10000000000002
+GK,317852,Abderahmane El Houasli,insufficient_match_history,1,109.3
+GK,317852,Abderahmane El Houasli,low_minutes_reliability,1,109.3
+GK,362445,Badreddine Abyir,insufficient_match_history,1,104.95
+GK,362445,Badreddine Abyir,low_minutes_reliability,1,104.95
+GK,36951,Babacar Niasse,insufficient_match_history,1,96.1
+GK,36951,Babacar Niasse,low_minutes_reliability,1,96.1
+GK,477675,Mohamed Idar,insufficient_match_history,1,96.683334
+GK,477675,Mohamed Idar,low_minutes_reliability,1,96.683334
+GK,522350,Mohamed Jemjami,insufficient_match_history,2,206.68333
+GK,522350,Mohamed Jemjami,high_volatility,2,206.68333
+GK,522350,Mohamed Jemjami,low_minutes_reliability,2,206.68333
+GK,523287,Ismail Sayad,insufficient_match_history,1,98.11667
+GK,523287,Ismail Sayad,low_minutes_reliability,1,98.11667
+MID,10689,Sabir Bougrine,insufficient_match_history,1,95.75
+MID,10689,Sabir Bougrine,low_minutes_reliability,1,95.75
+MID,138860,Youssef Michte,insufficient_match_history,1,89.316666
+MID,138860,Youssef Michte,low_minutes_reliability,1,89.316666
+MID,138872,Oussama Mahrous,insufficient_match_history,2,206.68333
+MID,138872,Oussama Mahrous,low_minutes_reliability,2,206.68333
+MID,138873,Abdelghafour Lamirat,insufficient_match_history,1,80.88333
+MID,138873,Abdelghafour Lamirat,low_minutes_reliability,1,80.88333
+MID,138983,Zine Eddine Derrag,insufficient_match_history,1,98.11667
+MID,138983,Zine Eddine Derrag,low_minutes_reliability,1,98.11667
+MID,139565,Larbi Naji,insufficient_match_history,1,96.1
+MID,139565,Larbi Naji,low_minutes_reliability,1,96.1
+MID,140872,Mohamed Rabie Hrimat,insufficient_match_history,1,98.11667
+MID,140872,Mohamed Rabie Hrimat,low_minutes_reliability,1,98.11667
+MID,141254,Hamza Afsal,insufficient_match_history,1,18.85
+MID,141254,Hamza Afsal,low_minutes_reliability,1,18.85
+MID,143166,Zakaria Fati,insufficient_match_history,1,98.11667
+MID,143166,Zakaria Fati,low_minutes_reliability,1,98.11667
+MID,144436,Anas Serrhat,insufficient_match_history,1,102.96667
+MID,144436,Anas Serrhat,low_minutes_reliability,1,102.96667
+MID,151743,Mohamed Al Makahasi,insufficient_match_history,1,102.96667
+MID,151743,Mohamed Al Makahasi,low_minutes_reliability,1,102.96667
+MID,194912,Faouzi Mutalib,insufficient_match_history,2,193.06667
+MID,194912,Faouzi Mutalib,low_minutes_reliability,2,193.06667
+MID,21648,Anas Tahiri,insufficient_match_history,1,31.833334
+MID,21648,Anas Tahiri,low_minutes_reliability,1,31.833334
+MID,312413,Soulaimane El Bouchqali,insufficient_match_history,1,11.983334
+MID,312413,Soulaimane El Bouchqali,low_minutes_reliability,1,11.983334
+MID,313284,Achraf Harmach,insufficient_match_history,1,93.61667
+MID,313284,Achraf Harmach,low_minutes_reliability,1,93.61667
+MID,407207,Ennaama El Bellali,insufficient_match_history,2,144.06667
+MID,407207,Ennaama El Bellali,low_minutes_reliability,2,144.06667
+MID,407506,Oussama Nourdine,insufficient_match_history,1,80.63333
+MID,407506,Oussama Nourdine,low_minutes_reliability,1,80.63333
+MID,407852,Abdessamad Mahir,insufficient_match_history,1,102.96667
+MID,407852,Abdessamad Mahir,low_minutes_reliability,1,102.96667
+MID,415853,Gnolou Claude,insufficient_match_history,2,173.61666
+MID,415853,Gnolou Claude,low_minutes_reliability,2,173.61666
+MID,416303,El Mahdi Akoumi,insufficient_match_history,1,104.95
+MID,416303,El Mahdi Akoumi,low_minutes_reliability,1,104.95
+MID,424979,Soufiane Tazi,insufficient_match_history,1,78.51667
+MID,424979,Soufiane Tazi,low_minutes_reliability,1,78.51667
+MID,442288,Adnane Berdad,insufficient_match_history,1,96.1
+MID,442288,Adnane Berdad,low_minutes_reliability,1,96.1
+MID,442292,Abdellatif El Bajjani,insufficient_match_history,1,112.46667
+MID,442292,Abdellatif El Bajjani,low_minutes_reliability,1,112.46667
+MID,443951,Youness Akharraz,insufficient_match_history,1,88.7
+MID,443951,Youness Akharraz,low_minutes_reliability,1,88.7
+MID,446355,Ishak Zidani,insufficient_match_history,1,112.46667
+MID,446355,Ishak Zidani,low_minutes_reliability,1,112.46667
+MID,450709,J.Bakasu,insufficient_match_history,1,22.916666
+MID,450709,J.Bakasu,low_minutes_reliability,1,22.916666
+MID,477679,Redouane Oubidar,insufficient_match_history,1,96.683334
+MID,477679,Redouane Oubidar,low_minutes_reliability,1,96.683334
+MID,477680,Hamza Saoud,insufficient_match_history,1,37.983334
+MID,477680,Hamza Saoud,low_minutes_reliability,1,37.983334
+MID,477682,Ayoub Benaadi,insufficient_match_history,1,96.683334
+MID,477682,Ayoub Benaadi,low_minutes_reliability,1,96.683334
+MID,523308,Adil Khalloufi,insufficient_match_history,1,98.11667
+MID,523308,Adil Khalloufi,low_minutes_reliability,1,98.11667
+MID,523973,Hamza Rafa,insufficient_match_history,1,33.2
+MID,523973,Hamza Rafa,low_minutes_reliability,1,33.2
+MID,523996,Fred Ngoma,insufficient_match_history,2,175.64999999999998
+MID,523996,Fred Ngoma,low_minutes_reliability,2,175.64999999999998
+MID,7183,El Hacen,insufficient_match_history,1,96.1
+MID,7183,El Hacen,low_minutes_reliability,1,96.1
+MID,7717,Rayane Aabid,insufficient_match_history,2,164.900004
+MID,7717,Rayane Aabid,high_volatility,2,164.900004
+MID,7717,Rayane Aabid,low_minutes_reliability,2,164.900004
+WINGER,132614,Walid Bentle,insufficient_match_history,1,22.9
+WINGER,132614,Walid Bentle,low_minutes_reliability,1,22.9
+WINGER,134249,Adam Ennaffati,insufficient_match_history,1,102.96667
+WINGER,134249,Adam Ennaffati,low_minutes_reliability,1,102.96667
+WINGER,138895,Abdelfattah Hadraf,insufficient_match_history,1,10.55
+WINGER,138895,Abdelfattah Hadraf,low_minutes_reliability,1,10.55
+WINGER,139001,Youssef Anouar,insufficient_match_history,1,88.0
+WINGER,139001,Youssef Anouar,low_minutes_reliability,1,88.0
+WINGER,139008,Amine Souane,insufficient_match_history,1,78.51667
+WINGER,139008,Amine Souane,low_minutes_reliability,1,78.51667
+WINGER,139017,Salah-eddine Benyachou,insufficient_match_history,1,66.36667
+WINGER,139017,Salah-eddine Benyachou,low_minutes_reliability,1,66.36667
+WINGER,139568,Youssef Zghoudi,insufficient_match_history,2,131.66667
+WINGER,139568,Youssef Zghoudi,low_minutes_reliability,2,131.66667
+WINGER,140874,Reda Slim,insufficient_match_history,1,24.183332
+WINGER,140874,Reda Slim,low_minutes_reliability,1,24.183332
+WINGER,143490,Ahmed Hammoudan,insufficient_match_history,1,87.566666
+WINGER,143490,Ahmed Hammoudan,low_minutes_reliability,1,87.566666
+WINGER,16208,Kevin Yamga,insufficient_match_history,1,112.46667
+WINGER,16208,Kevin Yamga,low_minutes_reliability,1,112.46667
+WINGER,179311,Imad Riahi,insufficient_match_history,1,13.766666
+WINGER,179311,Imad Riahi,low_minutes_reliability,1,13.766666
+WINGER,199611,Youssef Mehri,insufficient_match_history,2,157.61667
+WINGER,199611,Youssef Mehri,high_volatility,2,157.61667
+WINGER,199611,Youssef Mehri,low_minutes_reliability,2,157.61667
+WINGER,275341,Yazid Faffa,insufficient_match_history,1,76.63333
+WINGER,275341,Yazid Faffa,low_minutes_reliability,1,76.63333
+WINGER,312935,Amine Azri,insufficient_match_history,2,63.333332
+WINGER,312935,Amine Azri,low_minutes_reliability,2,63.333332
+WINGER,3302,Nordin Amrabat,insufficient_match_history,1,80.9
+WINGER,3302,Nordin Amrabat,low_minutes_reliability,1,80.9
+WINGER,34952,Soufyan Ahannach,insufficient_match_history,1,80.98333
+WINGER,34952,Soufyan Ahannach,low_minutes_reliability,1,80.98333
+WINGER,358748,Abdellah Ait Brahim,insufficient_match_history,1,79.433334
+WINGER,358748,Abdellah Ait Brahim,low_minutes_reliability,1,79.433334
+WINGER,381935,Ismail Mihrab,insufficient_match_history,2,146.45
+WINGER,381935,Ismail Mihrab,low_minutes_reliability,2,146.45
+WINGER,409131,Abdellatif Benkassou,insufficient_match_history,1,72.13333
+WINGER,409131,Abdellatif Benkassou,low_minutes_reliability,1,72.13333
+WINGER,435547,Abdallah Ziani,insufficient_match_history,1,32.066666
+WINGER,435547,Abdallah Ziani,low_minutes_reliability,1,32.066666
+WINGER,449373,M. Oujeddou,insufficient_match_history,1,112.46667
+WINGER,449373,M. Oujeddou,low_minutes_reliability,1,112.46667
+WINGER,460266,Youness Dahmani,insufficient_match_history,1,96.36667
+WINGER,460266,Youness Dahmani,low_minutes_reliability,1,96.36667
+WINGER,477555,Adam Brika,insufficient_match_history,1,18.8
+WINGER,477555,Adam Brika,low_minutes_reliability,1,18.8
+WINGER,523312,Brahim Mansouri,insufficient_match_history,1,29.416666
+WINGER,523312,Brahim Mansouri,low_minutes_reliability,1,29.416666
+WINGER,7550,Mounir Chouiar,insufficient_match_history,2,146.0
+WINGER,7550,Mounir Chouiar,low_minutes_reliability,2,146.0

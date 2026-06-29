@@ -1,0 +1,12 @@
+dataset,duplicate_count,status
+competition_metadata,0,BLOCKED
+season_metadata,0,BLOCKED
+silver_matches,0,BLOCKED
+silver_lineups,0,BLOCKED
+silver_events,0,BLOCKED
+player_match_stats_direct,0,BLOCKED
+team_match_stats_direct,0,BLOCKED
+player_season_stats_direct,0,BLOCKED
+team_season_stats_direct,0,BLOCKED
+player_metadata,0,BLOCKED
+team_metadata,0,BLOCKED

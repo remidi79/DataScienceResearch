@@ -1,0 +1,12 @@
+dataset_name,issue_type,severity,detail
+player_match_stats_direct,missing_or_empty,critical,dataset missing or empty
+team_match_stats_direct,missing_or_empty,critical,dataset missing or empty
+player_season_stats_direct,missing_or_empty,critical,dataset missing or empty
+team_season_stats_direct,missing_or_empty,critical,dataset missing or empty
+silver_events,missing_or_empty,critical,dataset missing or empty
+silver_lineups,missing_or_empty,critical,dataset missing or empty
+silver_matches,missing_or_empty,critical,dataset missing or empty
+competition_metadata,missing_or_empty,critical,dataset missing or empty
+season_metadata,missing_or_empty,critical,dataset missing or empty
+team_metadata,missing_or_empty,critical,dataset missing or empty
+player_metadata,missing_or_empty,critical,dataset missing or empty

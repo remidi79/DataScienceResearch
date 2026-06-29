@@ -1,0 +1,11 @@
+# Dry Run Backfill Summary
+
+metric,expected,required,status
+competitions,3,3,PASS
+seasons,1,2,FAIL
+matches,0,100,FAIL
+teams,0,20,FAIL
+player_match_rows,0,3000,FAIL
+player_season_rows,600,300,PASS
+events,0,250000,FAIL
+lineups,0,3000,FAIL

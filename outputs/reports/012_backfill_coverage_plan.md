@@ -1,0 +1,7 @@
+# Backfill Coverage Plan
+
+selected,competition_id,competition_name,season_id,season_name,match_count,team_count,expected_events,expected_lineups,expected_player_match_rows,expected_team_match_rows,expected_player_season_rows,expected_team_season_rows,reason_selected,risk_flags
+True,2,Premier League,318,2025/2026,0,0,0,0,0,0,150,20,metadata_only_credentials_or_match_endpoint_required,coverage_unknown
+True,12,Serie A,318,2025/2026,0,0,0,0,0,0,150,20,metadata_only_credentials_or_match_endpoint_required,coverage_unknown
+True,1229,Botola Pro,318,2025/2026,0,0,0,0,0,0,150,20,metadata_only_credentials_or_match_endpoint_required,coverage_unknown
+True,1229,Botola Pro,318,2025/2026,0,0,0,0,0,0,150,20,metadata_only_credentials_or_match_endpoint_required,coverage_unknown

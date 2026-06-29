@@ -1,0 +1,5 @@
+dataset,status,row_count,notes
+player_match_stats_direct,blocked,0,provider-direct only; no fake event-derived replacement claimed
+team_match_stats_direct,blocked,0,provider-direct only; no fake event-derived replacement claimed
+player_season_stats_direct,blocked,0,provider-direct only; no fake event-derived replacement claimed
+team_season_stats_direct,blocked,0,provider-direct only; no fake event-derived replacement claimed

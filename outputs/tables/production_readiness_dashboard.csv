@@ -1,0 +1,7 @@
+score_engine,role,statistical_validation,football_validation,confidence,stability,sample_size_status,data_coverage,calibration_status,production_status,ready
+GK_role_score,GK,PASS,PENDING,70.79339522569695,PASS,FAIL,FAIL,requires_full_population_recalibration,Research Prototype,No
+CB_role_score,CB,PASS,PENDING,69.31989589322734,PASS,FAIL,FAIL,requires_full_population_recalibration,Research Prototype,No
+FB_role_score,FB,PASS,PENDING,69.1684553765566,PASS,FAIL,FAIL,requires_full_population_recalibration,Research Prototype,No
+MID_role_score,MID,PASS,PENDING,73.13607100968984,PASS,FAIL,FAIL,requires_full_population_recalibration,Research Prototype,No
+WINGER_role_score,WINGER,PASS,PENDING,66.84374968214432,PASS,FAIL,FAIL,requires_full_population_recalibration,Research Prototype,No
+CF_role_score,CF,PASS,PENDING,67.87744171424787,PASS,FAIL,FAIL,requires_full_population_recalibration,Research Prototype,No

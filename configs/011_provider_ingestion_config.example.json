@@ -1,0 +1,36 @@
+{
+  "provider_name": "statsbomb",
+  "provider_mode": "authenticated_api_or_existing_cache",
+  "credentials_env_var_names": [
+    "STATSBOMB_API_USERNAME",
+    "STATSBOMB_API_PASSWORD",
+    "STATSBOMB_API_TOKEN",
+    "STATSBOMB_API_BASE"
+  ],
+  "target_root": "/home/platform/DataPlatform/tmp/master_data_warehouse_full",
+  "selected_competitions": [],
+  "selected_seasons": [],
+  "required_datasets": [
+    "competition_metadata",
+    "season_metadata",
+    "silver_matches",
+    "silver_lineups",
+    "silver_events",
+    "player_match_stats_direct",
+    "team_match_stats_direct",
+    "player_season_stats_direct",
+    "team_season_stats_direct",
+    "player_metadata",
+    "team_metadata"
+  ],
+  "batch_size": 10,
+  "retry_policy": {
+    "max_attempts": 3,
+    "backoff_seconds": 2,
+    "respect_provider_rate_limits": true
+  },
+  "checkpoint_dir": "outputs/checkpoints/011_provider_ingestion",
+  "output_format": "jsonl_matching_existing_warehouse",
+  "schema_validation_enabled": true,
+  "overwrite_policy": "safe_no_overwrite_by_default"
+}

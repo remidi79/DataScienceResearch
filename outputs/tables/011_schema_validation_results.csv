@@ -1,0 +1,12 @@
+dataset,status,missing_fields,row_count
+competition_metadata,BLOCKED,competition_id;competition_name,0
+season_metadata,BLOCKED,season_id;season_name;competition_id,0
+silver_matches,BLOCKED,match_id;competition_id;season_id;match_date;home_team_id;away_team_id,0
+silver_lineups,BLOCKED,match_id;player_id;player_name;team_id;team_name;position,0
+silver_events,BLOCKED,match_id;event_id;event_type;team_id;timestamp,0
+player_match_stats_direct,BLOCKED,player_id;player_name;match_id;team_id;competition_id;season_id;minutes,0
+team_match_stats_direct,BLOCKED,team_id;match_id;competition_id;season_id,0
+player_season_stats_direct,BLOCKED,player_id;player_name;team_id;competition_id;season_id;minutes,0
+team_season_stats_direct,BLOCKED,team_id;competition_id;season_id,0
+player_metadata,BLOCKED,player_id;player_name,0
+team_metadata,BLOCKED,team_id;team_name,0

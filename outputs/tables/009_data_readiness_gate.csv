@@ -1,0 +1,17 @@
+criterion,observed,required,status,failure_reason
+competitions_ge_3,0,3,FAIL,observed 0 below required 3
+seasons_ge_2,0,2,FAIL,observed 0 below required 2
+matches_ge_100,0,100,FAIL,observed 0 below required 100
+teams_ge_20,0,20,FAIL,observed 0 below required 20
+player_match_rows_sufficient,0,3000,FAIL,observed 0 below required 3000
+player_season_rows_sufficient,0,300,FAIL,observed 0 below required 300
+events_sufficient,0,250000,FAIL,observed 0 below required 250000
+lineups_sufficient,0,3000,FAIL,observed 0 below required 3000
+no_critical_id_consistency_issue,0,0,PASS,
+role_eligibility_can_be_computed,0,300,FAIL,insufficient lineups/player-season population
+enough_eligible_players_GK,requires Experiment 002 rerun,20,BLOCKED,blocked until full role eligibility recomputation
+enough_eligible_players_CB,requires Experiment 002 rerun,50,BLOCKED,blocked until full role eligibility recomputation
+enough_eligible_players_FB,requires Experiment 002 rerun,50,BLOCKED,blocked until full role eligibility recomputation
+enough_eligible_players_MID,requires Experiment 002 rerun,50,BLOCKED,blocked until full role eligibility recomputation
+enough_eligible_players_WINGER,requires Experiment 002 rerun,50,BLOCKED,blocked until full role eligibility recomputation
+enough_eligible_players_CF,requires Experiment 002 rerun,50,BLOCKED,blocked until full role eligibility recomputation

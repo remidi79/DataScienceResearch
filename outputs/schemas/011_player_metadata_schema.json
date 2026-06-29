@@ -1,0 +1,14 @@
+{
+  "dataset": "player_metadata",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/player_metadata/player_metadata.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "player_id",
+    "player_name"
+  ],
+  "missing_fields": [
+    "player_id",
+    "player_name"
+  ],
+  "generated_at": "2026-06-29T13:53:54.017784+00:00"
+}

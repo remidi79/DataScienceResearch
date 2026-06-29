@@ -1,0 +1,5 @@
+competition_id,competition_name,season_id,season_name,metadata_source,match_count,team_count,date_range,events_available,lineups_available,player_match_stats_available,team_match_stats_available,player_season_stats_available,team_season_stats_available,ingestion_status
+2,Premier League,318,2025/2026,/home/platform/DataPlatform/config/statsbomb_targets.json,0,0,,True,True,True,True,True,True,cached_partial
+12,Serie A,318,2025/2026,/home/platform/DataPlatform/config/statsbomb_targets.json,0,0,,True,True,True,True,True,True,cached_partial
+1229,Botola Pro,318,2025/2026,/home/platform/DataPlatform/config/statsbomb_targets.json,11,0,,True,True,True,True,True,True,cached_partial
+1229,Botola Pro,318,2025/2026,/home/platform/DataPlatform/config/statsbomb_targets_botola.json,11,0,,True,True,True,True,True,True,cached_partial

@@ -1,0 +1,12 @@
+{
+  "dataset": "player_metadata",
+  "fields_detected": [],
+  "required_fields": [
+    "player_id",
+    "player_name"
+  ],
+  "missing_fields": [
+    "player_id",
+    "player_name"
+  ]
+}

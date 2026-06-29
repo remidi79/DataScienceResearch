@@ -1,0 +1,9 @@
+experiment,status,return_code,log_path
+001_data_contract_inventory.py,not_requested,,
+002_role_eligibility_stable_metric_population.py,not_requested,,
+003_feature_engineering_normalization.py,not_requested,,
+004_role_specific_weight_estimation.py,not_requested,,
+005_scientific_validation_calibration.py,not_requested,,
+006_temporal_cross_competition_validation.py,not_requested,,
+007_production_score_engine_framework.py,not_requested,,
+008_full_population_recalibration.py,not_requested,,

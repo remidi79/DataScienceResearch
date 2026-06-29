@@ -1,0 +1,7 @@
+role,competition_id,status,available_groups,spearman_rank_correlation,pearson_score_correlation,mean_score_drift,median_score_drift,mean_rank_displacement,top_player_preservation_rate,percentile_drift,confidence_interval_drift
+CB,ALL,not_enough_competitions,1,,,,,,,,
+CF,ALL,not_enough_competitions,1,,,,,,,,
+FB,ALL,not_enough_competitions,1,,,,,,,,
+GK,ALL,not_enough_competitions,1,,,,,,,,
+MID,ALL,not_enough_competitions,1,,,,,,,,
+WINGER,ALL,not_enough_competitions,1,,,,,,,,

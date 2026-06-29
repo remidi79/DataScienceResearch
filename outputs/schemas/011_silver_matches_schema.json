@@ -1,0 +1,22 @@
+{
+  "dataset": "silver_matches",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_matches.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "match_id",
+    "competition_id",
+    "season_id",
+    "match_date",
+    "home_team_id",
+    "away_team_id"
+  ],
+  "missing_fields": [
+    "match_id",
+    "competition_id",
+    "season_id",
+    "match_date",
+    "home_team_id",
+    "away_team_id"
+  ],
+  "generated_at": "2026-06-29T13:53:54.014446+00:00"
+}

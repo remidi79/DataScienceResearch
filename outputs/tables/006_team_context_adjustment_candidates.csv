@@ -1,0 +1,21 @@
+role,player_id,player_name,match_id,team_context_flag,score
+CB,338916,Johnstone Omurwa,4020497,penalized_by_team_context,24.888065370640458
+CB,202502,Soulaimane El Amrani,4020501,penalized_by_team_context,30.864178167718514
+CB,314466,Mohamed Saoud,4020501,boosted_by_team_context,61.81689959943005
+CB,131244,Ismaël Kandouss,4020502,boosted_by_team_context,55.18973995532066
+CB,3252,Oussama Haddadi,4020502,boosted_by_team_context,71.06432115339379
+CF,155347,Ayoub Mouloua,4020500,penalized_by_team_context,1.630543831335099
+CF,140887,Haytham El Bahja,4020501,boosted_by_team_context,48.58386442606156
+FB,522352,Hamza Fassoukh,4020497,penalized_by_team_context,26.407484724829814
+FB,81364,Euclides Cabral,4020501,penalized_by_team_context,35.24726822546731
+GK,139572,Amine El Ouaad,4020501,boosted_by_team_context,78.57142857142857
+GK,477675,Mohamed Idar,4020502,penalized_by_team_context,14.285714285714286
+MID,523973,Hamza Rafa,4020497,penalized_by_team_context,26.687362053560957
+MID,407852,Abdessamad Mahir,4020500,penalized_by_team_context,35.65836624888512
+MID,7717,Rayane Aabid,4020502,boosted_by_team_context,65.80226172518357
+MID,21648,Anas Tahiri,4020504,penalized_by_team_context,30.7538707555407
+MID,407506,Oussama Nourdine,4020504,penalized_by_team_context,38.9601460812214
+WINGER,199611,Youssef Mehri,4020502,boosted_by_team_context,88.0829768690421
+WINGER,312935,Amine Azri,4020502,boosted_by_team_context,74.7997582367824
+WINGER,7550,Mounir Chouiar,4020502,boosted_by_team_context,68.70091212829017
+WINGER,16208,Kevin Yamga,4020504,penalized_by_team_context,32.36938929062456

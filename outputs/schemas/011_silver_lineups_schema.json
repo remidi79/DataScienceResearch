@@ -1,0 +1,22 @@
+{
+  "dataset": "silver_lineups",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_lineups.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "match_id",
+    "player_id",
+    "player_name",
+    "team_id",
+    "team_name",
+    "position"
+  ],
+  "missing_fields": [
+    "match_id",
+    "player_id",
+    "player_name",
+    "team_id",
+    "team_name",
+    "position"
+  ],
+  "generated_at": "2026-06-29T13:53:54.014889+00:00"
+}

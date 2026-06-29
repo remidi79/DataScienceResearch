@@ -1,0 +1,12 @@
+dataset,path,row_count,competitions,seasons,matches,teams,required_fields_present,missing_fields
+competition_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/competition_metadata/competition_metadata.jsonl,0,0,0,0,0,False,competition_id;competition_name
+season_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/season_metadata/season_metadata.jsonl,0,0,0,0,0,False,season_id;season_name;competition_id
+silver_matches,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_matches.jsonl,0,0,0,0,0,False,match_id;competition_id;season_id;match_date;home_team_id;away_team_id
+silver_lineups,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_lineups.jsonl,0,0,0,0,0,False,match_id;player_id;player_name;team_id;team_name;position
+silver_events,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_events.jsonl,0,0,0,0,0,False,match_id;event_id;event_type;team_id;timestamp
+player_match_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_player_match_stats_direct_v1.jsonl,0,0,0,0,0,False,player_id;player_name;match_id;team_id;competition_id;season_id;minutes
+team_match_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_team_match_stats_direct_v1.jsonl,0,0,0,0,0,False,team_id;match_id;competition_id;season_id
+player_season_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_player_season_stats_direct_v1.jsonl,0,0,0,0,0,False,player_id;player_name;team_id;competition_id;season_id;minutes
+team_season_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_team_season_stats_direct_v1.jsonl,0,0,0,0,0,False,team_id;competition_id;season_id
+player_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/player_metadata/player_metadata.jsonl,0,0,0,0,0,False,player_id;player_name
+team_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/team_metadata/team_metadata.jsonl,0,0,0,0,0,False,team_id;team_name

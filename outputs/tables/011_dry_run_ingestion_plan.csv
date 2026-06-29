@@ -1,0 +1,12 @@
+target_dataset,endpoint_or_cache_available,credentials_required,would_write_final_dataset,required_fields_validated,join_keys_validated,blocking_issue
+competition_metadata,False,False,False,False,False,missing_credentials
+season_metadata,False,False,False,False,False,missing_credentials
+silver_matches,True,True,False,False,False,missing_credentials
+silver_lineups,True,True,False,False,False,missing_credentials
+silver_events,True,True,False,False,False,missing_credentials
+player_match_stats_direct,True,True,False,False,False,missing_credentials
+team_match_stats_direct,True,True,False,False,False,missing_credentials
+player_season_stats_direct,True,True,False,False,False,missing_credentials
+team_season_stats_direct,True,True,False,False,False,missing_credentials
+player_metadata,False,True,False,False,False,missing_credentials
+team_metadata,False,True,False,False,False,missing_credentials

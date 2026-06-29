@@ -1,0 +1,86 @@
+{
+  "experiment_id": "002",
+  "title": "Role Eligibility & Stable Metric Population",
+  "generated_at": "2026-06-29T09:22:38.177711+00:00",
+  "data_root": "/home/platform/DataPlatform/tmp/master_data_warehouse",
+  "input_rows": {
+    "player_season": 489,
+    "player_match": 350,
+    "lineups": 450
+  },
+  "role_assignment_share_threshold": 0.7,
+  "role_minute_thresholds": {
+    "GK": 600.0,
+    "CB": 900.0,
+    "FB": 900.0,
+    "MID": 900.0,
+    "WINGER": 750.0,
+    "CF": 750.0
+  },
+  "assignment_counts": {
+    "assigned_role_players": 279,
+    "MULTI_ROLE": 15,
+    "UNKNOWN": 97
+  },
+  "role_summary": [
+    {
+      "role_family": "GK",
+      "threshold_minutes": 600.0,
+      "assigned_players": 19,
+      "eligible_players": 12,
+      "median_minutes": 1502.3833,
+      "stable_metrics": 79
+    },
+    {
+      "role_family": "CB",
+      "threshold_minutes": 900.0,
+      "assigned_players": 44,
+      "eligible_players": 25,
+      "median_minutes": 1182.89995,
+      "stable_metrics": 101
+    },
+    {
+      "role_family": "FB",
+      "threshold_minutes": 900.0,
+      "assigned_players": 45,
+      "eligible_players": 23,
+      "median_minutes": 1118.9917,
+      "stable_metrics": 101
+    },
+    {
+      "role_family": "MID",
+      "threshold_minutes": 900.0,
+      "assigned_players": 77,
+      "eligible_players": 34,
+      "median_minutes": 910.6500249999999,
+      "stable_metrics": 97
+    },
+    {
+      "role_family": "WINGER",
+      "threshold_minutes": 750.0,
+      "assigned_players": 57,
+      "eligible_players": 25,
+      "median_minutes": 662.01666,
+      "stable_metrics": 99
+    },
+    {
+      "role_family": "CF",
+      "threshold_minutes": 750.0,
+      "assigned_players": 37,
+      "eligible_players": 22,
+      "median_minutes": 987.133325,
+      "stable_metrics": 97
+    }
+  ],
+  "candidate_metric_summary": {
+    "requested": 72,
+    "ready": 44,
+    "blocked": 25,
+    "missing": 3
+  },
+  "outputs": {
+    "notebook": "notebooks/002_role_eligibility_stable_metric_population.ipynb",
+    "tables": "outputs/tables/002_*.csv",
+    "figures": "outputs/figures/002_*.png"
+  }
+}

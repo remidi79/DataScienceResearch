@@ -1,0 +1,14 @@
+{
+  "dataset": "silver_lineups",
+  "fields_detected": [],
+  "required_fields": [
+    "match_id",
+    "player_id",
+    "team_id"
+  ],
+  "missing_fields": [
+    "match_id",
+    "player_id",
+    "team_id"
+  ]
+}

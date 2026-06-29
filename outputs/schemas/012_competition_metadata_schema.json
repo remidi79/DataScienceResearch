@@ -1,0 +1,12 @@
+{
+  "dataset": "competition_metadata",
+  "fields_detected": [],
+  "required_fields": [
+    "competition_id",
+    "competition_name"
+  ],
+  "missing_fields": [
+    "competition_id",
+    "competition_name"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "experiment_id": "011",
+  "title": "Provider/API-backed StatsBomb Ingestion & Coverage Expansion",
+  "generated_at": "2026-06-29T13:54:23.690771+00:00",
+  "source_root": "/home/platform/DataPlatform",
+  "target_root": "/home/platform/DataPlatform/tmp/master_data_warehouse_full",
+  "run_mode": "validate_ingestion",
+  "credentials_status": "missing",
+  "available_competitions_count": 3,
+  "available_seasons_count": 4,
+  "selected_competitions_count": 3,
+  "selected_seasons_count": 1,
+  "execute_ingestion_run": false,
+  "target_readiness_gate_result": "FAIL",
+  "experiment_010_validation_result": "PASS",
+  "experiment_009_validation_result": "PASS",
+  "production_coefficients_declared": false,
+  "production_candidate_bundle_generated": false,
+  "fake_data_created": false,
+  "figures_generated": 9,
+  "next_command": "uv run python experiments/011_provider_statsbomb_ingestion.py --source-root /home/platform/DataPlatform --target-root /home/platform/DataPlatform/tmp/master_data_warehouse_full --run-mode execute_ingestion",
+  "blockers": [
+    "competitions",
+    "seasons",
+    "matches",
+    "teams",
+    "player_match_rows",
+    "player_season_rows",
+    "events",
+    "lineups",
+    "required_fields_present"
+  ]
+}

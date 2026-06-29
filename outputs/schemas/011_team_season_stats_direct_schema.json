@@ -1,0 +1,16 @@
+{
+  "dataset": "team_season_stats_direct",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_team_season_stats_direct_v1.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "team_id",
+    "competition_id",
+    "season_id"
+  ],
+  "missing_fields": [
+    "team_id",
+    "competition_id",
+    "season_id"
+  ],
+  "generated_at": "2026-06-29T13:53:54.017436+00:00"
+}

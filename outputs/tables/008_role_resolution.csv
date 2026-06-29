@@ -1,0 +1,392 @@
+statsbomb_player_id,player_name,assigned_role,dominant_role,dominant_role_share,lineup_role_minutes,position_examples,season_minutes,threshold_minutes,eligible_for_initial_coefficients,experiment_008_status
+317852,Abderahmane El Houasli,GK,GK,1.0,109.3,Goalkeeper,1286.4167,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+477675,Mohamed Idar,GK,GK,1.0,96.683334,Goalkeeper,2196.5332,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+138845,Mohsine Moutouali,MID,MID,1.0,211.93333,Center Attacking Midfield; Right Center Midfield; Center Defensive Midfield,309.93335,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138845,Mohsine Moutouali,MID,MID,1.0,211.93333,Center Attacking Midfield; Right Center Midfield; Center Defensive Midfield,650.48334,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+6312,Franco Armani,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+3302,Nordin Amrabat,WINGER,WINGER,1.0,80.9,Right Wing,1213.9333,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+5726,Khalid Boutaïb,CF,CF,1.0,22.366667,Left Center Forward; Right Center Forward,296.3333,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+5503,Lionel Andrés Messi Cuccittini,CF,CF,1.0,66.88333,Right Center Forward,,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+7378,Yunis Abdelhamid,CB,CB,1.0,98.11667,Left Center Back,937.7833,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+3090,Nicolás Hernán Otamendi,WINGER,WINGER,1.0,8.216666,Right Midfield; Center Back,,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+2995,Ángel Fabián Di María Hernández,WINGER,WINGER,1.0,122.3,Right Midfield; Left Midfield,,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+4276,David Ospina Ramírez,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+27225,Camilo Andrés Vargas Gil,GK,GK,1.0,130.51666,Goalkeeper,,600.0,False,available_population_recomputed_or_reused_from_role_resolution
+139545,Mohammad El Fakih,MID,MID,1.0,38.1,Right Center Midfield,684.73334,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+139001,Youssef Anouar,WINGER,WINGER,1.0,88.0,Left Wing,906.2,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+139565,Larbi Naji,MID,MID,1.0,96.1,Right Defensive Midfield; Left Defensive Midfield,1892.6,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+140881,Yassine Kordani,CB,CB,1.0,137.85,Left Center Back,488.31668,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+6193,Andrés Mateus Uribe Villa,UNKNOWN,UNKNOWN,0.0,0.0,Center Defensive Midfield,,,False,available_population_recomputed_or_reused_from_role_resolution
+49760,Adil Rhaili,CB,CB,1.0,112.46667,Left Center Back,1269.3834,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+7161,Germán Alejandro Pezzella,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+5695,James David Rodríguez Rubio,MID,MID,1.0,95.066666,Center Attacking Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+143490,Ahmed Hammoudan,WINGER,WINGER,1.0,87.566666,Left Midfield; Left Wing,1350.9333,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+3319,Yacine Bammou,CF,CF,1.0,109.3,Center Forward; Left Center Forward,1178.8168,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+19597,Marcos Javier Acuña,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+51475,Abdelali Gluja M'Hamdi,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+5696,Santiago Arias Naranjo,FB,FB,1.0,130.51666,Right Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+524395,Amine Dghoughi,MID,MID,0.9764918669229176,24.666666,Right Wing; Center Attacking Midfield,495.8833,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+7717,Rayane Aabid,MID,MID,1.0,164.900004,Left Defensive Midfield; Left Center Midfield,1303.0834,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+3252,Oussama Haddadi,CB,CB,0.8980807536072257,199.566664,Left Center Back; Left Back,1504.85,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138842,Marouane Hadhoudi,CB,CB,1.0,96.1,Right Center Back,299.0,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+406860,Abdelaziz El Hamzaoui,CF,CF,1.0,38.1,Center Forward,850.13336,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+442295,Reda Abardi,CF,CF,1.0,14.833333,Center Forward,1312.8335,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+407663,Mohamed Habbali,WINGER,WINGER,1.0,50.6,Right Wing,580.9667,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+6694,Gerónimo Rulli,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+409454,Ayoub Tine,FB,FB,1.0,112.46667,Right Back,756.55,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+523314,Mouhcine Boussanane,CF,CF,0.9826641591278183,29.5,Right Wing; Center Forward,262.78333,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+139570,Brahim El Bahraoui,WINGER,WINGER,1.0,88.7,Right Midfield,499.98334,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+5691,Johan Andrés Mojica Palacio,FB,FB,1.0,130.51666,Left Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+5507,Nicolás Alejandro Tagliafico,FB,FB,1.0,130.51666,Left Back; Left Wing Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+6909,Damián Emiliano Martínez,GK,GK,1.0,130.51666,Goalkeeper,,600.0,False,available_population_recomputed_or_reused_from_role_resolution
+143166,Zakaria Fati,MID,MID,1.0,98.11667,Right Center Midfield; Left Center Midfield,1729.35,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+49000,Amine Oudrhiri Idrissi,MID,MID,1.0,99.25,Right Defensive Midfield,543.86664,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+143163,Hamza Semmoumy,FB,FB,1.0,195.68333,Right Back,680.7,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+139568,Youssef Zghoudi,WINGER,WINGER,1.0,131.66666999999998,Right Midfield; Left Midfield; Left Wing,882.10004,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+477682,Ayoub Benaadi,MID,MID,1.0,96.683334,Center Attacking Midfield,1579.8833,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138904,Mehdi El Jourbaoui,UNKNOWN,UNKNOWN,0.0,0.0,,207.1,,False,available_population_recomputed_or_reused_from_role_resolution
+313284,Achraf Harmach,MID,MID,1.0,93.61667,Center Attacking Midfield,1416.0166,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+5692,Juan Fernando Quintero Paniagua,UNKNOWN,UNKNOWN,0.0,0.0,Center Attacking Midfield,,,False,available_population_recomputed_or_reused_from_role_resolution
+6333,Miguel Ángel Borja Hernández,UNKNOWN,UNKNOWN,0.0,0.0,Left Center Forward,,,False,available_population_recomputed_or_reused_from_role_resolution
+138998,Abdellah Khafifi,CB,CB,1.0,102.96667,Left Center Back,1950.3999,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138841,Salaheddine Chihab,GK,GK,1.0,112.46667,Goalkeeper,2015.4667,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+138839,Driss Abdi,CB,CB,1.0,14.4,Left Center Back,63.916664,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+141808,Charki El Bahri,CF,CF,1.0,142.91666,Center Forward,463.7333,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+139560,Hamza El Moussaoui,FB,FB,0.8980807536072257,199.566664,Left Back; Left Midfield,1272.2667,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+29391,Nassim Ouammou,FB,FB,1.0,104.95,Left Back,868.9167,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+8817,Jhon Andrés Córdoba Copete,CF,CF,1.0,89.98333,Right Center Forward,,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+360406,Imad Khannouss,CF,CF,0.7255686784599376,96.1,Center Forward; Right Wing,823.43335,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+360406,Imad Khannouss,CF,CF,0.7255686784599376,96.1,Center Forward; Right Wing,706.86664,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+126527,Kabelo Seakanyeng,WINGER,WINGER,0.8634598415979544,106.583336,Right Wing; Center Forward,340.55002,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+138999,Marouane Lemzaouri,FB,FB,1.0,96.1,Right Back,523.85,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+477684,Brahim Amzili,CF,CF,1.0,81.96667,Center Forward,1496.7002,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+314450,Anass Lamrabat,MULTI_ROLE,FB,0.6595911869236822,193.96667,Left Wing Back; Left Center Back; Left Midfield,1482.4332,,False,available_population_recomputed_or_reused_from_role_resolution
+194912,Faouzi Abd El Mouttalib,MID,MID,0.7557439467581876,193.06667,Right Defensive Midfield; Left Defensive Midfield; Right Midfield,1603.85,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+64615,Thembinkosi Lorch,WINGER,WINGER,1.0,42.766666,Left Wing,462.61667,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+143162,Mehdi Maftah,GK,GK,1.0,199.566664,Goalkeeper,402.21664,600.0,False,available_population_recomputed_or_reused_from_role_resolution
+140886,Mustapha Sahd,CF,CF,1.0,24.183332,Center Forward,886.8334,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+442288,Adnane Berdad,MID,MID,1.0,96.1,Left Defensive Midfield; Right Defensive Midfield,1615.9169,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+27473,Deiver Andrés Machado Mena,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+67700,Badr Banoun,CB,CB,1.0,102.96667,Right Center Back,1769.8834,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+477677,Yassine Boughaz,FB,FB,1.0,96.683334,Right Back,361.46664,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+380600,Mouad Goulouss,MID,MID,1.0,72.13333,Center Attacking Midfield,445.91666,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138949,Ayoub Boucheta,FB,FB,1.0,98.75,Left Back,1453.0,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+140887,Haytham El Bahja,CF,CF,0.9460912941566768,151.783336,Left Center Forward; Left Center Midfield,1497.5667,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+138973,Saad Ait Khorsa,UNKNOWN,UNKNOWN,0.0,0.0,,854.5833,,False,available_population_recomputed_or_reused_from_role_resolution
+139559,Hamza Hamiani Akbi,UNKNOWN,UNKNOWN,0.0,0.0,,1688.1334,,False,available_population_recomputed_or_reused_from_role_resolution
+523318,Younes El Khafi,FB,FB,1.0,96.683334,Left Back,1192.4167,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+26404,Guido Rodríguez,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+7797,Rodrigo Javier De Paul,MULTI_ROLE,MID,0.5082085561592928,130.51666,Right Defensive Midfield; Right Midfield; Right Center Midfield,,,False,available_population_recomputed_or_reused_from_role_resolution
+143452,Mohamed Ayman Sadil,UNKNOWN,UNKNOWN,0.0,0.0,,1223.8167,,False,available_population_recomputed_or_reused_from_role_resolution
+16308,Leandro Daniel Paredes,MID,MID,1.0,29.166666,Left Center Midfield; Center Defensive Midfield; Right Defensive Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+134249,Adam Ennaffati,WINGER,WINGER,0.8792837203210192,102.96667,Left Midfield; Right Center Forward,1201.3667,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+21573,Mohamed Rayhi,WINGER,WINGER,1.0,61.033333,Left Wing,566.6167,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+138982,Jalal Tachtach,UNKNOWN,UNKNOWN,0.0,0.0,Center Defensive Midfield,1185.7333,,False,available_population_recomputed_or_reused_from_role_resolution
+149135,Moses Orkuma,MID,MID,1.0,83.85,Center Defensive Midfield,172.13333,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+140872,Mohamed Rabie Hrimat,MID,MID,1.0,98.11667,Left Defensive Midfield,1687.5834,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+6196,Yerry Fernando Mina González,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+523299,Youness Noussir,FB,FB,1.0,98.11667,Right Back,807.06665,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+5678,Jefferson Andrés Lerma Solís,MID,MID,1.0,111.05,Center Defensive Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+409301,Jawad Ghabra,CF,CF,0.7829177100559563,137.733334,Right Center Forward; Left Center Midfield; Center Forward,1463.6833,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+139554,Abdoulaye Diarra,MULTI_ROLE,MID,0.5079926928140779,177.416664,Left Center Midfield; Left Wing; Center Attacking Midfield,177.41666,,False,available_population_recomputed_or_reused_from_role_resolution
+138918,Marwan Louadni,CB,CB,1.0,98.11667,Right Center Back,1607.0668,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+442292,Abdellatif El Bajjani,MID,MID,1.0,112.46667,Center Defensive Midfield,1764.4001,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+139555,Aymane Majid,GK,GK,1.0,96.1,Goalkeeper,1386.4,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+151743,Mohamed Al Makahasi,MID,MID,1.0,102.96667,Right Center Midfield; Right Defensive Midfield,1844.75,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+313277,Mohamed Chemlal,MID,MID,1.0,31.85,Left Center Midfield,462.78336,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+46646,José Dembi,MID,MID,1.0,104.95,Center Defensive Midfield; Left Center Midfield,703.9167,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+523296,Youssef Legnibi,UNKNOWN,UNKNOWN,0.0,0.0,,466.0,,False,available_population_recomputed_or_reused_from_role_resolution
+7242,Ange-Freddy Plumain,WINGER,WINGER,1.0,101.183334,Left Wing,544.25,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+503286,Mehdi Balouk,CF,CF,1.0,68.933334,Center Forward,1433.7333,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+522354,Akram El Hamdaoui,CB,CB,1.0,47.633335,Left Center Back,58.11667,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+314452,Zouhair Marour,CB,CB,1.0,98.11667,Left Center Back,2187.6167,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+27166,Álvaro David Montero Perales,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+21648,Anas Tahiri,MID,MID,1.0,31.833334,Left Defensive Midfield; Center Attacking Midfield,1222.9333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+312935,Amine Azri,WINGER,WINGER,0.7320234915628229,63.333332,Right Wing; Right Midfield; Right Defensive Midfield,831.3667,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+138872,Oussama Mahrous,MID,MID,1.0,206.68333,Right Defensive Midfield; Center Defensive Midfield,946.41675,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+406864,Hamza Malki,FB,FB,1.0,96.1,Left Back,1218.2834,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138827,Achraf El Idrissi,MID,MID,1.0,31.783333,Center Attacking Midfield,874.5167,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+442286,Oussama Daoui,FB,FB,1.0,96.1,Right Back,1507.8333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+34952,Soufyan Ahannach,WINGER,WINGER,0.846838181994749,80.98333,Left Wing; Right Center Midfield,1648.5166,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+28266,Rafael Santos Borré Maury,CF,CF,1.0,41.583332,Right Center Forward,,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+140867,Ismail Khafi,CF,CF,1.0,95.73332999999998,Center Forward,1004.94995,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+523293,Nassim Azzoubairi,FB,FB,1.0,89.0,Left Back,1764.2832,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+135851,Augusto de Jesus Corte Real Carneiro,FB,FB,1.0,86.433334,Left Back,1209.55,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+139572,Amine El Ouaad,GK,GK,1.0,190.1,Goalkeeper,2078.9502,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+407665,Soufiane Jazouli,WINGER,WINGER,1.0,50.6,Left Wing,140.8,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+523312,Brahim Mansouri,WINGER,WINGER,0.9862628199920874,29.416666,Left Center Midfield; Left Wing,1587.7167,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+143504,Oussama Lamlaoui,CF,CF,1.0,149.899994,Center Forward,813.4167,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+3032,Zinédine Machach,MULTI_ROLE,MID,0.6422842209045192,74.950001,Right Center Midfield; Left Center Forward; Right Midfield,624.0833,,False,available_population_recomputed_or_reused_from_role_resolution
+6725,Zakaria Bakkali,MULTI_ROLE,FB,0.6564009544782263,27.600001,Center Back; Right Back; Right Wing Back,241.6,,False,available_population_recomputed_or_reused_from_role_resolution
+314466,Mohamed Saoud,CB,CB,1.0,211.93333,Center Back; Right Center Back; Left Center Back,2195.433,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+207378,Younes Najjari,UNKNOWN,UNKNOWN,0.0,0.0,Left Center Forward,119.55,,False,available_population_recomputed_or_reused_from_role_resolution
+207378,Younes Najjari,UNKNOWN,UNKNOWN,0.0,0.0,Left Center Forward,731.4666,,False,available_population_recomputed_or_reused_from_role_resolution
+135202,Walid Sabbar,MID,MID,1.0,103.8,Left Defensive Midfield,629.5667,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+225437,Stephane Aziz Ki,MID,MID,1.0,61.016666,Center Attacking Midfield,371.68335,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+139018,Zouheir El-Moutaraji,UNKNOWN,UNKNOWN,0.0,0.0,,251.66669,,False,available_population_recomputed_or_reused_from_role_resolution
+139011,Ahmed Reda Tagnaouti,GK,GK,1.0,98.11667,Goalkeeper,1502.3833,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+3313,Giovani Lo Celso,MID,MID,1.0,28.666666,Left Center Midfield; Left Defensive Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+139562,Abdelkarim Baadi,UNKNOWN,UNKNOWN,0.0,0.0,Right Back,409.4167,,False,available_population_recomputed_or_reused_from_role_resolution
+28728,Lucas Martínez Quarta,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+138876,Hamza Khaba,CF,CF,1.0,73.933334,Left Center Forward; Right Center Forward; Center Forward,808.81665,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+3494,Davinson Sánchez Mina,CB,CB,1.0,130.51666,Right Center Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+46648,Marwane Elaz,WINGER,WINGER,1.0,53.55,Left Wing; Left Midfield,258.01666,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+477680,Hamza Saoud,MID,MID,1.0,37.983334,Right Defensive Midfield,1441.9332,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+141318,Khalid Kbiri Alaoui,UNKNOWN,UNKNOWN,0.0,0.0,,100.26667,,False,available_population_recomputed_or_reused_from_role_resolution
+10689,Sabir Bougrine,MID,MID,1.0,95.75,Left Center Midfield,1519.933,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138867,Marouane Bessak,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+16208,Arthur Kevin Yamga,WINGER,WINGER,1.0,112.46667,Left Wing; Left Midfield,908.2999,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+141254,Hamza Afsal,MID,MID,1.0,18.85,Center Attacking Midfield; Left Defensive Midfield; Right Defensive Midfield,982.0499,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+144436,Anas Serrhat,MID,MID,1.0,102.96667,Right Defensive Midfield,2207.3833,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138877,Saleh Al Sellami,WINGER,WINGER,0.8615495205071226,74.883334,Left Midfield; Left Center Midfield,529.1166,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+381935,Ismail Mihrab,WINGER,WINGER,0.9023313672411428,146.45,Right Midfield; Left Midfield; Right Wing,1046.0,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+138898,Ahmed Chentouf,MID,MID,1.0,19.4,Right Defensive Midfield; Left Defensive Midfield,252.36667,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+442093,Yassine Fatine,CB,CB,1.0,96.1,Left Center Back,1008.3,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+36951,Babacar Niasse,GK,GK,1.0,96.1,Goalkeeper,2050.4001,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+9253,Moussa Koné,MULTI_ROLE,CF,0.5118090300290367,74.266666,Center Forward; Center Attacking Midfield,1023.4832,,False,available_population_recomputed_or_reused_from_role_resolution
+28263,Gonzalo Ariel Montiel,FB,FB,1.0,72.35,Right Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+202502,Soulaimane El Amrani,CB,CB,1.0,104.95,Right Center Back,1117.3333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+139004,Zakaria Bahrou,CF,CF,1.0,74.85,Center Forward,510.88336,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+8861,Bart Meijers,CB,CB,0.9138431278098909,103.8,Left Center Back; Left Back,320.90002,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+27158,Luis Fernando Díaz Marulanda,CF,CF,1.0,111.05,Left Center Forward,,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+152015,Zakaria Kiani,FB,FB,1.0,125.31667,Right Wing Back; Right Back,2197.05,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+409303,Faraji Karmoune,CB,CB,0.938321722097892,216.28333000000003,Right Center Back; Right Back,1912.9167,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+407852,Abdessamad Mahir,MID,MID,1.0,102.96667,Left Defensive Midfield,2116.4497,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138865,Mouhcine Boumlik,CB,CB,1.0,46.083332000000006,Left Center Back,81.63333,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+139566,Youssef Elfahli,CF,CF,0.7449330815378602,98.11667,Right Center Forward; Left Center Forward; Right Wing,1451.0833,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+139571,Hamza Regragui,UNKNOWN,UNKNOWN,0.0,0.0,,1412.7666,,False,available_population_recomputed_or_reused_from_role_resolution
+523288,Abdelali Khouch,FB,FB,1.0,9.35,Left Back,543.6667,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+30155,Bilal Ould-Chikh,WINGER,WINGER,1.0,34.116665,Right Midfield,457.43335,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+380596,Alí El Harrak El Harrak,MULTI_ROLE,CF,0.592177384519994,102.96667,Center Forward; Left Wing; Right Wing,952.8,,False,available_population_recomputed_or_reused_from_role_resolution
+524000,Ahmed Aboulfath,WINGER,WINGER,1.0,21.583334,Right Midfield,150.95,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+11456,Lautaro Javier Martínez,UNKNOWN,UNKNOWN,0.0,0.0,Center Forward,,,False,available_population_recomputed_or_reused_from_role_resolution
+138873,Abdelghafour Lamirat,MID,MID,1.0,80.88333,Right Defensive Midfield,1501.45,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+143160,Anouar Tarkhatt,CB,CB,0.7303634168901153,127.949997,Right Center Back; Center Back; Right Center Midfield,323.96667,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+27277,Jhon Adolfo Arias Andrade,MID,MID,1.0,111.05,Left Center Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+313287,Redouane Ait Lemkadem,FB,FB,1.0,109.3,Left Back,2003.1166,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+523311,Anas Jabroun,WINGER,WINGER,0.9901865809451248,29.316668000000004,Center Forward; Right Wing,215.59999,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+157113,Badr Gaddarine,CB,CB,0.7097440973536348,211.93333,Left Center Back; Left Wing Back; Left Back,1892.25,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+139023,Amine Aboulfath,CB,CB,1.0,103.8,Right Center Back; Left Center Back,1608.4166,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+313283,Tahar Ahmed Madeira El Khalej,CB,CB,1.0,109.3,Left Center Back,1015.96655,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+131244,Ismaël Kandouss,CB,CB,1.0,199.566664,Right Center Back,2149.25,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+523996,Fred Duval Ngoma,MID,MID,0.9163895031625128,175.65,Left Defensive Midfield; Center Defensive Midfield; Right Center Midfield,1765.4167,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+313974,Mohamed El Abdi,FB,FB,0.7389538357039722,179.43333,Left Back; Left Center Back,749.6667,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+7183,Moctar Sidi El Hacen El Ide,MID,MID,1.0,96.1,Right Defensive Midfield,1722.7499,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+199612,Abdallah Boukhanfer,UNKNOWN,UNKNOWN,0.0,0.0,,70.26667,,False,available_population_recomputed_or_reused_from_role_resolution
+254035,Kamal Bilal,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+27768,Lisandro Martínez,CB,CB,1.0,130.51666,Left Center Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+442094,Soufiane Abaaziz,UNKNOWN,UNKNOWN,0.0,0.0,,1388.0836,,False,available_population_recomputed_or_reused_from_role_resolution
+312936,Hamza Hannouri,CF,CF,1.0,103.8,Center Forward,1161.1166,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+138972,Mahdi Benabid,GK,GK,1.0,103.8,Goalkeeper,2228.7834,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+313281,Ayoub El Khayati,UNKNOWN,UNKNOWN,0.0,0.0,,193.06665,,False,available_population_recomputed_or_reused_from_role_resolution
+523294,Ilyass Badri,UNKNOWN,UNKNOWN,0.0,0.0,,642.3667,,False,available_population_recomputed_or_reused_from_role_resolution
+312410,Anass Nouader,UNKNOWN,UNKNOWN,0.0,0.0,,734.19995,,False,available_population_recomputed_or_reused_from_role_resolution
+138956,Anas Bach,FB,FB,1.0,98.11667,Right Back,1963.4335,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+407207,Ennaama El Bellali,MID,MID,1.0,144.06667,Left Defensive Midfield; Right Defensive Midfield; Center Defensive Midfield,1060.2168,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138990,Yassine Marsile,UNKNOWN,UNKNOWN,0.0,0.0,,866.3,,False,available_population_recomputed_or_reused_from_role_resolution
+138927,Saad El Morsli,FB,FB,1.0,216.28333,Left Back; Left Wing Back,1579.6667,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138895,Abdelfattah Hadraf,WINGER,WINGER,1.0,10.55,Right Midfield,1100.0166,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+144435,Amine Farhane,UNKNOWN,UNKNOWN,0.0,0.0,,398.6167,,False,available_population_recomputed_or_reused_from_role_resolution
+419744,Driss El Jabali,CB,CB,1.0,112.46667,Right Center Back,1346.0168,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+478936,Hafid Id Said,UNKNOWN,UNKNOWN,0.0,0.0,,28.733334,,False,available_population_recomputed_or_reused_from_role_resolution
+20687,Nicolás Iván González,WINGER,WINGER,0.9881151652237488,63.633335,Right Center Forward; Left Midfield; Left Wing,,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+29201,Nahuel Molina Lucero,FB,FB,1.0,58.166668,Right Back; Right Wing Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+523319,Omar Ouddah,MID,MID,1.0,58.7,Right Defensive Midfield,92.583336,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+20572,Cristian Gabriel Romero,CB,CB,1.0,130.51666,Right Center Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+363450,Youssef Riani,MULTI_ROLE,CF,0.5582723943485156,145.866668,Center Forward; Left Center Forward; Center Attacking Midfield,1049.4667,,False,available_population_recomputed_or_reused_from_role_resolution
+28723,Jorge Andrés Carrascal Guardo,UNKNOWN,UNKNOWN,0.0,0.0,Left Center Midfield,,,False,available_population_recomputed_or_reused_from_role_resolution
+276342,Imad Askar,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+18855,Jhon Janer Lucumí Bonilla,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+139541,Ismael Benktib,UNKNOWN,UNKNOWN,0.0,0.0,,1428.8999,,False,available_population_recomputed_or_reused_from_role_resolution
+323979,Zakaria Fatihi,WINGER,WINGER,1.0,16.716667,Left Midfield,530.19995,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+362445,Badreddine Abyir,GK,GK,1.0,104.95,Goalkeeper,2208.4167,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+338916,Johnstone Omurwa,CB,CB,1.0,84.1,Left Center Back,1145.9666,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+143505,Mohamed Morabit,MID,MID,1.0,124.599995,Center Attacking Midfield; Right Center Midfield,533.38336,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138966,Youssef Belammari,FB,FB,1.0,102.96667,Left Back,728.5,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138945,Mohamed Boulacsout,FB,FB,1.0,95.73333,Right Back,1667.3833,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+477681,Brahim Ait Hammou,WINGER,WINGER,1.0,46.083332000000006,Right Wing,354.1667,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+28268,Exequiel Alejandro Palacios,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+139574,Mohamed Bentarcha,UNKNOWN,UNKNOWN,0.0,0.0,,1579.2,,False,available_population_recomputed_or_reused_from_role_resolution
+477679,Redouane Oubidar,MID,MID,1.0,96.683334,Left Defensive Midfield,1254.8667,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+203027,Walid Rhailouf,MID,MID,0.8810001010899949,162.733334,Right Defensive Midfield; Right Midfield; Center Defensive Midfield,384.56668,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+203027,Walid Rhailouf,MID,MID,0.8810001010899949,162.733334,Right Defensive Midfield; Right Midfield; Center Defensive Midfield,620.25,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138862,Abderrahmane Kassak,MULTI_ROLE,MID,0.6527559984725253,117.016665,Center Attacking Midfield; Left Midfield; Left Center Forward,380.15,,False,available_population_recomputed_or_reused_from_role_resolution
+138862,Abderrahmane Kassak,MULTI_ROLE,MID,0.6527559984725253,117.016665,Center Attacking Midfield; Left Midfield; Left Center Forward,1027.6167,,False,available_population_recomputed_or_reused_from_role_resolution
+523287,Ismail Sayad,GK,GK,1.0,98.11667,Goalkeeper,1163.6832,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+27886,Alexis Mac Allister,MID,MID,0.8323602959196813,101.833336,Left Midfield; Left Defensive Midfield; Left Center Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+522352,Hamza Fassoukh,FB,FB,1.0,206.68333,Right Back; Left Back,1321.8834,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+139549,Hamza El Janati,MULTI_ROLE,MID,0.6415662609919704,105.133334,Center Attacking Midfield; Left Back; Right Midfield,1405.0834,,False,available_population_recomputed_or_reused_from_role_resolution
+138860,Youssef Michte,MID,MID,1.0,89.316666,Left Defensive Midfield,1534.3501,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+81364,Euclides da Silva Cabral,FB,FB,1.0,79.433334,Right Back,1706.5833,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+142789,Oussama Soukhane,FB,FB,1.0,102.96667,Left Back,1879.2666,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+195016,Mouad Mouchtanim,MID,MID,1.0,64.316666,Center Attacking Midfield,704.21655,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+7550,Mounir Chouiar,WINGER,WINGER,1.0,146.0,Left Wing; Left Midfield,1954.4667,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+138983,Zine Eddine Derrag,MID,MID,1.0,98.11667,Right Defensive Midfield,1000.7,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138957,Youssef Limouri,CB,CB,1.0,96.1,Right Center Back,521.18335,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+363239,Bilal Soufi,CB,CB,1.0,96.316666,Right Center Back,1606.9667,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+28567,Carlos Eccehomo Cuesta Figueroa,CB,CB,1.0,130.51666,Left Center Back,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+314460,Ayoub Bouaadli,MID,MID,1.0,68.933334,Left Center Midfield,178.63333,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138958,Mouad Bahsain,CB,CB,1.0,102.96667,Left Center Back,1506.3167,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138958,Mouad Bahsain,CB,CB,1.0,102.96667,Left Center Back,515.7833,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+387245,Anass Eddaou,WINGER,WINGER,1.0,20.966667,Left Wing,691.01666,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+442926,Ousmane Diallo,FB,FB,1.0,112.46667,Left Back,534.3167,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+334695,Mohamed El Badaoui,UNKNOWN,UNKNOWN,0.0,0.0,,58.7,,False,available_population_recomputed_or_reused_from_role_resolution
+334695,Mohamed El Badaoui,UNKNOWN,UNKNOWN,0.0,0.0,,480.63333,,False,available_population_recomputed_or_reused_from_role_resolution
+477688,Ayoub El Khaffi,MID,MID,1.0,6.9166665,Left Defensive Midfield,546.08325,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+522350,Mohamed Jemjami,GK,GK,1.0,206.68333,Goalkeeper,1812.0667,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+16184,Luis Fernando Sinisterra Lucumí,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+314456,Hilal Ferdaoussi,UNKNOWN,UNKNOWN,0.0,0.0,,881.2833,,False,available_population_recomputed_or_reused_from_role_resolution
+313280,André Yassine Madeira El Khalej,CB,CB,1.0,109.3,Right Center Back,147.75,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+312938,Yassine Lamine,WINGER,WINGER,1.0,64.03333,Left Wing,477.31668,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+178342,Ettayb Boukhriss,FB,FB,1.0,46.083332,Right Back,1045.5667,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+199611,Youssef Mehri,WINGER,WINGER,1.0,157.61667,Right Wing; Left Wing; Right Midfield,1731.6167,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+194914,Chouaib Faidi,WINGER,WINGER,1.0,25.466667,Right Wing; Left Wing,539.68335,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+523998,Zakaria Aiada,FB,FB,1.0,109.3,Right Back,241.9,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+142086,Oussama Hafari,UNKNOWN,UNKNOWN,0.0,0.0,,344.5,,False,available_population_recomputed_or_reused_from_role_resolution
+140874,Reda Slim,WINGER,WINGER,1.0,24.183332,Right Wing,1318.4001,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+314451,Houdaifa El Mahasni,FB,FB,1.0,78.51667,Right Back,2082.3667,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+523308,Adil Khalloufi,MID,MID,1.0,98.11667,Center Defensive Midfield,2093.65,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+477678,Cheick Keita,CB,CB,1.0,50.6,Left Center Back,1643.9834,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+139017,Salah-eddine Benyachou,WINGER,WINGER,1.0,66.36667,Left Wing,1056.6665,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+141741,Oussama Al Aiz,FB,FB,0.8010229180766905,86.99999700000001,Right Wing Back; Left Back; Right Center Back,255.23334,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138989,Mohamed Ferni,GK,GK,1.0,112.46667,Goalkeeper,511.71664,600.0,False,available_population_recomputed_or_reused_from_role_resolution
+405342,Guilherme Ferreira de Oliveira,FB,FB,1.0,5.05,Left Back; Right Center Back,565.7833,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+524392,Romuald Dacosta,CF,CF,1.0,80.03333,Center Forward,1442.6,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+136023,Rodrigue Kossi Fiogbé,FB,FB,1.0,26.25,Right Back,417.11667,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+332384,Ismail Al Alami,CB,CB,1.0,27.483334,Left Center Back,314.73334,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+179384,Bouchaib Arrassi,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+523317,Ismail Soubai,CB,CB,1.0,96.683334,Right Center Back,519.9167,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+140876,Mohamed Moufid,FB,FB,1.0,103.8,Right Back,1725.5333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+442098,Khalid Baba,WINGER,WINGER,1.0,96.1,Right Wing,96.88333,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+442098,Khalid Baba,WINGER,WINGER,1.0,96.1,Right Wing,714.0,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+29560,Julián Álvarez,CF,CF,1.0,101.833336,Left Center Forward; Center Forward,,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+144434,Ismail Moutaraji,MID,MID,1.0,12.05,Center Attacking Midfield,389.0833,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+163983,Aymane El Aouani,UNKNOWN,UNKNOWN,0.0,0.0,,192.68333,,False,available_population_recomputed_or_reused_from_role_resolution
+139563,Ayoub Khairi,MULTI_ROLE,FB,0.5934323597586808,85.266668,Right Back; Left Defensive Midfield,1302.0498,,False,available_population_recomputed_or_reused_from_role_resolution
+200507,Abderrahmane Kernane,GK,GK,1.0,216.28333,Goalkeeper,216.28333,600.0,False,available_population_recomputed_or_reused_from_role_resolution
+406269,Danilson Gomes Tavares,MID,MID,1.0,69.86667,Center Defensive Midfield,361.73334,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+523290,Achraf Zine,CB,CB,1.0,98.11667,Right Center Back,1219.8333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+138910,Jamal Ech-Chammakh,FB,FB,1.0,11.816667,Left Back,928.38336,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+140871,Khalid Ait Ouarkhane,MULTI_ROLE,WINGER,0.5463798590623272,86.433334,Left Midfield; Right Midfield; Center Attacking Midfield,1752.3668,,False,available_population_recomputed_or_reused_from_role_resolution
+442724,Fallou Formose Mendy,UNKNOWN,UNKNOWN,0.0,0.0,,1384.5332,,False,available_population_recomputed_or_reused_from_role_resolution
+523309,Jalal-Eddine El Khfiyef,WINGER,WINGER,1.0,68.933334,Right Wing,350.0,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+523309,Jalal-Eddine El Khfiyef,WINGER,WINGER,1.0,68.933334,Right Wing,247.01666,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+212929,Hassan Doughmi,UNKNOWN,UNKNOWN,0.0,0.0,,961.14996,,False,available_population_recomputed_or_reused_from_role_resolution
+49395,Richard Rios Montoya,MID,MID,1.0,89.98333,Right Center Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138843,Abdelilah Madkour,FB,FB,1.0,106.25,Right Back,668.6,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138843,Abdelilah Madkour,FB,FB,1.0,106.25,Right Back,607.7166,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+132614,Walid Nassi Ouled Bentle,WINGER,WINGER,1.0,22.9,Right Wing,1031.5333,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+179311,Imad Riahi,WINGER,WINGER,1.0,13.766666,Left Wing,908.3334,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+409762,Amine El Maswab,UNKNOWN,UNKNOWN,0.0,0.0,,58.666664,,False,available_population_recomputed_or_reused_from_role_resolution
+348651,Reda Hajji,UNKNOWN,UNKNOWN,0.0,0.0,,131.68333,,False,available_population_recomputed_or_reused_from_role_resolution
+523997,Karim L'Koucha,WINGER,WINGER,0.8034157646221083,86.933335,Right Wing; Center Attacking Midfield; Right Midfield,93.033325,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+523997,Karim L'Koucha,WINGER,WINGER,0.8034157646221083,86.933335,Right Wing; Center Attacking Midfield; Right Midfield,249.78334,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+194915,Hamza Janan Allah,UNKNOWN,UNKNOWN,0.0,0.0,,1547.0498,,False,available_population_recomputed_or_reused_from_role_resolution
+60138,Kevin Duvan Castaño Gil,MID,MID,1.0,41.533333,Right Center Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+138871,Karim El Bounagat,CB,CB,1.0,81.7,Left Center Back,2001.0168,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+31844,Mohamed Bouchouari,UNKNOWN,UNKNOWN,0.0,0.0,,449.21667,,False,available_population_recomputed_or_reused_from_role_resolution
+138950,Mehdi Harrar,GK,GK,1.0,102.96667,Goalkeeper,2133.3833,600.0,True,available_population_recomputed_or_reused_from_role_resolution
+445163,Ayoub Maamouri,WINGER,WINGER,1.0,68.85,Right Midfield,414.5333,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+524246,Youness El Kaabi,CF,CF,1.0,19.266666,Right Center Forward,531.85,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+460266,Youness Dahmani,WINGER,WINGER,1.0,96.36667,Left Midfield,1988.8333,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+524512,Reda Ait Boughima,CB,CB,1.0,16.633333,Right Center Back,1352.4501,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+389294,Nouh Mohamed El Abd,UNKNOWN,UNKNOWN,0.0,0.0,,410.6667,,False,available_population_recomputed_or_reused_from_role_resolution
+522346,Naoufal Ait Oubna,UNKNOWN,UNKNOWN,0.0,0.0,,307.4,,False,available_population_recomputed_or_reused_from_role_resolution
+396748,Youssef Laghzal,GK,GK,0.8807579437036654,18.866667,Center Defensive Midfield; Goalkeeper,259.35,600.0,False,available_population_recomputed_or_reused_from_role_resolution
+335508,Paul Valère Bassène,CF,CF,1.0,49.666667,Center Forward; Right Center Forward; Left Center Forward,1335.15,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+38718,Enzo Fernandez,MID,MID,1.0,101.85,Left Defensive Midfield; Right Defensive Midfield; Center Defensive Midfield,,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+275341,Yazid Faffa,WINGER,WINGER,1.0,76.63333,Left Midfield,1653.1168,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+387043,Khalil Tamrani,UNKNOWN,UNKNOWN,0.0,0.0,,336.15,,False,available_population_recomputed_or_reused_from_role_resolution
+442293,Ayoub Lourhraz,UNKNOWN,UNKNOWN,0.0,0.0,,1061.2166,,False,available_population_recomputed_or_reused_from_role_resolution
+446355,Ishak Zidani,MID,MID,1.0,112.46667,Left Center Midfield,1066.95,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+407506,Oussama Nourdine,MID,MID,1.0,80.63333,Left Defensive Midfield,1983.2667,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+337496,Haytam Manaout,FB,FB,1.0,102.88333,Right Back,1040.9333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+195772,Anas Essafir,UNKNOWN,UNKNOWN,0.0,0.0,Right Wing Back,353.48334,,False,available_population_recomputed_or_reused_from_role_resolution
+138935,Rachid Ghanimi,GK,GK,1.0,102.96667,Goalkeeper,212.21667,600.0,False,available_population_recomputed_or_reused_from_role_resolution
+523973,Hamza Rafa,MID,MID,1.0,33.2,Left Defensive Midfield; Right Center Midfield,1053.5333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+524396,Yacoub El Id,UNKNOWN,UNKNOWN,0.0,0.0,,42.149998,,False,available_population_recomputed_or_reused_from_role_resolution
+138936,Abderrazak Ennakouss,CF,CF,1.0,16.616667,Center Forward,566.68335,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+138853,Abdellah Farah,WINGER,WINGER,1.0,19.683332,Left Midfield,599.13336,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+275058,Taha Al Achbili,UNKNOWN,UNKNOWN,0.0,0.0,,113.700005,,False,available_population_recomputed_or_reused_from_role_resolution
+139556,Bilal El Ouadghiri,CB,CB,1.0,134.133332,Right Center Back,1500.8333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+155705,Soufiane Benjdida,CF,CF,1.0,93.666664,Center Forward,2024.9166,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+139008,Amine Souane,WINGER,WINGER,1.0,78.51667,Right Wing,1390.2333,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+195301,Fahd Bendahmane,WINGER,WINGER,1.0,26.516666000000004,Right Wing,248.96667,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+38423,Siriki Sanogo,CF,CF,0.7191290701915524,41.083332,Center Forward; Left Wing Back,1153.7667,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+399158,Anas Mkhair,UNKNOWN,UNKNOWN,0.0,0.0,,981.35,,False,available_population_recomputed_or_reused_from_role_resolution
+31756,Soulyman Allouch,UNKNOWN,UNKNOWN,0.0,0.0,,1508.4834,,False,available_population_recomputed_or_reused_from_role_resolution
+313279,Mohamed Reda Asmama,UNKNOWN,UNKNOWN,0.0,0.0,,112.38334,,False,available_population_recomputed_or_reused_from_role_resolution
+442100,Marouane Ouhrou,FB,FB,1.0,112.46666999999998,Left Back,1878.4333,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+194809,Oussama Zemraoui,MID,MID,1.0,44.05,Center Attacking Midfield,392.74997,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+462167,Livty Kpolo,CF,CF,1.0,85.30000000000001,Center Forward; Left Center Forward; Right Center Forward,286.28333,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+524393,Zakaria Oubraim,UNKNOWN,UNKNOWN,0.0,0.0,,1085.4166,,False,available_population_recomputed_or_reused_from_role_resolution
+523298,Mohamed Ahayaoui,MID,MID,1.0,17.283333,Right Center Midfield,561.2167,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+434523,Benjamin Tanimu,UNKNOWN,UNKNOWN,0.0,0.0,Right Back,10.366667,,False,available_population_recomputed_or_reused_from_role_resolution
+360838,Zakaria Ami,MID,MID,1.0,79.433334,Right Center Midfield,220.83334,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+261620,Nadir Lougmani,FB,FB,0.9607411378335238,38.583332,Right Midfield; Right Back,1729.9835,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+399559,Youssef Dalouzi,UNKNOWN,UNKNOWN,0.0,0.0,Center Forward,108.350006,,False,available_population_recomputed_or_reused_from_role_resolution
+155347,Ayoub Mouloua,CF,CF,1.0,36.8,Center Forward,1735.4165,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+161352,Salaheddine Errahouli,MULTI_ROLE,WINGER,0.6240619107689405,142.133334,Right Wing; Right Center Midfield,1602.1334,,False,available_population_recomputed_or_reused_from_role_resolution
+144331,Oussama Raoui,FB,FB,1.0,24.45,Right Back,358.71667,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+477686,Mohamed Adjar,UNKNOWN,UNKNOWN,0.0,0.0,,926.7333,,False,available_population_recomputed_or_reused_from_role_resolution
+339278,Chemseddine Knaidil,FB,FB,1.0,96.1,Left Back,1806.9502,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+415853,Claude Gnolou,MID,MID,1.0,173.61666,Left Defensive Midfield,1884.1833,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+524511,Saad Nassik,MID,MID,1.0,74.85,Right Center Midfield,60.05,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+524511,Saad Nassik,MID,MID,1.0,74.85,Right Center Midfield,107.95,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+409131,Abdellatif Benkassou,WINGER,WINGER,1.0,72.13333,Right Wing,868.2999,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+399624,Mohamed Zinaf,WINGER,WINGER,1.0,8.1,Left Wing,633.01666,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+154668,Mamadou Lamine Camara,MID,MID,0.8980807536072257,199.566664,Right Defensive Midfield; Center Defensive Midfield; Left Center Back,408.34998,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+312413,Soulaimane El Bouchqali,MID,MID,0.977485604606526,11.983334,Left Back; Center Attacking Midfield,63.416668,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+312413,Soulaimane El Bouchqali,MID,MID,0.977485604606526,11.983334,Left Back; Center Attacking Midfield,1149.65,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+523321,Khalid Raiss,UNKNOWN,UNKNOWN,0.0,0.0,,35.35,,False,available_population_recomputed_or_reused_from_role_resolution
+183765,Mohammed Amine Essahel,MID,MID,1.0,39.433334,Center Defensive Midfield; Left Center Midfield; Left Defensive Midfield,569.1,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+314465,Yassine Amhih,CB,CB,1.0,102.96667,Right Center Back,523.3,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+405645,Othmane Chraibi,MID,MID,1.0,19.116667,Center Defensive Midfield; Left Defensive Midfield,874.8833,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+407555,James Monday Ajako,CB,CB,1.0,112.46667,Left Center Back,1626.8003,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+177972,Anas Nanah,UNKNOWN,UNKNOWN,0.0,0.0,,364.91666,,False,available_population_recomputed_or_reused_from_role_resolution
+524002,Salim Ghazzani,WINGER,WINGER,1.0,12.933333,Left Midfield,138.20001,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+524001,Nasreddine Moustaghfir,CF,CF,1.0,21.583334,Right Center Forward,1063.3833,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+422075,Zakary Lamgahez,CB,CB,1.0,104.95,Left Center Back,379.95,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+399198,Oussama Errahmani,UNKNOWN,UNKNOWN,0.0,0.0,,95.01667,,False,available_population_recomputed_or_reused_from_role_resolution
+435547,Abdallah Ziani,WINGER,WINGER,1.0,32.066666,Left Wing,1670.4166,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+524513,Amine Balich,UNKNOWN,UNKNOWN,0.0,0.0,,784.0833,,False,available_population_recomputed_or_reused_from_role_resolution
+450709,Joseph Bakasu       ,MID,MID,1.0,22.916666,Right Defensive Midfield,1569.6168,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+524510,Privat Djéssan Bi,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+60514,Yaser Esneider Asprilla Martínez,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+358748,Abdellah Ait Brahim,WINGER,WINGER,1.0,79.433334,Right Wing,1376.3834,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+30976,Jhon Jáder Durán Palacio,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+442155,Akram El Wahabi,UNKNOWN,UNKNOWN,0.0,0.0,,245.43333,,False,available_population_recomputed_or_reused_from_role_resolution
+477584,Ayoub Ait Khassou,UNKNOWN,UNKNOWN,0.0,0.0,,394.33337,,False,available_population_recomputed_or_reused_from_role_resolution
+449373,Marouane Oujeddou,WINGER,WINGER,1.0,112.46667,Right Midfield,1522.1,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+386460,Ismail Hrila,UNKNOWN,UNKNOWN,0.0,0.0,,1428.7832,,False,available_population_recomputed_or_reused_from_role_resolution
+462374,Soufiane Taher,UNKNOWN,UNKNOWN,0.0,0.0,,78.36667,,False,available_population_recomputed_or_reused_from_role_resolution
+524394,Abdoulaye Sanogo,UNKNOWN,UNKNOWN,0.0,0.0,,1597.6499,,False,available_population_recomputed_or_reused_from_role_resolution
+399493,Mehdi Mchakhchekh,UNKNOWN,UNKNOWN,0.0,0.0,,78.13333,,False,available_population_recomputed_or_reused_from_role_resolution
+451595,Louay El Moussaoui,UNKNOWN,UNKNOWN,0.0,0.0,,565.9167,,False,available_population_recomputed_or_reused_from_role_resolution
+426514,Yasser Ezzine,UNKNOWN,UNKNOWN,0.0,0.0,,295.14996,,False,available_population_recomputed_or_reused_from_role_resolution
+424979,Soufiane Tazi,MID,MID,1.0,78.51667,Center Attacking Midfield,1206.7834,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+443951,Youness Akharraz,MID,MID,1.0,88.7,Right Center Midfield,1331.9833,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+52129,Alejandro Garnacho Ferreyra,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+444003,Ilyass Motik,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+524003,Mohammed Es-Sahel,MID,MID,1.0,70.01667,Left Center Midfield,365.53333,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+523338,Salah Eddine Essalehy,WINGER,WINGER,1.0,46.083332000000006,Left Wing; Right Wing,46.083332,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+522342,Younes El Bahraoui,CF,CF,0.9964218739410374,120.183336,Center Attacking Midfield; Right Center Forward; Left Center Forward,969.3167,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+475296,Rayane Mahtou,UNKNOWN,UNKNOWN,0.0,0.0,,22.116667,,False,available_population_recomputed_or_reused_from_role_resolution
+148397,Valentin Carboni,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+426515,Oussama Ichou,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+449471,Ayman Tarrazi,MID,MID,1.0,26.25,Right Center Midfield,447.93335,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+399197,Abdesselam Lachhab,UNKNOWN,UNKNOWN,0.0,0.0,,,,False,available_population_recomputed_or_reused_from_role_resolution
+386309,Anas Makkaoui,UNKNOWN,UNKNOWN,0.0,0.0,,22.833334,,False,available_population_recomputed_or_reused_from_role_resolution
+425583,Mouad Dahak,UNKNOWN,UNKNOWN,0.0,0.0,Left Midfield,766.0,,False,available_population_recomputed_or_reused_from_role_resolution
+453613,Baba Bello Ilou,CF,CF,1.0,92.63333000000002,Center Forward,1744.35,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+477555,Adam Brika,WINGER,WINGER,1.0,18.8,Right Wing; Right Midfield,1282.0334,750.0,True,available_population_recomputed_or_reused_from_role_resolution
+522357,Mohamed Adam Benhita,CB,CB,1.0,206.68333,Right Center Back,439.0833,900.0,False,available_population_recomputed_or_reused_from_role_resolution
+416299,Mohamed Amine Katiba,CF,CF,1.0,12.566667,Center Forward,403.25,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+463014,Moussa Koté,UNKNOWN,UNKNOWN,0.0,0.0,,172.1,,False,available_population_recomputed_or_reused_from_role_resolution
+416303,El Mahdi Akoumi,MID,MID,0.8721556296649199,104.95,Left Center Midfield; Left Wing,1424.8833,900.0,True,available_population_recomputed_or_reused_from_role_resolution
+416307,Taha Benrhozil,UNKNOWN,UNKNOWN,0.0,0.0,,796.1333,,False,available_population_recomputed_or_reused_from_role_resolution
+393385,Nawfal Chninak,CF,CF,1.0,9.483334,Right Center Forward,19.316666,750.0,False,available_population_recomputed_or_reused_from_role_resolution
+522339,Souleymane Cissé,MULTI_ROLE,CF,0.4618138424821002,41.900000000000006,Right Midfield; Right Back; Center Forward,1148.5333,,False,available_population_recomputed_or_reused_from_role_resolution
+475118,Achraf Missou,UNKNOWN,UNKNOWN,0.0,0.0,,18.866667,,False,available_population_recomputed_or_reused_from_role_resolution
+522709,Taha Majni,UNKNOWN,UNKNOWN,0.0,0.0,,836.61664,,False,available_population_recomputed_or_reused_from_role_resolution
+523999,Zakaria Kessary,MID,MID,1.0,39.283333,Center Defensive Midfield; Right Defensive Midfield,688.55,900.0,False,available_population_recomputed_or_reused_from_role_resolution

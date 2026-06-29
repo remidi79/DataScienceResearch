@@ -1,0 +1,27 @@
+{
+  "experiment_id": "010",
+  "title": "DataPlatform StatsBomb Coverage Expansion & Reload Execution",
+  "generated_at": "2026-06-29T13:54:47.243059+00:00",
+  "source_root": "/home/platform/DataPlatform",
+  "target_root": "/home/platform/DataPlatform/tmp/master_data_warehouse_full",
+  "run_mode": "validate_target",
+  "source_discovery_count": 3035,
+  "mapped_datasets_count": 1,
+  "blocked_datasets_count": 10,
+  "target_readiness_result": "FAIL",
+  "experiment_009_validation_status": "PASS",
+  "production_coefficients_declared": false,
+  "production_candidate_bundle_generated": false,
+  "figures_generated": 7,
+  "next_command": "uv run python experiments/009_full_data_reload_orchestration.py --data-root /home/platform/DataPlatform/tmp/master_data_warehouse_full --run-mode validate_loaded_root",
+  "blockers": [
+    "competitions",
+    "seasons",
+    "matches",
+    "teams",
+    "player_match_rows",
+    "player_season_rows",
+    "events",
+    "lineups"
+  ]
+}

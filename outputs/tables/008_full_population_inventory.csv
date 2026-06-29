@@ -1,0 +1,8 @@
+dataset_name,path,row_count,unique_players,unique_players_alt,unique_teams,unique_team_names,unique_matches,unique_matches_alt,unique_competitions,unique_seasons,date_min,date_max,missing_key_fields,production_readiness_status
+player_match_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse/marts_v2/mart_statsbomb_player_match_stats_direct_v1.jsonl,350,295,0,18,18,11,0,1,1,,,,present
+player_season_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse/marts_v2/mart_statsbomb_player_season_stats_direct_v1.jsonl,489,473,0,16,16,0,0,1,1,,,,present
+team_match_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse/marts_v2/mart_statsbomb_team_match_stats_direct_v1.jsonl,20,0,0,16,16,10,0,1,1,,,,present
+team_season_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse/marts_v2/mart_statsbomb_team_season_stats_direct_v1.jsonl,16,0,0,16,16,0,0,1,1,,,,present
+silver_matches,/home/platform/DataPlatform/tmp/master_data_warehouse/silver/silver_matches.jsonl,11,0,0,0,0,0,11,1,1,2025-09-12,2025-09-16,match_date,present
+silver_lineups,/home/platform/DataPlatform/tmp/master_data_warehouse/silver/silver_lineups.jsonl,450,0,0,0,0,11,0,0,0,,,,present
+silver_events,/home/platform/DataPlatform/tmp/master_data_warehouse/silver/silver_events.jsonl,35082,0,0,0,18,11,0,1,1,,,,present

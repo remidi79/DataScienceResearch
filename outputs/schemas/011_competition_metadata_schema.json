@@ -1,0 +1,14 @@
+{
+  "dataset": "competition_metadata",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/competition_metadata/competition_metadata.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "competition_id",
+    "competition_name"
+  ],
+  "missing_fields": [
+    "competition_id",
+    "competition_name"
+  ],
+  "generated_at": "2026-06-29T13:53:54.013355+00:00"
+}

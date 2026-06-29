@@ -1,0 +1,14 @@
+{
+  "dataset": "silver_events",
+  "fields_detected": [],
+  "required_fields": [
+    "match_id",
+    "event_id",
+    "event_type"
+  ],
+  "missing_fields": [
+    "match_id",
+    "event_id",
+    "event_type"
+  ]
+}

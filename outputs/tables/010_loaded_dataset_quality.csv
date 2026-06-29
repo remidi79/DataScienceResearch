@@ -1,0 +1,12 @@
+dataset,row_count,null_counts_json,duplicate_count_sample,missing_fields,quality_status
+competition_metadata,0,{},0,competition_id,NOT_EXECUTED
+season_metadata,0,{},0,season_id;season_name;competition_id,NOT_EXECUTED
+silver_matches,0,{},0,provider_id;competition_id;season_id;match_date,NOT_EXECUTED
+silver_lineups,0,{},0,player_id;team_id,NOT_EXECUTED
+silver_events,0,{},0,match_id;type;team,NOT_EXECUTED
+player_match_stats_direct,0,{},0,statsbomb_player_id;team_id;competition_id;season_id;metrics,NOT_EXECUTED
+team_match_stats_direct,0,{},0,match_provider_id;metrics,NOT_EXECUTED
+player_season_stats_direct,0,{},0,statsbomb_player_id,NOT_EXECUTED
+team_season_stats_direct,0,{},0,,NOT_EXECUTED
+player_metadata,0,{},0,player_id,NOT_EXECUTED
+team_metadata,0,{},0,team_id;team_name,NOT_EXECUTED

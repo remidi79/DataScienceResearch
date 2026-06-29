@@ -1,0 +1,12 @@
+{
+  "dataset": "team_metadata",
+  "fields_detected": [],
+  "required_fields": [
+    "team_id",
+    "team_name"
+  ],
+  "missing_fields": [
+    "team_id",
+    "team_name"
+  ]
+}

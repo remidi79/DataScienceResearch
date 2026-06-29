@@ -1,0 +1,7 @@
+role,assigned_players,eligible_players,production_minimum,status
+GK,19,12,20,FAIL
+CB,44,25,50,FAIL
+FB,45,23,50,FAIL
+MID,77,34,50,FAIL
+WINGER,57,25,50,FAIL
+CF,37,22,50,FAIL

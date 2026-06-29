@@ -1,0 +1,3 @@
+# Gate command documented
+
+`uv run python experiments/009_full_data_reload_orchestration.py --data-root /home/platform/DataPlatform/tmp/master_data_warehouse_full --run-mode validate_loaded_root`

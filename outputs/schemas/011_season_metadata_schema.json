@@ -1,0 +1,16 @@
+{
+  "dataset": "season_metadata",
+  "path": "/home/platform/DataPlatform/tmp/master_data_warehouse_full/season_metadata/season_metadata.jsonl",
+  "fields_detected": [],
+  "required_fields": [
+    "season_id",
+    "season_name",
+    "competition_id"
+  ],
+  "missing_fields": [
+    "season_id",
+    "season_name",
+    "competition_id"
+  ],
+  "generated_at": "2026-06-29T13:53:54.013930+00:00"
+}

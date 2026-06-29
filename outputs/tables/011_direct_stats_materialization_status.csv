@@ -1,0 +1,5 @@
+dataset,status,notes
+player_match_stats_direct,missing_provider_endpoint,Do not fake provider-direct stats; execute only with licensed credentials
+team_match_stats_direct,missing_provider_endpoint,Do not fake provider-direct stats; execute only with licensed credentials
+player_season_stats_direct,missing_provider_endpoint,Do not fake provider-direct stats; execute only with licensed credentials
+team_season_stats_direct,missing_provider_endpoint,Do not fake provider-direct stats; execute only with licensed credentials

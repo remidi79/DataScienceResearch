@@ -1,0 +1,16 @@
+{
+  "dataset": "team_match_stats_direct",
+  "fields_detected": [],
+  "required_fields": [
+    "team_id",
+    "match_id",
+    "competition_id",
+    "season_id"
+  ],
+  "missing_fields": [
+    "team_id",
+    "match_id",
+    "competition_id",
+    "season_id"
+  ]
+}

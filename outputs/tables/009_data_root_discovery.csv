@@ -1,0 +1,12 @@
+dataset_name,path,file_count,row_count,columns,key_fields_available,missing_key_fields,date_range,competition_coverage,season_coverage,status
+player_match_stats_direct,,0,0,,,,,0,0,missing_or_empty
+team_match_stats_direct,,0,0,,,,,0,0,missing_or_empty
+player_season_stats_direct,,0,0,,,,,0,0,missing_or_empty
+team_season_stats_direct,,0,0,,,,,0,0,missing_or_empty
+silver_events,,0,0,,,,,0,0,missing_or_empty
+silver_lineups,,0,0,,,,,0,0,missing_or_empty
+silver_matches,,0,0,,,,,0,0,missing_or_empty
+competition_metadata,,0,0,,,,,0,0,missing_or_empty
+season_metadata,,0,0,,,,,0,0,missing_or_empty
+team_metadata,,0,0,,,,,0,0,missing_or_empty
+player_metadata,,0,0,,,,,0,0,missing_or_empty

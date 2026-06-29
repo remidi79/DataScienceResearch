@@ -1,0 +1,87 @@
+{
+  "matches": {
+    "required_fields": [
+      "match_id",
+      "competition_id",
+      "competition_name",
+      "season_id",
+      "season_name",
+      "match_date",
+      "home_team_id",
+      "away_team_id",
+      "home_team_name",
+      "away_team_name"
+    ]
+  },
+  "lineups": {
+    "required_fields": [
+      "match_id",
+      "player_id",
+      "player_name",
+      "team_id",
+      "team_name",
+      "position",
+      "start_time",
+      "end_time",
+      "minutes",
+      "lineup_role_evidence"
+    ]
+  },
+  "player_match_stats": {
+    "required_fields": [
+      "player_id",
+      "player_name",
+      "match_id",
+      "team_id",
+      "competition_id",
+      "season_id",
+      "minutes",
+      "metric_columns"
+    ]
+  },
+  "player_season_stats": {
+    "required_fields": [
+      "player_id",
+      "player_name",
+      "team_id",
+      "competition_id",
+      "season_id",
+      "minutes",
+      "metric_columns"
+    ]
+  },
+  "events": {
+    "required_fields": [
+      "match_id",
+      "event_id",
+      "event_type",
+      "player_id",
+      "team_id",
+      "possession",
+      "play_pattern",
+      "location",
+      "timestamp",
+      "obv_fields"
+    ]
+  },
+  "minimum_production_targets": {
+    "competitions": 3,
+    "seasons": 2,
+    "matches": 100,
+    "teams": 20,
+    "player_match_rows": 3000,
+    "player_season_rows": 300,
+    "events": 250000,
+    "lineups": 3000,
+    "outfield_eligible_players": 50,
+    "gk_eligible_players": 20
+  },
+  "role_targets": {
+    "GK": 20,
+    "CB": 50,
+    "FB": 50,
+    "MID": 50,
+    "WINGER": 50,
+    "CF": 50
+  }
+}
