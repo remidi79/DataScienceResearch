@@ -1,6 +1,21 @@
 {
   "dataset": "silver_matches",
-  "fields_detected": [],
+  "fields_detected": [
+    "away_score",
+    "away_team_name",
+    "away_team_provider_id",
+    "competition_id",
+    "fetched_at",
+    "home_score",
+    "home_team_name",
+    "home_team_provider_id",
+    "master_match_id",
+    "match_date",
+    "provider",
+    "provider_id",
+    "raw_payload_hash",
+    "season_id"
+  ],
   "required_fields": [
     "match_id",
     "competition_id",
@@ -8,9 +23,6 @@
     "match_date"
   ],
   "missing_fields": [
-    "match_id",
-    "competition_id",
-    "season_id",
-    "match_date"
+    "match_id"
   ]
 }

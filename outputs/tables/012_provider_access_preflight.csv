@@ -1,2 +1,11 @@
 check,status,detail
-provider_client_import,FAIL,ModuleNotFoundError
+provider_client_import,PASS,StatsBombApiClient importable
+credential_presence,PASS,values hidden
+provider_base_url,PASS,configured_or_default
+authentication_success,PASS,competitions endpoint returned payload
+competitions_endpoint_access,PASS,rows=143
+metadata_endpoint_access,PASS,competitions metadata available
+matches_endpoint_access,WARNING,validated during dry_run/execute selected plan
+events_endpoint_access,WARNING,validated during dry_run/execute selected plan
+lineups_endpoint_access,WARNING,validated during dry_run/execute selected plan
+direct_stats_endpoint_access,WARNING,validated during dry_run/execute selected plan

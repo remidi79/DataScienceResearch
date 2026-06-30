@@ -1,12 +1,1 @@
-dataset,row_count,status,null_counts_json,duplicate_count
-competition_metadata,0,not_executed,{},0
-season_metadata,0,not_executed,{},0
-silver_matches,0,not_executed,{},0
-silver_lineups,0,not_executed,{},0
-silver_events,0,not_executed,{},0
-player_match_stats_direct,0,not_executed,{},0
-team_match_stats_direct,0,not_executed,{},0
-player_season_stats_direct,0,not_executed,{},0
-team_season_stats_direct,0,not_executed,{},0
-player_metadata,0,not_executed,{},0
-team_metadata,0,not_executed,{},0
+

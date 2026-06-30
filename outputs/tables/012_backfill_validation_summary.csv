@@ -1,9 +1,9 @@
 dataset,row_count,missing_fields,status
 competition_metadata,0,competition_id;competition_name,BLOCKED
 season_metadata,0,season_id;season_name;competition_id,BLOCKED
-silver_matches,0,match_id;competition_id;season_id;match_date,BLOCKED
-silver_lineups,0,match_id;player_id;team_id,BLOCKED
-silver_events,0,match_id;event_id;event_type,BLOCKED
+silver_matches,41,match_id,BLOCKED
+silver_lineups,1449,match_id;player_id;team_id,BLOCKED
+silver_events,135212,match_id;event_id,BLOCKED
 player_match_stats_direct,0,player_id;match_id;team_id;competition_id;season_id,BLOCKED
 team_match_stats_direct,0,team_id;match_id;competition_id;season_id,BLOCKED
 player_season_stats_direct,0,player_id;competition_id;season_id,BLOCKED

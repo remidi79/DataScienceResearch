@@ -7,13 +7,13 @@ Licensed provider backfill execution and gate validation.
 Experiment 011 found credentials/coverage blockers.
 
 ## 3. Credentials preflight without exposing secrets
-missing. Values were not printed.
+detected. Values were not printed.
 
 ## 4. Provider access status
-BLOCKED_OR_FAIL.
+PASS.
 
 ## 5. Backfill coverage plan
-Selected competitions: 3; seasons: 1.
+Selected competitions: 77; seasons: 8.
 
 ## 6. Dry-run expected coverage
 See `012_dry_run_expected_coverage.csv`.

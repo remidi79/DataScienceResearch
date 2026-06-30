@@ -1,0 +1,160 @@
+Running licensed backfill...
+Selected Python runtime: python3
+{
+  "experiment_id": "012",
+  "title": "Licensed Provider Backfill Execution & Gate Validation",
+  "generated_at": "2026-06-30T00:05:56.665066+00:00",
+  "source_root": "/home/platform/DataPlatform",
+  "target_root": "/home/platform/DataPlatform/tmp/master_data_warehouse_full",
+  "run_mode": "credentials_preflight",
+  "credentials_status": "detected",
+  "provider_access_status": "PASS",
+  "selected_competitions": 3,
+  "selected_seasons": 1,
+  "execute_backfill_run": false,
+  "target_readiness_gate_result": "FAIL",
+  "experiment_011_validation_result": "not_run_in_mode",
+  "experiment_010_validation_result": "not_run_in_mode",
+  "experiment_009_validation_result": "not_run_in_mode",
+  "production_coefficients_declared": false,
+  "production_bundle_generated": false,
+  "fake_data_created": false,
+  "unauthorized_scraping": false,
+  "figures_generated": 10,
+  "next_command": "cd /home/platform/DataScienceResearch && uv run python experiments/012_licensed_provider_backfill.py --source-root /home/platform/DataPlatform --target-root /home/platform/DataPlatform/tmp/master_data_warehouse_full --run-mode execute_backfill --resume",
+  "blockers": [
+    "competitions",
+    "seasons",
+    "matches",
+    "player_match_rows",
+    "player_season_rows",
+    "events",
+    "lineups",
+    "required_fields_present"
+  ]
+}
+{
+  "experiment_id": "012",
+  "title": "Licensed Provider Backfill Execution & Gate Validation",
+  "generated_at": "2026-06-30T00:06:07.607780+00:00",
+  "source_root": "/home/platform/DataPlatform",
+  "target_root": "/home/platform/DataPlatform/tmp/master_data_warehouse_full",
+  "run_mode": "provider_access_preflight",
+  "credentials_status": "detected",
+  "provider_access_status": "PASS",
+  "selected_competitions": 77,
+  "selected_seasons": 8,
+  "execute_backfill_run": false,
+  "target_readiness_gate_result": "FAIL",
+  "experiment_011_validation_result": "not_run_in_mode",
+  "experiment_010_validation_result": "not_run_in_mode",
+  "experiment_009_validation_result": "not_run_in_mode",
+  "production_coefficients_declared": false,
+  "production_bundle_generated": false,
+  "fake_data_created": false,
+  "unauthorized_scraping": false,
+  "figures_generated": 10,
+  "next_command": "cd /home/platform/DataScienceResearch && uv run python experiments/012_licensed_provider_backfill.py --source-root /home/platform/DataPlatform --target-root /home/platform/DataPlatform/tmp/master_data_warehouse_full --run-mode execute_backfill --resume",
+  "blockers": [
+    "competitions",
+    "seasons",
+    "matches",
+    "player_match_rows",
+    "player_season_rows",
+    "events",
+    "lineups",
+    "required_fields_present"
+  ]
+}
+{
+  "experiment_id": "012",
+  "title": "Licensed Provider Backfill Execution & Gate Validation",
+  "generated_at": "2026-06-30T00:06:18.321708+00:00",
+  "source_root": "/home/platform/DataPlatform",
+  "target_root": "/home/platform/DataPlatform/tmp/master_data_warehouse_full",
+  "run_mode": "plan_backfill",
+  "credentials_status": "detected",
+  "provider_access_status": "PASS",
+  "selected_competitions": 77,
+  "selected_seasons": 8,
+  "execute_backfill_run": false,
+  "target_readiness_gate_result": "FAIL",
+  "experiment_011_validation_result": "not_run_in_mode",
+  "experiment_010_validation_result": "not_run_in_mode",
+  "experiment_009_validation_result": "not_run_in_mode",
+  "production_coefficients_declared": false,
+  "production_bundle_generated": false,
+  "fake_data_created": false,
+  "unauthorized_scraping": false,
+  "figures_generated": 10,
+  "next_command": "cd /home/platform/DataScienceResearch && uv run python experiments/012_licensed_provider_backfill.py --source-root /home/platform/DataPlatform --target-root /home/platform/DataPlatform/tmp/master_data_warehouse_full --run-mode execute_backfill --resume",
+  "blockers": [
+    "competitions",
+    "seasons",
+    "matches",
+    "player_match_rows",
+    "player_season_rows",
+    "events",
+    "lineups",
+    "required_fields_present"
+  ]
+}
+{
+  "experiment_id": "012",
+  "title": "Licensed Provider Backfill Execution & Gate Validation",
+  "generated_at": "2026-06-30T00:06:28.681288+00:00",
+  "source_root": "/home/platform/DataPlatform",
+  "target_root": "/home/platform/DataPlatform/tmp/master_data_warehouse_full",
+  "run_mode": "dry_run_backfill",
+  "credentials_status": "detected",
+  "provider_access_status": "PASS",
+  "selected_competitions": 77,
+  "selected_seasons": 8,
+  "execute_backfill_run": false,
+  "target_readiness_gate_result": "FAIL",
+  "experiment_011_validation_result": "not_run_in_mode",
+  "experiment_010_validation_result": "not_run_in_mode",
+  "experiment_009_validation_result": "not_run_in_mode",
+  "production_coefficients_declared": false,
+  "production_bundle_generated": false,
+  "fake_data_created": false,
+  "unauthorized_scraping": false,
+  "figures_generated": 10,
+  "next_command": "cd /home/platform/DataScienceResearch && uv run python experiments/012_licensed_provider_backfill.py --source-root /home/platform/DataPlatform --target-root /home/platform/DataPlatform/tmp/master_data_warehouse_full --run-mode execute_backfill --resume",
+  "blockers": [
+    "competitions",
+    "seasons",
+    "matches",
+    "player_match_rows",
+    "player_season_rows",
+    "events",
+    "lineups",
+    "required_fields_present"
+  ]
+}
+Traceback (most recent call last):
+  File "/home/platform/DataScienceResearch/experiments/012_licensed_provider_backfill.py", line 424, in <module>
+    if __name__ == "__main__": main()
+                               ^^^^^^
+  File "/home/platform/DataScienceResearch/experiments/012_licensed_provider_backfill.py", line 416, in main
+    figs=figures(creds_df, access, plan, expcov, manifest, direct, schema, cov, gate, chain); write_notebook()
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/platform/DataScienceResearch/experiments/012_licensed_provider_backfill.py", line 364, in figures
+    plt.figure(figsize=(8,4)); sns.barplot(data=manifest, x="dataset", y="row_count"); plt.xticks(rotation=45); plt.title("012 backfilled dataset row counts"); save("012_backfilled_dataset_row_counts.png")
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/platform/DataScienceResearch/.venv/lib/python3.11/site-packages/seaborn/categorical.py", line 2341, in barplot
+    p = _CategoricalAggPlotter(
+        ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/platform/DataScienceResearch/.venv/lib/python3.11/site-packages/seaborn/categorical.py", line 67, in __init__
+    super().__init__(data=data, variables=variables)
+  File "/home/platform/DataScienceResearch/.venv/lib/python3.11/site-packages/seaborn/_base.py", line 634, in __init__
+    self.assign_variables(data, variables)
+  File "/home/platform/DataScienceResearch/.venv/lib/python3.11/site-packages/seaborn/_base.py", line 679, in assign_variables
+    plot_data = PlotData(data, variables)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/platform/DataScienceResearch/.venv/lib/python3.11/site-packages/seaborn/_core/data.py", line 58, in __init__
+    frame, names, ids = self._assign_variables(data, variables)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/platform/DataScienceResearch/.venv/lib/python3.11/site-packages/seaborn/_core/data.py", line 232, in _assign_variables
+    raise ValueError(err)
+ValueError: Could not interpret value `dataset` for `x`. An entry with this name does not appear in `data`.

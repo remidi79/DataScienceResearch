@@ -1,12 +1,1 @@
-dataset,path,row_count,status
-competition_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/competition_metadata/competition_metadata.jsonl,0,not_executed
-season_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/season_metadata/season_metadata.jsonl,0,not_executed
-silver_matches,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_matches.jsonl,0,not_executed
-silver_lineups,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_lineups.jsonl,0,not_executed
-silver_events,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_events.jsonl,0,not_executed
-player_match_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_player_match_stats_direct_v1.jsonl,0,not_executed
-team_match_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_team_match_stats_direct_v1.jsonl,0,not_executed
-player_season_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_player_season_stats_direct_v1.jsonl,0,not_executed
-team_season_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_team_season_stats_direct_v1.jsonl,0,not_executed
-player_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/player_metadata/player_metadata.jsonl,0,not_executed
-team_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/team_metadata/team_metadata.jsonl,0,not_executed
+
