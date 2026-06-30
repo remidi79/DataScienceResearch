@@ -1,10 +1,10 @@
 criterion,observed,required,status,reason
-competitions,0,3,FAIL,observed 0 below required 3
-seasons,0,2,FAIL,observed 0 below required 2
-matches,0,100,FAIL,observed 0 below required 100
-teams,0,20,FAIL,observed 0 below required 20
+competitions,1,3,FAIL,observed 1 below required 3
+seasons,1,2,FAIL,observed 1 below required 2
+matches,41,100,FAIL,observed 41 below required 100
+teams,47,20,PASS,
 player_match_rows,0,3000,FAIL,observed 0 below required 3000
 player_season_rows,0,300,FAIL,observed 0 below required 300
-events,0,250000,FAIL,observed 0 below required 250000
-lineups,0,3000,FAIL,observed 0 below required 3000
+events,135212,250000,FAIL,observed 135212 below required 250000
+lineups,1449,3000,FAIL,observed 1449 below required 3000
 required_fields_present,11,0,FAIL,schema failures

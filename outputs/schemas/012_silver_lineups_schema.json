@@ -1,6 +1,22 @@
 {
   "dataset": "silver_lineups",
-  "fields_detected": [],
+  "fields_detected": [
+    "birth_date",
+    "country_name",
+    "jersey_number",
+    "lineup_stats_json",
+    "match_provider_id",
+    "player_height",
+    "player_name",
+    "player_provider_id",
+    "player_weight",
+    "positions",
+    "positions_json",
+    "provider",
+    "raw_payload_hash",
+    "skills_json",
+    "team_provider_id"
+  ],
   "required_fields": [
     "match_id",
     "player_id",

@@ -1,0 +1,17 @@
+{
+  "match_id": "3970647",
+  "status": "PASS",
+  "counts": {
+    "competitions": 143,
+    "matches": 1,
+    "events": 2826,
+    "lineup_teams": 2,
+    "players": 36,
+    "teams": 2,
+    "three_sixty_frames": 0,
+    "player_match_stats": 31,
+    "player_season_stats": 2208,
+    "team_match_stats": 2,
+    "team_season_stats": 75
+  }
+}

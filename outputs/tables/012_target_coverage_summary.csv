@@ -1,9 +1,9 @@
 dataset,path,row_count,competitions,seasons,matches,teams,missing_fields
 competition_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/competition_metadata/competition_metadata.jsonl,0,0,0,0,0,competition_id;competition_name
 season_metadata,/home/platform/DataPlatform/tmp/master_data_warehouse_full/season_metadata/season_metadata.jsonl,0,0,0,0,0,season_id;season_name;competition_id
-silver_matches,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_matches.jsonl,0,0,0,0,0,match_id;competition_id;season_id;match_date
-silver_lineups,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_lineups.jsonl,0,0,0,0,0,match_id;player_id;team_id
-silver_events,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_events.jsonl,0,0,0,0,0,match_id;event_id;event_type
+silver_matches,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_matches.jsonl,41,1,1,41,33,match_id
+silver_lineups,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_lineups.jsonl,1449,0,0,41,47,match_id;player_id;team_id
+silver_events,/home/platform/DataPlatform/tmp/master_data_warehouse_full/silver/silver_events.jsonl,135212,1,1,41,47,match_id;event_id
 player_match_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_player_match_stats_direct_v1.jsonl,0,0,0,0,0,player_id;match_id;team_id;competition_id;season_id
 team_match_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_team_match_stats_direct_v1.jsonl,0,0,0,0,0,team_id;match_id;competition_id;season_id
 player_season_stats_direct,/home/platform/DataPlatform/tmp/master_data_warehouse_full/marts_v2/mart_statsbomb_player_season_stats_direct_v1.jsonl,0,0,0,0,0,player_id;competition_id;season_id
